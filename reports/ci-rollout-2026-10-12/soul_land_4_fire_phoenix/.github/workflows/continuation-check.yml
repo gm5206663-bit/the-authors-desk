@@ -1,0 +1,50 @@
+# CONTINUATION CHECK — the repo's own checker, on every push.
+#
+# Armed 2026-10-12, under the same rollout as the others: actions pinned to
+# SHAs, permissions contents: read, concurrency, job timeout.
+#
+# TRIGGER COVERS WHAT THE CHECKER READS.
+#
+# WHAT THIS DOES AND DOES NOT VERIFY — tools/perfect_continuation_skill_check.py — the repo's own check. The seven house gates are not run here; this is a private repo and its own gate is what is armed.
+
+name: continuation-check
+
+on:
+  push:
+    paths:
+      - 'chapters/**'
+      - 'tools/**'
+      - 'foundation/**'
+      - '.github/workflows/continuation-check.yml'
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'tools/**'
+      - 'foundation/**'
+      - '.github/workflows/continuation-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: continuation-check-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    name: perfect continuation skill check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+      - name: Perfect continuation skill check
+        run: python3 tools/perfect_continuation_skill_check.py

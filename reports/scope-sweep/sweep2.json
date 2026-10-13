@@ -1,0 +1,4666 @@
+{
+ "books": [
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/storyos_current_public_layer/published-site/soul_land_4",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "ad3fc8911e9f"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "f0c08ba83298"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "56ebb24ee3af"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "f68c1ffdf6c3"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "098eff7e06c4"
+     },
+     "Chapter_31.md": {
+      "dlg": 126,
+      "words": 5240,
+      "sha": "e0839daa9ef8"
+     },
+     "Chapter_32.md": {
+      "dlg": 94,
+      "words": 4481,
+      "sha": "772c99c3e94f"
+     },
+     "Chapter_33.md": {
+      "dlg": 109,
+      "words": 4724,
+      "sha": "ef29f73d0969"
+     },
+     "Chapter_34.md": {
+      "dlg": 128,
+      "words": 5523,
+      "sha": "a9115b654ccf"
+     },
+     "Chapter_35.md": {
+      "dlg": 93,
+      "words": 5149,
+      "sha": "8652def81b64"
+     },
+     "Chapter_36.md": {
+      "dlg": 159,
+      "words": 5721,
+      "sha": "bfbba4388845"
+     },
+     "Chapter_37.md": {
+      "dlg": 74,
+      "words": 6045,
+      "sha": "f45354c59adc"
+     },
+     "Chapter_38.md": {
+      "dlg": 136,
+      "words": 6589,
+      "sha": "57b8db6c5605"
+     },
+     "Chapter_39.md": {
+      "dlg": 182,
+      "words": 8332,
+      "sha": "6e1adb9a5dda"
+     },
+     "Chapter_40.md": {
+      "dlg": 137,
+      "words": 6160,
+      "sha": "84c25be38e93"
+     },
+     "Chapter_41.md": {
+      "dlg": 95,
+      "words": 5957,
+      "sha": "2bbad464ac39"
+     },
+     "Chapter_42.md": {
+      "dlg": 73,
+      "words": 4332,
+      "sha": "9227efae828a"
+     },
+     "Chapter_43.md": {
+      "dlg": 135,
+      "words": 6739,
+      "sha": "120aa996f2f3"
+     },
+     "Chapter_44.md": {
+      "dlg": 222,
+      "words": 6602,
+      "sha": "7d29ef1f46ad"
+     },
+     "Chapter_45.md": {
+      "dlg": 169,
+      "words": 6454,
+      "sha": "62254f83df05"
+     },
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 115,
+      "words": 2501,
+      "sha": "467c245588a3"
+     },
+     "Chapter_48.md": {
+      "dlg": 68,
+      "words": 1740,
+      "sha": "89b77a74eb59"
+     },
+     "Chapter_49.md": {
+      "dlg": 47,
+      "words": 2204,
+      "sha": "c4cd8c150177"
+     },
+     "Chapter_50.md": {
+      "dlg": 46,
+      "words": 1992,
+      "sha": "7e86ae8461bc"
+     },
+     "Chapter_51.md": {
+      "dlg": 55,
+      "words": 1940,
+      "sha": "644a5675b97f"
+     },
+     "Chapter_52.md": {
+      "dlg": 63,
+      "words": 2495,
+      "sha": "cab4d3e9cfc7"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/soul_land_universal_kit_main_related/_archive/2026-09-19_stale_sl4_copies_at_ch31/soul_land_4_fire_phoenix_STALE_ch31",
+   "archived_path": true,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "ter Chapter31**, not after Chapter30. The previous/wrong time-skip Chapter31 was deleted. Do not use any deleted/invalid Chapter31 draft. If any archive or old audit conflicts with the current status ",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "9821207125d1"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "c0543fabf83a"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "392dbe3ba97b"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "3c587644be11"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "549b7f6746e8"
+     },
+     "Chapter_31.md": {
+      "dlg": 212,
+      "words": 7577,
+      "sha": "6cbc568db00f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/soul_land_universal_kit_main_related/_archive/2026-09-19_stale_sl4_copies_at_ch31/sl4_fire_phoenix_STALE_ch31/soul_land_4_fire_phoenix",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "9821207125d1"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "c0543fabf83a"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "392dbe3ba97b"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "3c587644be11"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "549b7f6746e8"
+     },
+     "Chapter_31.md": {
+      "dlg": 212,
+      "words": 7577,
+      "sha": "6cbc568db00f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix",
+   "archived_path": true,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "MBERING_MAP.md` 9. `tools/perfect_continuation_skill_check.py` ## Rebuild result The user rejected the earlier post-Chapter48 direction and the overcorrected fake Dorm336 payoff. Active rebuild now st",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "ad3fc8911e9f"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "f0c08ba83298"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "56ebb24ee3af"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "f68c1ffdf6c3"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "098eff7e06c4"
+     },
+     "Chapter_31.md": {
+      "dlg": 126,
+      "words": 5240,
+      "sha": "e0839daa9ef8"
+     },
+     "Chapter_32.md": {
+      "dlg": 94,
+      "words": 4481,
+      "sha": "772c99c3e94f"
+     },
+     "Chapter_33.md": {
+      "dlg": 109,
+      "words": 4724,
+      "sha": "ef29f73d0969"
+     },
+     "Chapter_34.md": {
+      "dlg": 128,
+      "words": 5523,
+      "sha": "a9115b654ccf"
+     },
+     "Chapter_35.md": {
+      "dlg": 93,
+      "words": 5149,
+      "sha": "8652def81b64"
+     },
+     "Chapter_36.md": {
+      "dlg": 159,
+      "words": 5721,
+      "sha": "bfbba4388845"
+     },
+     "Chapter_37.md": {
+      "dlg": 74,
+      "words": 6045,
+      "sha": "f45354c59adc"
+     },
+     "Chapter_38.md": {
+      "dlg": 136,
+      "words": 6589,
+      "sha": "57b8db6c5605"
+     },
+     "Chapter_39.md": {
+      "dlg": 182,
+      "words": 8332,
+      "sha": "6e1adb9a5dda"
+     },
+     "Chapter_40.md": {
+      "dlg": 137,
+      "words": 6160,
+      "sha": "84c25be38e93"
+     },
+     "Chapter_41.md": {
+      "dlg": 95,
+      "words": 5957,
+      "sha": "2bbad464ac39"
+     },
+     "Chapter_42.md": {
+      "dlg": 73,
+      "words": 4332,
+      "sha": "9227efae828a"
+     },
+     "Chapter_43.md": {
+      "dlg": 135,
+      "words": 6739,
+      "sha": "120aa996f2f3"
+     },
+     "Chapter_44.md": {
+      "dlg": 222,
+      "words": 6602,
+      "sha": "7d29ef1f46ad"
+     },
+     "Chapter_45.md": {
+      "dlg": 169,
+      "words": 6454,
+      "sha": "62254f83df05"
+     },
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 115,
+      "words": 2501,
+      "sha": "467c245588a3"
+     },
+     "Chapter_48.md": {
+      "dlg": 68,
+      "words": 1740,
+      "sha": "89b77a74eb59"
+     },
+     "Chapter_49.md": {
+      "dlg": 47,
+      "words": 2204,
+      "sha": "c4cd8c150177"
+     },
+     "Chapter_50.md": {
+      "dlg": 46,
+      "words": 1992,
+      "sha": "7e86ae8461bc"
+     },
+     "Chapter_51.md": {
+      "dlg": 55,
+      "words": 1940,
+      "sha": "644a5675b97f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix/archive/rejected_post48_2026-09-17",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_49.md": {
+      "dlg": 150,
+      "words": 5151,
+      "sha": "bf1f1d393f61"
+     },
+     "Chapter_50.md": {
+      "dlg": 97,
+      "words": 3645,
+      "sha": "9a33cd2b6a15"
+     },
+     "Chapter_51.md": {
+      "dlg": 37,
+      "words": 3474,
+      "sha": "f82ae691e809"
+     },
+     "Chapter_52.md": {
+      "dlg": 55,
+      "words": 3054,
+      "sha": "0ea0fa1a70f7"
+     },
+     "Chapter_53.md": {
+      "dlg": 78,
+      "words": 3270,
+      "sha": "7a0ec2a35f6b"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix/archive/rejected_overcorrection_2026-09-17",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 218,
+      "words": 5226,
+      "sha": "544a76999338"
+     },
+     "Chapter_48.md": {
+      "dlg": 316,
+      "words": 7866,
+      "sha": "7f60df81c7a0"
+     },
+     "Chapter_49.md": {
+      "dlg": 78,
+      "words": 2703,
+      "sha": "4efabf67f91e"
+     },
+     "Chapter_50.md": {
+      "dlg": 56,
+      "words": 2856,
+      "sha": "cb80bc846e2b"
+     },
+     "Chapter_51.md": {
+      "dlg": 58,
+      "words": 2817,
+      "sha": "fe2c0e237ad9"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_48.md": {
+      "dlg": 134,
+      "words": 2399,
+      "sha": "ddc6403ec92f"
+     },
+     "Chapter_49.md": {
+      "dlg": 81,
+      "words": 1919,
+      "sha": "a7e6a6e1ae03"
+     },
+     "Chapter_50.md": {
+      "dlg": 57,
+      "words": 1809,
+      "sha": "80fba994533f"
+     },
+     "Chapter_51.md": {
+      "dlg": 73,
+      "words": 1724,
+      "sha": "9baddd0ba597"
+     },
+     "Chapter_52.md": {
+      "dlg": 48,
+      "words": 1763,
+      "sha": "9acd4adcbf12"
+     },
+     "Chapter_53.md": {
+      "dlg": 40,
+      "words": 1736,
+      "sha": "41efbf0a5771"
+     },
+     "Chapter_54.md": {
+      "dlg": 65,
+      "words": 1586,
+      "sha": "b7b4fbfa53c9"
+     },
+     "Chapter_55.md": {
+      "dlg": 19,
+      "words": 1889,
+      "sha": "b7d7c9c2fad1"
+     }
+    }
+   }
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_48.md": {
+      "dlg": 134,
+      "words": 2399,
+      "sha": "ddc6403ec92f"
+     },
+     "Chapter_49.md": {
+      "dlg": 81,
+      "words": 1919,
+      "sha": "a7e6a6e1ae03"
+     },
+     "Chapter_50.md": {
+      "dlg": 57,
+      "words": 1809,
+      "sha": "80fba994533f"
+     },
+     "Chapter_51.md": {
+      "dlg": 73,
+      "words": 1724,
+      "sha": "9baddd0ba597"
+     },
+     "Chapter_52.md": {
+      "dlg": 48,
+      "words": 1763,
+      "sha": "9acd4adcbf12"
+     },
+     "Chapter_53.md": {
+      "dlg": 40,
+      "words": 1736,
+      "sha": "41efbf0a5771"
+     },
+     "Chapter_54.md": {
+      "dlg": 65,
+      "words": 1586,
+      "sha": "b7b4fbfa53c9"
+     },
+     "Chapter_55.md": {
+      "dlg": 19,
+      "words": 1889,
+      "sha": "b7d7c9c2fad1"
+     }
+    }
+   }
+  },
+  {
+   "repo": "lan_shen",
+   "path": ".",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "<!-- \u26a0\ufe0f V1-EPOCH DOCUMENT \u2014 historical reference only. The V1 serial (chapters 1\u201315, the balm/jar economy arc) was REPLACED by the V2 canon-parallel rebuild o",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_What_the_Master_Said.md": {
+      "dlg": 122,
+      "words": 4216,
+      "sha": "427675020b2c"
+     },
+     "Chapter_02_The_Fifteen.md": {
+      "dlg": 204,
+      "words": 5153,
+      "sha": "5a0c9c1f39ec"
+     },
+     "Chapter_03_The_Find.md": {
+      "dlg": 148,
+      "words": 5175,
+      "sha": "da983de32232"
+     },
+     "Chapter_04_Bringing_Her_Home.md": {
+      "dlg": 124,
+      "words": 4641,
+      "sha": "f4e15348d3b8"
+     },
+     "Chapter_05_Stay_Here.md": {
+      "dlg": 110,
+      "words": 5207,
+      "sha": "60b919f7e7c3"
+     },
+     "Chapter_06_Gifted.md": {
+      "dlg": 71,
+      "words": 4125,
+      "sha": "b5f43282cb6a"
+     }
+    }
+   }
+  },
+  {
+   "repo": "mcu_eternal_fanfic",
+   "path": ".",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Weight_of_Waking.md": {
+      "dlg": 49,
+      "words": 2890,
+      "sha": "5c564c1cbbae"
+     },
+     "Chapter_02_First_Crew.md": {
+      "dlg": 74,
+      "words": 2904,
+      "sha": "40e52bbe9cdf"
+     },
+     "Chapter_03_The_First_Shore.md": {
+      "dlg": 57,
+      "words": 3424,
+      "sha": "a2f2ebd3a13c"
+     }
+    }
+   }
+  },
+  {
+   "repo": "qian-xunji-adaptation",
+   "path": ".",
+   "archived_path": false,
+   "status_file": "README.md",
+   "status_evidence": " \u2014 the prose. `foundation/` \u2014 the docset (read the HANDOFF order). - `_archive/2026-10-07_superseded/` \u2014 retired files, kept with a marker. ## Credits Soul Land / Douluo Dalu is the creation of the or",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Night_After.md": {
+      "dlg": 16,
+      "words": 3304,
+      "sha": "39852536303c"
+     },
+     "Chapter_02_The_Codex.md": {
+      "dlg": 12,
+      "words": 2513,
+      "sha": "7fa97ddad1b9"
+     },
+     "Chapter_03_The_First_Cut.md": {
+      "dlg": 19,
+      "words": 2541,
+      "sha": "a025030aaf02"
+     },
+     "Chapter_04_The_Second_Core.md": {
+      "dlg": 16,
+      "words": 2673,
+      "sha": "396df102a098"
+     },
+     "Chapter_05_The_Two_Waters.md": {
+      "dlg": 13,
+      "words": 3381,
+      "sha": "0d6fc0d7509c"
+     },
+     "Chapter_06_The_Colour_of_Gold.md": {
+      "dlg": 34,
+      "words": 3396,
+      "sha": "9b5e9d2f7ce2"
+     },
+     "Chapter_07_The_Cold_Broke.md": {
+      "dlg": 36,
+      "words": 2605,
+      "sha": "48074f4c7cde"
+     },
+     "Chapter_08_What_the_Sea_Sold_Cheap.md": {
+      "dlg": 57,
+      "words": 2870,
+      "sha": "454c1f0cb893"
+     },
+     "Chapter_09_The_Cold_North_Sea.md": {
+      "dlg": 45,
+      "words": 2673,
+      "sha": "aaa7d1721772"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-1-fire-dragon-lizard",
+   "path": ".",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 37,
+      "words": 4751,
+      "sha": "fa6c55dba15c"
+     },
+     "Chapter_02.md": {
+      "dlg": 56,
+      "words": 3545,
+      "sha": "313099d1fe63"
+     },
+     "Chapter_03.md": {
+      "dlg": 57,
+      "words": 3442,
+      "sha": "245aa4460d6f"
+     },
+     "Chapter_04.md": {
+      "dlg": 60,
+      "words": 3456,
+      "sha": "46ff0077c789"
+     },
+     "Chapter_05.md": {
+      "dlg": 46,
+      "words": 3411,
+      "sha": "737e547b126c"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-2-the-grey-wolf",
+   "path": ".",
+   "archived_path": false,
+   "status_file": "README.md",
+   "status_evidence": "le laws self-enforcing), `build_site.py` (reading site), `check_panels.py` (drift guard \u2014 frozen meter fails build), `run_all.py` (manuscript \u2192 gate \u2192 site \u2192 panel check + FULL edition) ## The working",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Grey_Wolf.md": {
+      "dlg": 19,
+      "words": 2874,
+      "sha": "165ea1379bdc"
+     },
+     "Chapter_02_The_Quiet_Climb.md": {
+      "dlg": 19,
+      "words": 2439,
+      "sha": "b6412552ba07"
+     },
+     "Chapter_03_The_Wall.md": {
+      "dlg": 26,
+      "words": 2418,
+      "sha": "7c2013662e4d"
+     },
+     "Chapter_04_The_Patient_Kind.md": {
+      "dlg": 11,
+      "words": 2487,
+      "sha": "ac32350fe5e1"
+     },
+     "Chapter_05_The_Road_Begins.md": {
+      "dlg": 14,
+      "words": 3369,
+      "sha": "819c92314e99"
+     },
+     "Chapter_06_The_Hem_Road.md": {
+      "dlg": 5,
+      "words": 2446,
+      "sha": "603f884d580b"
+     },
+     "Chapter_07_The_Third_Village.md": {
+      "dlg": 6,
+      "words": 2433,
+      "sha": "fc8093cdfebe"
+     },
+     "Chapter_08_Road_To_Shrek.md": {
+      "dlg": 5,
+      "words": 2436,
+      "sha": "78f08ab1d7c0"
+     },
+     "Chapter_09_Shrek_City.md": {
+      "dlg": 14,
+      "words": 2628,
+      "sha": "9a033f01dde9"
+     },
+     "Chapter_10_The_Combat_Exam.md": {
+      "dlg": 5,
+      "words": 2262,
+      "sha": "11196c44db4f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "soul_land_starter",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 0,
+      "words": 20,
+      "sha": "8b8cc77387d5"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": " time\u2026 nothing added after ~ch68\u2026 please check others Also.\" Finding: RELATIONSHIPS cores frozen at ch79 under 21 chapters of appends; THE_CODEX Current Ranks stale (repeat offender). **LAW: append-on",
+   "dirs": {
+    "chapters": {
+     "chapter_01.md": {
+      "dlg": 124,
+      "words": 5616,
+      "sha": "dc3a43583617"
+     },
+     "chapter_02.md": {
+      "dlg": 112,
+      "words": 4295,
+      "sha": "52c8469776de"
+     },
+     "chapter_03.md": {
+      "dlg": 85,
+      "words": 5099,
+      "sha": "b55f9a1cfa82"
+     },
+     "chapter_04.md": {
+      "dlg": 154,
+      "words": 7605,
+      "sha": "fe90ec284521"
+     },
+     "chapter_05.md": {
+      "dlg": 124,
+      "words": 6193,
+      "sha": "237944618c7d"
+     },
+     "chapter_06.md": {
+      "dlg": 69,
+      "words": 5784,
+      "sha": "1bfa9630c1cd"
+     },
+     "chapter_07.md": {
+      "dlg": 90,
+      "words": 5794,
+      "sha": "b6f3249472b3"
+     },
+     "chapter_08.md": {
+      "dlg": 83,
+      "words": 4660,
+      "sha": "c80e658fb64d"
+     },
+     "chapter_09.md": {
+      "dlg": 121,
+      "words": 5816,
+      "sha": "cb43db3fefea"
+     },
+     "chapter_10.md": {
+      "dlg": 91,
+      "words": 6482,
+      "sha": "97cb5f750582"
+     },
+     "chapter_100.md": {
+      "dlg": 63,
+      "words": 3396,
+      "sha": "e5dbdd6ad17e"
+     },
+     "chapter_101.md": {
+      "dlg": 78,
+      "words": 3113,
+      "sha": "c3d74cc02e8e"
+     },
+     "chapter_11.md": {
+      "dlg": 71,
+      "words": 5328,
+      "sha": "be2ee3f3d4c1"
+     },
+     "chapter_12.md": {
+      "dlg": 57,
+      "words": 5199,
+      "sha": "99b610cada7f"
+     },
+     "chapter_13.md": {
+      "dlg": 85,
+      "words": 6000,
+      "sha": "6865f00a0cdb"
+     },
+     "chapter_14.md": {
+      "dlg": 117,
+      "words": 6885,
+      "sha": "bb74686a618f"
+     },
+     "chapter_15.md": {
+      "dlg": 109,
+      "words": 6120,
+      "sha": "ff630e01693b"
+     },
+     "chapter_16.md": {
+      "dlg": 100,
+      "words": 5897,
+      "sha": "83ea2b77a1a0"
+     },
+     "chapter_17.md": {
+      "dlg": 98,
+      "words": 5717,
+      "sha": "63b8aa1ff40e"
+     },
+     "chapter_18.md": {
+      "dlg": 69,
+      "words": 5412,
+      "sha": "cbc349e23d35"
+     },
+     "chapter_19.md": {
+      "dlg": 150,
+      "words": 7236,
+      "sha": "f999a20e9eff"
+     },
+     "chapter_20.md": {
+      "dlg": 112,
+      "words": 5669,
+      "sha": "66cb3245b444"
+     },
+     "chapter_21.md": {
+      "dlg": 227,
+      "words": 9545,
+      "sha": "be77ded0d16c"
+     },
+     "chapter_22.md": {
+      "dlg": 112,
+      "words": 5794,
+      "sha": "df45d800c47b"
+     },
+     "chapter_23.md": {
+      "dlg": 143,
+      "words": 6622,
+      "sha": "844c33ecb4e7"
+     },
+     "chapter_24.md": {
+      "dlg": 141,
+      "words": 5129,
+      "sha": "c9f013058024"
+     },
+     "chapter_25.md": {
+      "dlg": 109,
+      "words": 10339,
+      "sha": "b7ed98ef540a"
+     },
+     "chapter_26.md": {
+      "dlg": 125,
+      "words": 6010,
+      "sha": "0e1c3675842c"
+     },
+     "chapter_27.md": {
+      "dlg": 116,
+      "words": 5345,
+      "sha": "70d83a537edf"
+     },
+     "chapter_28.md": {
+      "dlg": 152,
+      "words": 5292,
+      "sha": "543f6f8dff8b"
+     },
+     "chapter_29.md": {
+      "dlg": 126,
+      "words": 5899,
+      "sha": "92ad0b7bbf8e"
+     },
+     "chapter_30.md": {
+      "dlg": 85,
+      "words": 4760,
+      "sha": "e888c99ab6c6"
+     },
+     "chapter_31.md": {
+      "dlg": 73,
+      "words": 4705,
+      "sha": "762dafc2a18b"
+     },
+     "chapter_32.md": {
+      "dlg": 72,
+      "words": 5182,
+      "sha": "020912546c0c"
+     },
+     "chapter_33.md": {
+      "dlg": 185,
+      "words": 6221,
+      "sha": "8ba6a3111795"
+     },
+     "chapter_34.md": {
+      "dlg": 120,
+      "words": 5458,
+      "sha": "d652651299a0"
+     },
+     "chapter_35.md": {
+      "dlg": 167,
+      "words": 6495,
+      "sha": "5104def8a350"
+     },
+     "chapter_36.md": {
+      "dlg": 113,
+      "words": 4390,
+      "sha": "eda7e09cb28a"
+     },
+     "chapter_37.md": {
+      "dlg": 183,
+      "words": 6249,
+      "sha": "d573fd1b7e47"
+     },
+     "chapter_38.md": {
+      "dlg": 100,
+      "words": 4460,
+      "sha": "3a2af02ca563"
+     },
+     "chapter_39.md": {
+      "dlg": 41,
+      "words": 3732,
+      "sha": "b11ec2670081"
+     },
+     "chapter_40.md": {
+      "dlg": 82,
+      "words": 4511,
+      "sha": "a0db5e13b7c7"
+     },
+     "chapter_41.md": {
+      "dlg": 59,
+      "words": 3663,
+      "sha": "bad74512cef6"
+     },
+     "chapter_42.md": {
+      "dlg": 91,
+      "words": 4067,
+      "sha": "f559f371e8e8"
+     },
+     "chapter_43.md": {
+      "dlg": 75,
+      "words": 3705,
+      "sha": "7676719511c3"
+     },
+     "chapter_44.md": {
+      "dlg": 84,
+      "words": 4245,
+      "sha": "512f1f764e19"
+     },
+     "chapter_45.md": {
+      "dlg": 68,
+      "words": 3693,
+      "sha": "f5c84b8fd458"
+     },
+     "chapter_46.md": {
+      "dlg": 47,
+      "words": 3765,
+      "sha": "184667a840dd"
+     },
+     "chapter_47.md": {
+      "dlg": 71,
+      "words": 3634,
+      "sha": "2eb964e3b78d"
+     },
+     "chapter_48.md": {
+      "dlg": 42,
+      "words": 3469,
+      "sha": "ec9c6b84efec"
+     },
+     "chapter_49.md": {
+      "dlg": 74,
+      "words": 4234,
+      "sha": "c0ee72cc98f9"
+     },
+     "chapter_50.md": {
+      "dlg": 66,
+      "words": 3528,
+      "sha": "5f5773db2ed6"
+     },
+     "chapter_51.md": {
+      "dlg": 77,
+      "words": 3625,
+      "sha": "01a7dd7cf431"
+     },
+     "chapter_52.md": {
+      "dlg": 71,
+      "words": 3794,
+      "sha": "99a85a2bca1f"
+     },
+     "chapter_53.md": {
+      "dlg": 77,
+      "words": 3665,
+      "sha": "b1552dc7eace"
+     },
+     "chapter_54.md": {
+      "dlg": 49,
+      "words": 3762,
+      "sha": "31e042014125"
+     },
+     "chapter_55.md": {
+      "dlg": 60,
+      "words": 3357,
+      "sha": "374338b52824"
+     },
+     "chapter_56.md": {
+      "dlg": 67,
+      "words": 3367,
+      "sha": "6abbe45de21e"
+     },
+     "chapter_57.md": {
+      "dlg": 118,
+      "words": 4907,
+      "sha": "46db19b5c306"
+     },
+     "chapter_58.md": {
+      "dlg": 92,
+      "words": 3251,
+      "sha": "58c160665c6a"
+     },
+     "chapter_59.md": {
+      "dlg": 82,
+      "words": 4523,
+      "sha": "6d08b0a058c5"
+     },
+     "chapter_60.md": {
+      "dlg": 90,
+      "words": 3773,
+      "sha": "83fcb1972144"
+     },
+     "chapter_61.md": {
+      "dlg": 64,
+      "words": 3226,
+      "sha": "25875f9174c9"
+     },
+     "chapter_62.md": {
+      "dlg": 106,
+      "words": 6538,
+      "sha": "46a9493983bd"
+     },
+     "chapter_63.md": {
+      "dlg": 125,
+      "words": 5828,
+      "sha": "59e06186af7e"
+     },
+     "chapter_64.md": {
+      "dlg": 100,
+      "words": 5020,
+      "sha": "772adcbdcc60"
+     },
+     "chapter_65.md": {
+      "dlg": 70,
+      "words": 5757,
+      "sha": "812aa49d986b"
+     },
+     "chapter_66.md": {
+      "dlg": 81,
+      "words": 4452,
+      "sha": "2d01e766e2c0"
+     },
+     "chapter_67.md": {
+      "dlg": 89,
+      "words": 7656,
+      "sha": "883f4fe61a41"
+     },
+     "chapter_68.md": {
+      "dlg": 81,
+      "words": 6729,
+      "sha": "cd6b45daab12"
+     },
+     "chapter_69.md": {
+      "dlg": 152,
+      "words": 10060,
+      "sha": "1d5ea7d0b3c6"
+     },
+     "chapter_70.md": {
+      "dlg": 112,
+      "words": 6023,
+      "sha": "0beca0efc766"
+     },
+     "chapter_71.md": {
+      "dlg": 29,
+      "words": 4731,
+      "sha": "bc4e85b9a958"
+     },
+     "chapter_72.md": {
+      "dlg": 80,
+      "words": 4998,
+      "sha": "ecbca65617f0"
+     },
+     "chapter_73.md": {
+      "dlg": 80,
+      "words": 4467,
+      "sha": "bbff91bdd176"
+     },
+     "chapter_74.md": {
+      "dlg": 95,
+      "words": 4935,
+      "sha": "be7308eb723a"
+     },
+     "chapter_75.md": {
+      "dlg": 138,
+      "words": 4952,
+      "sha": "c4bee03f6a08"
+     },
+     "chapter_76.md": {
+      "dlg": 82,
+      "words": 5214,
+      "sha": "7dc8dbbfffee"
+     },
+     "chapter_77.md": {
+      "dlg": 37,
+      "words": 3452,
+      "sha": "5f689a9b9d27"
+     },
+     "chapter_78.md": {
+      "dlg": 29,
+      "words": 3487,
+      "sha": "143d65f52a81"
+     },
+     "chapter_79.md": {
+      "dlg": 68,
+      "words": 3255,
+      "sha": "5658bcb25f93"
+     },
+     "chapter_80.md": {
+      "dlg": 47,
+      "words": 3245,
+      "sha": "37fa75e9dc6b"
+     },
+     "chapter_81.md": {
+      "dlg": 72,
+      "words": 2638,
+      "sha": "ef49a62107f1"
+     },
+     "chapter_82.md": {
+      "dlg": 54,
+      "words": 2712,
+      "sha": "d5ac28b69be3"
+     },
+     "chapter_83.md": {
+      "dlg": 23,
+      "words": 2585,
+      "sha": "7f68003ccd0d"
+     },
+     "chapter_84.md": {
+      "dlg": 66,
+      "words": 2984,
+      "sha": "6dbe77021317"
+     },
+     "chapter_85.md": {
+      "dlg": 48,
+      "words": 2720,
+      "sha": "b839a002512d"
+     },
+     "chapter_86.md": {
+      "dlg": 27,
+      "words": 3048,
+      "sha": "e3211c36365b"
+     },
+     "chapter_87.md": {
+      "dlg": 88,
+      "words": 3546,
+      "sha": "5b94459f8cc0"
+     },
+     "chapter_88.md": {
+      "dlg": 50,
+      "words": 2792,
+      "sha": "fd25ea8c788e"
+     },
+     "chapter_89.md": {
+      "dlg": 77,
+      "words": 3563,
+      "sha": "da14b84fe8d6"
+     },
+     "chapter_90.md": {
+      "dlg": 83,
+      "words": 2840,
+      "sha": "bc7f6cd17c67"
+     },
+     "chapter_91.md": {
+      "dlg": 65,
+      "words": 2743,
+      "sha": "1042a962116b"
+     },
+     "chapter_92.md": {
+      "dlg": 98,
+      "words": 2727,
+      "sha": "2fdbac78f6d9"
+     },
+     "chapter_93.md": {
+      "dlg": 67,
+      "words": 2769,
+      "sha": "3b402464c9c0"
+     },
+     "chapter_94.md": {
+      "dlg": 56,
+      "words": 3643,
+      "sha": "1b3277a0941c"
+     },
+     "chapter_95.md": {
+      "dlg": 80,
+      "words": 3310,
+      "sha": "b9254415b713"
+     },
+     "chapter_96.md": {
+      "dlg": 110,
+      "words": 3743,
+      "sha": "3fbe5c71979b"
+     },
+     "chapter_97.md": {
+      "dlg": 74,
+      "words": 3293,
+      "sha": "d7583e9a3706"
+     },
+     "chapter_98.md": {
+      "dlg": 62,
+      "words": 3459,
+      "sha": "8a7ea55e0979"
+     },
+     "chapter_99.md": {
+      "dlg": 44,
+      "words": 3158,
+      "sha": "a0051f5aaa7d"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "blue_silver",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "ror grass named **Home**. The first draft (`chapters/`, 15 chapters, ~80,700 words) was **rejected by the user as \"nonsense\"** and has been fully rebuilt. The live serial is `chapters_rebuilt/` \u2014 15 c",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_Awake.md": {
+      "dlg": 0,
+      "words": 4628,
+      "sha": "3d7f85a46ae1"
+     },
+     "Chapter_02_What_the_Water_Teaches.md": {
+      "dlg": 0,
+      "words": 4499,
+      "sha": "95c990980c51"
+     },
+     "Chapter_03_The_One_Who_Stayed.md": {
+      "dlg": 0,
+      "words": 6167,
+      "sha": "6f7ab1f7a6d2"
+     },
+     "Chapter_04_The_Teeth_in_the_Grass.md": {
+      "dlg": 1,
+      "words": 4723,
+      "sha": "8b0556a19196"
+     },
+     "Chapter_05_The_One_Who_Watched.md": {
+      "dlg": 1,
+      "words": 4288,
+      "sha": "5eb67b520b9b"
+     },
+     "Chapter_06_The_One_Below.md": {
+      "dlg": 0,
+      "words": 3719,
+      "sha": "b701259078e6"
+     },
+     "Chapter_07_The_One_Who_Keeps.md": {
+      "dlg": 1,
+      "words": 6072,
+      "sha": "0dc2243e239c"
+     },
+     "Chapter_08_The_One_Who_Crossed.md": {
+      "dlg": 0,
+      "words": 5556,
+      "sha": "cba790893986"
+     },
+     "Chapter_09_The_Last_Vigil.md": {
+      "dlg": 0,
+      "words": 5359,
+      "sha": "64dd4afa7175"
+     },
+     "Chapter_10_The_One_Who_Answers.md": {
+      "dlg": 0,
+      "words": 6853,
+      "sha": "8a81bccb8f85"
+     },
+     "Chapter_11_The_Liar_at_the_Door.md": {
+      "dlg": 0,
+      "words": 6134,
+      "sha": "17c2ac9d4228"
+     },
+     "Chapter_12_The_Ten_Thousandth_Year.md": {
+      "dlg": 4,
+      "words": 6262,
+      "sha": "5c3c9d4fd99c"
+     },
+     "Chapter_13_The_One_Who_Goes.md": {
+      "dlg": 1,
+      "words": 5564,
+      "sha": "ba571b15dbae"
+     },
+     "Chapter_14_The_Ground_That_Remembers.md": {
+      "dlg": 1,
+      "words": 7041,
+      "sha": "ede40837f123"
+     },
+     "Chapter_15_The_One_Who_Is_Named.md": {
+      "dlg": 1,
+      "words": 6237,
+      "sha": "2f797b4ca088"
+     }
+    },
+    "chapters_rebuilt": {
+     "Chapter_01_Awake.md": {
+      "dlg": 18,
+      "words": 2816,
+      "sha": "dcfef53b80bb"
+     },
+     "Chapter_02_What_the_Water_Teaches.md": {
+      "dlg": 10,
+      "words": 2245,
+      "sha": "633937646a66"
+     },
+     "Chapter_03_The_One_Who_Stayed.md": {
+      "dlg": 8,
+      "words": 1952,
+      "sha": "8fe681416e06"
+     },
+     "Chapter_04_The_Teeth_in_the_Grass.md": {
+      "dlg": 11,
+      "words": 2118,
+      "sha": "8955b3bdb3df"
+     },
+     "Chapter_05_The_One_Who_Watched.md": {
+      "dlg": 20,
+      "words": 1838,
+      "sha": "1ba351750172"
+     },
+     "Chapter_06_The_One_Below.md": {
+      "dlg": 13,
+      "words": 1992,
+      "sha": "d90515ba7c8c"
+     },
+     "Chapter_07_The_One_Who_Keeps.md": {
+      "dlg": 4,
+      "words": 1890,
+      "sha": "8c3b5b19f174"
+     },
+     "Chapter_08_The_One_Who_Crossed.md": {
+      "dlg": 16,
+      "words": 2257,
+      "sha": "d185db084cec"
+     },
+     "Chapter_09_The_Last_Vigil.md": {
+      "dlg": 13,
+      "words": 2218,
+      "sha": "2d729e8246e5"
+     },
+     "Chapter_10_The_One_Who_Answers.md": {
+      "dlg": 13,
+      "words": 2480,
+      "sha": "da9c805a33a3"
+     },
+     "Chapter_11_The_Liar_at_the_Door.md": {
+      "dlg": 14,
+      "words": 2566,
+      "sha": "67c9c75798d6"
+     },
+     "Chapter_12_The_Ten_Thousandth_Year.md": {
+      "dlg": 5,
+      "words": 1865,
+      "sha": "f09513625741"
+     },
+     "Chapter_13_The_One_Who_Goes.md": {
+      "dlg": 20,
+      "words": 2494,
+      "sha": "237e7200d64c"
+     },
+     "Chapter_14_The_Ground_That_Remembers.md": {
+      "dlg": 12,
+      "words": 2486,
+      "sha": "d991c135287b"
+     },
+     "Chapter_15_The_One_Who_Is_Named.md": {
+      "dlg": 18,
+      "words": 3376,
+      "sha": "adb36238784f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "_archive/2026-09-19_stale_sl4_copy_at_ch31/sl4_fire_phoenix_STALE_ch31/soul_land_4_fire_phoenix",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "9821207125d1"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "c0543fabf83a"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "392dbe3ba97b"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "3c587644be11"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "549b7f6746e8"
+     },
+     "Chapter_31.md": {
+      "dlg": 212,
+      "words": 7577,
+      "sha": "6cbc568db00f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "SOUL_LAND_NEW",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "chapter_01.md": {
+      "dlg": 125,
+      "words": 5834,
+      "sha": "9f2c0c4e4c6c"
+     },
+     "chapter_02.md": {
+      "dlg": 76,
+      "words": 5666,
+      "sha": "ef52d69be907"
+     },
+     "chapter_03.md": {
+      "dlg": 180,
+      "words": 10761,
+      "sha": "ab1060cfef80"
+     },
+     "chapter_04.md": {
+      "dlg": 119,
+      "words": 8949,
+      "sha": "b31284ad4316"
+     },
+     "chapter_05.md": {
+      "dlg": 117,
+      "words": 8631,
+      "sha": "496f60a88b86"
+     },
+     "chapter_06.md": {
+      "dlg": 106,
+      "words": 7147,
+      "sha": "5238d2dc2dbd"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_system_cheat",
+   "archived_path": false,
+   "status_file": "NEXT.md",
+   "status_evidence": "panel check** (the drift guard: every \u300c...\u300d line diffed against `foundation/PANELS.md`; a frozen meter fails the build). - `foundation/METERS.md` \u2014 the master ledger: every meter with its own pace law",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Awakening_Day.md": {
+      "dlg": 31,
+      "words": 3723,
+      "sha": "def6476a0232"
+     },
+     "Chapter_02_The_Gate_at_Yunxi.md": {
+      "dlg": 27,
+      "words": 3755,
+      "sha": "e74570abcfe1"
+     },
+     "Chapter_03_The_White_Ring.md": {
+      "dlg": 45,
+      "words": 5236,
+      "sha": "4a609bffc2b3"
+     },
+     "Chapter_04_The_Still_Well.md": {
+      "dlg": 29,
+      "words": 3088,
+      "sha": "5530b68daa83"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_new",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 0,
+      "words": 20,
+      "sha": "8b8cc77387d5"
+     },
+     "Chapter_01_The_Grass_That_Stayed.md": {
+      "dlg": 40,
+      "words": 3222,
+      "sha": "d11596db8256"
+     },
+     "Chapter_02_What_the_Village_Could_Pay.md": {
+      "dlg": 41,
+      "words": 2687,
+      "sha": "efd4480079de"
+     },
+     "Chapter_03_The_Hands_That_Learned.md": {
+      "dlg": 20,
+      "words": 3286,
+      "sha": "fd8ec78af90a"
+     },
+     "Chapter_04_The_Road_Came_Home.md": {
+      "dlg": 32,
+      "words": 3693,
+      "sha": "2c36752b1d49"
+     },
+     "Chapter_05_The_Door_in_the_Wall.md": {
+      "dlg": 25,
+      "words": 2961,
+      "sha": "60731a786946"
+     },
+     "Chapter_06_The_Doors_Hinges.md": {
+      "dlg": 20,
+      "words": 3515,
+      "sha": "38de33039dde"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_holy_spirit",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Walk_In.md": {
+      "dlg": 68,
+      "words": 3635,
+      "sha": "cd4e3d529a3d"
+     },
+     "Chapter_02_The_Answer.md": {
+      "dlg": 30,
+      "words": 3365,
+      "sha": "43c1e64d7eba"
+     },
+     "Chapter_03_The_Right_Way.md": {
+      "dlg": 31,
+      "words": 3359,
+      "sha": "4ea5b84d8b70"
+     },
+     "Chapter_04_The_Use.md": {
+      "dlg": 31,
+      "words": 3351,
+      "sha": "3aa052bba646"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_devouring_dragon",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_First_Hunger.md": {
+      "dlg": 0,
+      "words": 3210,
+      "sha": "2b1027e3365f"
+     },
+     "Chapter_02_The_Law_of_the_Snow.md": {
+      "dlg": 27,
+      "words": 3258,
+      "sha": "59d7b4c14d08"
+     },
+     "Chapter_03_The_Ring_of_Light.md": {
+      "dlg": 30,
+      "words": 3399,
+      "sha": "c42e081ac854"
+     },
+     "Chapter_04_The_Weight_of_Blood.md": {
+      "dlg": 25,
+      "words": 2697,
+      "sha": "d0479556dd83"
+     },
+     "Chapter_05_The_Hunger_That_Has_No_Meal.md": {
+      "dlg": 35,
+      "words": 3380,
+      "sha": "b81d9f9a5a1c"
+     },
+     "Chapter_06_Greater_Than_the_Wall.md": {
+      "dlg": 27,
+      "words": 2968,
+      "sha": "69b149cc38e6"
+     },
+     "Chapter_07_The_Sense_of_Years.md": {
+      "dlg": 30,
+      "words": 2973,
+      "sha": "612e0432569a"
+     },
+     "Chapter_08_The_Deep_Country.md": {
+      "dlg": 29,
+      "words": 3307,
+      "sha": "92ff0ef2eb29"
+     },
+     "Chapter_09_The_Keeping_Earned.md": {
+      "dlg": 32,
+      "words": 3400,
+      "sha": "5123620cd67f"
+     },
+     "Chapter_10_The_Cold_Country.md": {
+      "dlg": 31,
+      "words": 3286,
+      "sha": "3cbb5d6749cc"
+     },
+     "Chapter_11_The_War_of_the_Lists.md": {
+      "dlg": 27,
+      "words": 2832,
+      "sha": "4775101f0c0c"
+     },
+     "Chapter_12_The_Bull_at_the_Water.md": {
+      "dlg": 30,
+      "words": 3287,
+      "sha": "7cfdcee163ea"
+     },
+     "Chapter_13_The_Keepers_Line.md": {
+      "dlg": 32,
+      "words": 2564,
+      "sha": "0a689bcf8dc7"
+     },
+     "Chapter_14_The_Wrong_Face.md": {
+      "dlg": 38,
+      "words": 3169,
+      "sha": "035d8d6221c0"
+     },
+     "Chapter_15_The_Hounds_Third_Time.md": {
+      "dlg": 0,
+      "words": 2229,
+      "sha": "52b9f0e6ba7e"
+     },
+     "Chapter_16_The_One_Print.md": {
+      "dlg": 0,
+      "words": 2319,
+      "sha": "7870906df2c9"
+     },
+     "Chapter_17_The_Long_Wet.md": {
+      "dlg": 0,
+      "words": 2250,
+      "sha": "e8d93f88bd3a"
+     },
+     "Chapter_18_The_Dry_Country.md": {
+      "dlg": 0,
+      "words": 2360,
+      "sha": "77bd132b2845"
+     },
+     "Chapter_19_The_North_Road.md": {
+      "dlg": 0,
+      "words": 2018,
+      "sha": "9d278bede307"
+     },
+     "Chapter_20_The_Road_Itself.md": {
+      "dlg": 0,
+      "words": 2036,
+      "sha": "758319b862fd"
+     },
+     "Chapter_21_The_Watch_and_the_Pass.md": {
+      "dlg": 0,
+      "words": 2017,
+      "sha": "08ce7e5ab703"
+     },
+     "Chapter_22_The_Deep_Forest_Proper.md": {
+      "dlg": 0,
+      "words": 2025,
+      "sha": "41dc5be2f677"
+     },
+     "Chapter_23_The_Parting.md": {
+      "dlg": 0,
+      "words": 2039,
+      "sha": "e24f4996d5b1"
+     },
+     "Chapter_24_The_Stone_Country.md": {
+      "dlg": 0,
+      "words": 2058,
+      "sha": "c1ba258d3dbb"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_3_oc",
+   "archived_path": false,
+   "status_file": "README.md",
+   "status_evidence": "rent-truth file**, at the author's own angle (SL2 `STATUS_PANEL` *\"single-state truth\"* / parked `OC_STATUS` *\"this file wins\"*): the whole living state in one file \u2014 identity card \u00b7 the window \u00b7 the ",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Reading.md": {
+      "dlg": 120,
+      "words": 5184,
+      "sha": "e544aa556408"
+     },
+     "Chapter_02_The_House_and_the_Road.md": {
+      "dlg": 91,
+      "words": 5591,
+      "sha": "a90bb5634da9"
+     },
+     "Chapter_03_A_Bowl_and_a_Name.md": {
+      "dlg": 98,
+      "words": 6727,
+      "sha": "12007e2a9f6c"
+     },
+     "Chapter_04_A_Thousand_Times.md": {
+      "dlg": 162,
+      "words": 9885,
+      "sha": "47a5d1847dd7"
+     },
+     "Chapter_05_Three_Winters.md": {
+      "dlg": 217,
+      "words": 14273,
+      "sha": "1699d9b3530f"
+     },
+     "Chapter_06_Thirty_Thousand.md": {
+      "dlg": 209,
+      "words": 11312,
+      "sha": "685b5f12714a"
+     },
+     "Chapter_07_The_Refusal.md": {
+      "dlg": 213,
+      "words": 10737,
+      "sha": "f8c2def09f41"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_3_new",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "# HANDOFF \u2014 Soul Land 3 New Serial **FROZEN 2026-09-22 by author plan-change** \u2014 the author moved to the Golden Lion SL2 serial (`soul_land_2_new/`). State at freeze: ",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Choosing.md": {
+      "dlg": 31,
+      "words": 3824,
+      "sha": "42f196b8fb97"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_2_new",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": ", `POWER_LAW.md`, etc. \u2014 laws 7. `SOUL_LAND_UNIVERSAL_KIT/` \u2014 house method 8. `_attic/` \u2014 superseded. History only; never continuity. Where any two disagree, the higher one wins. ## 3. Edge | | | |---",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_The_Road_to_Shrek.md": {
+      "dlg": 27,
+      "words": 2487,
+      "sha": "774e56858d2b"
+     },
+     "Chapter_02_The_Measure.md": {
+      "dlg": 62,
+      "words": 2683,
+      "sha": "4ea3c0de7da5"
+     },
+     "Chapter_03_Monsters_Run.md": {
+      "dlg": 112,
+      "words": 3471,
+      "sha": "208fd20ec763"
+     },
+     "Chapter_04_The_Third_Thing.md": {
+      "dlg": 80,
+      "words": 3048,
+      "sha": "286a499bba30"
+     },
+     "Chapter_05_Speed_And_Stance.md": {
+      "dlg": 79,
+      "words": 2441,
+      "sha": "4abe5c3cc728"
+     },
+     "Chapter_06_Measure_and_Weight.md": {
+      "dlg": 56,
+      "words": 2433,
+      "sha": "0f5342117358"
+     },
+     "Chapter_07_Three_Months.md": {
+      "dlg": 44,
+      "words": 4499,
+      "sha": "11680f38728f"
+     },
+     "Chapter_08_The_Sect_Behind_the_Smoke.md": {
+      "dlg": 51,
+      "words": 2385,
+      "sha": "e45ef1a2b593"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "dragon_prince_yuan_native_oc_fanfiction",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": " Fanfiction Project root: `/home/user/dragon_prince_yuan_native_oc_fanfiction/` Status: **SUPERSEDED \u2014 foundation initialized AND Chapter 1 written.** > The line that used to read \"foundation initiali",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 51,
+      "words": 3706,
+      "sha": "3f73d428949c"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "_archive/2026-09-30_park/soul_land_3_fanfiction",
+   "archived_path": true,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "# HANDOFF \u2014 SL3 \"Qing Ling\" project > **PARKED 2026-09-30** \u2014 closed on the author's call (new prequel serial: 30 years before SL3). Start with `foundation/PARKED_2026-09",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_A_Pool_of_Dead_Things.md": {
+      "dlg": 57,
+      "words": 4909,
+      "sha": "6680739fd0f4"
+     },
+     "Chapter_02_The_Schools_Measure.md": {
+      "dlg": 43,
+      "words": 3578,
+      "sha": "01d0f7d21120"
+     },
+     "Chapter_03_The_Wrong_Strength.md": {
+      "dlg": 74,
+      "words": 5090,
+      "sha": "384053211d8a"
+     },
+     "Chapter_04_Thousand_Refinements.md": {
+      "dlg": 51,
+      "words": 4934,
+      "sha": "9a3ab1da3908"
+     },
+     "Chapter_05_Thrice_Stacked.md": {
+      "dlg": 82,
+      "words": 4436,
+      "sha": "5a55c25ddb53"
+     },
+     "Chapter_06_The_Road_East.md": {
+      "dlg": 47,
+      "words": 3801,
+      "sha": "8e2541a2bb5a"
+     },
+     "Chapter_07_Room_205.md": {
+      "dlg": 59,
+      "words": 5174,
+      "sha": "bbab4dc00fdb"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "_archive/2026-09-30_park/blue_silver",
+   "archived_path": true,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "ror grass named **Home**. The first draft (`chapters/`, 15 chapters, ~80,700 words) was **rejected by the user as \"nonsense\"** and has been fully rebuilt. The live serial is `chapters_rebuilt/` \u2014 15 c",
+   "dirs": {
+    "chapters_rebuilt": {
+     "Chapter_01_Awake.md": {
+      "dlg": 18,
+      "words": 2816,
+      "sha": "dcfef53b80bb"
+     },
+     "Chapter_02_What_the_Water_Teaches.md": {
+      "dlg": 10,
+      "words": 2245,
+      "sha": "633937646a66"
+     },
+     "Chapter_03_The_One_Who_Stayed.md": {
+      "dlg": 8,
+      "words": 1952,
+      "sha": "8fe681416e06"
+     },
+     "Chapter_04_The_Teeth_in_the_Grass.md": {
+      "dlg": 11,
+      "words": 2118,
+      "sha": "8955b3bdb3df"
+     },
+     "Chapter_05_The_One_Who_Watched.md": {
+      "dlg": 20,
+      "words": 1838,
+      "sha": "1ba351750172"
+     },
+     "Chapter_06_The_One_Below.md": {
+      "dlg": 13,
+      "words": 1992,
+      "sha": "d90515ba7c8c"
+     },
+     "Chapter_07_The_One_Who_Keeps.md": {
+      "dlg": 4,
+      "words": 1890,
+      "sha": "8c3b5b19f174"
+     },
+     "Chapter_08_The_One_Who_Crossed.md": {
+      "dlg": 16,
+      "words": 2257,
+      "sha": "d185db084cec"
+     },
+     "Chapter_09_The_Last_Vigil.md": {
+      "dlg": 13,
+      "words": 2218,
+      "sha": "2d729e8246e5"
+     },
+     "Chapter_10_The_One_Who_Answers.md": {
+      "dlg": 13,
+      "words": 2480,
+      "sha": "da9c805a33a3"
+     },
+     "Chapter_11_The_Liar_at_the_Door.md": {
+      "dlg": 14,
+      "words": 2566,
+      "sha": "67c9c75798d6"
+     },
+     "Chapter_12_The_Ten_Thousandth_Year.md": {
+      "dlg": 5,
+      "words": 1865,
+      "sha": "f09513625741"
+     },
+     "Chapter_13_The_One_Who_Goes.md": {
+      "dlg": 20,
+      "words": 2494,
+      "sha": "237e7200d64c"
+     },
+     "Chapter_14_The_Ground_That_Remembers.md": {
+      "dlg": 12,
+      "words": 2486,
+      "sha": "d991c135287b"
+     },
+     "Chapter_15_The_One_Who_Is_Named.md": {
+      "dlg": 18,
+      "words": 3376,
+      "sha": "adb36238784f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Soul_Land_2_Project",
+   "archived_path": false,
+   "status_file": "README.md",
+   "status_evidence": " here in detail). 4. `JIANG_CHE_STATUS.md` \u2014 the OC dossier (v4.2; design-era numbers are superseded where flagged \u2014 the per-chapter \"Ranks:\" lines in the codex chapter records are the source of truth",
+   "dirs": {
+    "chapters": {
+     "chapter_01.md": {
+      "dlg": 95,
+      "words": 5807,
+      "sha": "a8fe7fc61e55"
+     },
+     "chapter_02.md": {
+      "dlg": 68,
+      "words": 3003,
+      "sha": "b0466614418a"
+     },
+     "chapter_03.md": {
+      "dlg": 55,
+      "words": 2709,
+      "sha": "c7fd3f5b781d"
+     },
+     "chapter_04.md": {
+      "dlg": 76,
+      "words": 3764,
+      "sha": "0c24e28ed1b9"
+     },
+     "chapter_05.md": {
+      "dlg": 69,
+      "words": 3619,
+      "sha": "50b62290ddc1"
+     },
+     "chapter_06.md": {
+      "dlg": 69,
+      "words": 3856,
+      "sha": "8c19bcd8080e"
+     },
+     "chapter_07.md": {
+      "dlg": 85,
+      "words": 4343,
+      "sha": "4121fdb3b729"
+     },
+     "chapter_08.md": {
+      "dlg": 57,
+      "words": 3676,
+      "sha": "89377a7a1615"
+     },
+     "chapter_08a.md": {
+      "dlg": 31,
+      "words": 2778,
+      "sha": "bcb9ad574a68"
+     },
+     "chapter_09.md": {
+      "dlg": 23,
+      "words": 3539,
+      "sha": "d68d58449f3e"
+     },
+     "chapter_10.md": {
+      "dlg": 81,
+      "words": 3388,
+      "sha": "9bdedda64ecd"
+     },
+     "chapter_11.md": {
+      "dlg": 75,
+      "words": 3449,
+      "sha": "d64397337a74"
+     },
+     "chapter_12.md": {
+      "dlg": 62,
+      "words": 3083,
+      "sha": "f7e1acfdb4cd"
+     },
+     "chapter_13.md": {
+      "dlg": 59,
+      "words": 3233,
+      "sha": "644a0b35f0fc"
+     },
+     "chapter_14.md": {
+      "dlg": 58,
+      "words": 3161,
+      "sha": "8296ebc474bb"
+     },
+     "chapter_15.md": {
+      "dlg": 92,
+      "words": 3745,
+      "sha": "b1e067a4eaf2"
+     },
+     "chapter_16.md": {
+      "dlg": 41,
+      "words": 3083,
+      "sha": "8feeb968f54f"
+     },
+     "chapter_17.md": {
+      "dlg": 90,
+      "words": 3627,
+      "sha": "c4909a9f694a"
+     },
+     "chapter_18.md": {
+      "dlg": 82,
+      "words": 2994,
+      "sha": "d277a11a8bc7"
+     },
+     "chapter_19.md": {
+      "dlg": 75,
+      "words": 2840,
+      "sha": "7663e762b4fb"
+     },
+     "chapter_20.md": {
+      "dlg": 82,
+      "words": 2880,
+      "sha": "80945f171019"
+     },
+     "chapter_21.md": {
+      "dlg": 59,
+      "words": 2872,
+      "sha": "2001e10e9579"
+     },
+     "chapter_22.md": {
+      "dlg": 70,
+      "words": 4008,
+      "sha": "73274db63795"
+     },
+     "chapter_23.md": {
+      "dlg": 41,
+      "words": 4477,
+      "sha": "33ae694905f9"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "SL_ARCHIVE/sl4_foundation_v2",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 88,
+      "words": 3937,
+      "sha": "de96a96777ef"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3937,
+      "sha": "08bb9b8e4035"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4045,
+      "sha": "87ff6547afe4"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "0151ef2d340b"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6335,
+      "sha": "eca3d0e5a33a"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5648,
+      "sha": "32ebc6c1ec07"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5456,
+      "sha": "293f2e360285"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6586,
+      "sha": "2d14b55b25b5"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5523,
+      "sha": "6809fe0f4bd1"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4453,
+      "sha": "3d07876aa34c"
+     },
+     "Chapter_14.md": {
+      "dlg": 43,
+      "words": 4171,
+      "sha": "3850aaad8f88"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "chapter_01.md": {
+      "dlg": 48,
+      "words": 4793,
+      "sha": "487ba25fd85d"
+     },
+     "chapter_02.md": {
+      "dlg": 70,
+      "words": 7658,
+      "sha": "35964c085f0d"
+     },
+     "chapter_03.md": {
+      "dlg": 36,
+      "words": 5232,
+      "sha": "25b7d88d6566"
+     },
+     "chapter_04.md": {
+      "dlg": 76,
+      "words": 7833,
+      "sha": "0cfdbbafa578"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul_land_4_fire_phoenix",
+   "path": ".",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "MBERING_MAP.md` 9. `tools/perfect_continuation_skill_check.py` ## Rebuild result The user rejected the earlier post-Chapter48 direction and the overcorrected fake Dorm336 payoff. Active rebuild now st",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "ad3fc8911e9f"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "f0c08ba83298"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "56ebb24ee3af"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "f68c1ffdf6c3"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "098eff7e06c4"
+     },
+     "Chapter_31.md": {
+      "dlg": 126,
+      "words": 5240,
+      "sha": "e0839daa9ef8"
+     },
+     "Chapter_32.md": {
+      "dlg": 94,
+      "words": 4481,
+      "sha": "772c99c3e94f"
+     },
+     "Chapter_33.md": {
+      "dlg": 109,
+      "words": 4724,
+      "sha": "ef29f73d0969"
+     },
+     "Chapter_34.md": {
+      "dlg": 128,
+      "words": 5523,
+      "sha": "a9115b654ccf"
+     },
+     "Chapter_35.md": {
+      "dlg": 93,
+      "words": 5149,
+      "sha": "8652def81b64"
+     },
+     "Chapter_36.md": {
+      "dlg": 159,
+      "words": 5721,
+      "sha": "bfbba4388845"
+     },
+     "Chapter_37.md": {
+      "dlg": 74,
+      "words": 6045,
+      "sha": "f45354c59adc"
+     },
+     "Chapter_38.md": {
+      "dlg": 136,
+      "words": 6589,
+      "sha": "57b8db6c5605"
+     },
+     "Chapter_39.md": {
+      "dlg": 182,
+      "words": 8332,
+      "sha": "6e1adb9a5dda"
+     },
+     "Chapter_40.md": {
+      "dlg": 137,
+      "words": 6160,
+      "sha": "84c25be38e93"
+     },
+     "Chapter_41.md": {
+      "dlg": 95,
+      "words": 5957,
+      "sha": "2bbad464ac39"
+     },
+     "Chapter_42.md": {
+      "dlg": 73,
+      "words": 4332,
+      "sha": "9227efae828a"
+     },
+     "Chapter_43.md": {
+      "dlg": 135,
+      "words": 6739,
+      "sha": "120aa996f2f3"
+     },
+     "Chapter_44.md": {
+      "dlg": 222,
+      "words": 6602,
+      "sha": "7d29ef1f46ad"
+     },
+     "Chapter_45.md": {
+      "dlg": 169,
+      "words": 6454,
+      "sha": "62254f83df05"
+     },
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 115,
+      "words": 2501,
+      "sha": "467c245588a3"
+     },
+     "Chapter_48.md": {
+      "dlg": 68,
+      "words": 1740,
+      "sha": "89b77a74eb59"
+     },
+     "Chapter_49.md": {
+      "dlg": 47,
+      "words": 2204,
+      "sha": "c4cd8c150177"
+     },
+     "Chapter_50.md": {
+      "dlg": 46,
+      "words": 1992,
+      "sha": "7e86ae8461bc"
+     },
+     "Chapter_51.md": {
+      "dlg": 55,
+      "words": 1940,
+      "sha": "644a5675b97f"
+     },
+     "Chapter_52.md": {
+      "dlg": 63,
+      "words": 2495,
+      "sha": "cab4d3e9cfc7"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul_land_4_fire_phoenix",
+   "path": "archive/rejected_post48_2026-09-17",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_49.md": {
+      "dlg": 150,
+      "words": 5151,
+      "sha": "bf1f1d393f61"
+     },
+     "Chapter_50.md": {
+      "dlg": 97,
+      "words": 3645,
+      "sha": "9a33cd2b6a15"
+     },
+     "Chapter_51.md": {
+      "dlg": 37,
+      "words": 3474,
+      "sha": "f82ae691e809"
+     },
+     "Chapter_52.md": {
+      "dlg": 55,
+      "words": 3054,
+      "sha": "0ea0fa1a70f7"
+     },
+     "Chapter_53.md": {
+      "dlg": 78,
+      "words": 3270,
+      "sha": "7a0ec2a35f6b"
+     }
+    }
+   }
+  },
+  {
+   "repo": "soul_land_4_fire_phoenix",
+   "path": "archive/rejected_overcorrection_2026-09-17",
+   "archived_path": true,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 218,
+      "words": 5226,
+      "sha": "544a76999338"
+     },
+     "Chapter_48.md": {
+      "dlg": 316,
+      "words": 7866,
+      "sha": "7f60df81c7a0"
+     },
+     "Chapter_49.md": {
+      "dlg": 78,
+      "words": 2703,
+      "sha": "4efabf67f91e"
+     },
+     "Chapter_50.md": {
+      "dlg": 56,
+      "words": 2856,
+      "sha": "cb80bc846e2b"
+     },
+     "Chapter_51.md": {
+      "dlg": 58,
+      "words": 2817,
+      "sha": "fe2c0e237ad9"
+     }
+    }
+   }
+  },
+  {
+   "repo": "stark_heir",
+   "path": ".",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_Before_the_News.md": {
+      "dlg": 168,
+      "words": 5903,
+      "sha": "8a318b0cd3cd"
+     },
+     "Chapter_02_The_Albatross.md": {
+      "dlg": 142,
+      "words": 6386,
+      "sha": "0bf3d04f02cf"
+     },
+     "Chapter_03_The_Return.md": {
+      "dlg": 128,
+      "words": 5055,
+      "sha": "230f91dbba33"
+     },
+     "Chapter_04_The_Workshop_Rebirth.md": {
+      "dlg": 112,
+      "words": 5531,
+      "sha": "f5f848fedf5b"
+     },
+     "Chapter_05_Gulmira.md": {
+      "dlg": 77,
+      "words": 4794,
+      "sha": "4c04a73ad34f"
+     }
+    }
+   }
+  },
+  {
+   "repo": "storyos-site",
+   "path": "published-site/soul_land_4",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 95,
+      "words": 4483,
+      "sha": "b38a07d420bb"
+     },
+     "Chapter_02.md": {
+      "dlg": 114,
+      "words": 3952,
+      "sha": "9e637326cbdb"
+     },
+     "Chapter_03.md": {
+      "dlg": 99,
+      "words": 3606,
+      "sha": "2e2ad798ab7e"
+     },
+     "Chapter_04.md": {
+      "dlg": 103,
+      "words": 4125,
+      "sha": "915901fa4d4d"
+     },
+     "Chapter_05.md": {
+      "dlg": 101,
+      "words": 6665,
+      "sha": "a5f0bdd11af6"
+     },
+     "Chapter_06.md": {
+      "dlg": 99,
+      "words": 6251,
+      "sha": "894627002153"
+     },
+     "Chapter_07.md": {
+      "dlg": 189,
+      "words": 6330,
+      "sha": "7a3eef037ad1"
+     },
+     "Chapter_08.md": {
+      "dlg": 147,
+      "words": 6709,
+      "sha": "8c758b7c650b"
+     },
+     "Chapter_09.md": {
+      "dlg": 173,
+      "words": 5651,
+      "sha": "b17c6a61070c"
+     },
+     "Chapter_10.md": {
+      "dlg": 119,
+      "words": 5461,
+      "sha": "34c3cc8abb45"
+     },
+     "Chapter_11.md": {
+      "dlg": 175,
+      "words": 6627,
+      "sha": "cc4e07f90fba"
+     },
+     "Chapter_12.md": {
+      "dlg": 101,
+      "words": 5526,
+      "sha": "598722788b94"
+     },
+     "Chapter_13.md": {
+      "dlg": 125,
+      "words": 4919,
+      "sha": "320d9e26ef3a"
+     },
+     "Chapter_14.md": {
+      "dlg": 45,
+      "words": 4269,
+      "sha": "4dfdb9babf2f"
+     },
+     "Chapter_15.md": {
+      "dlg": 61,
+      "words": 4229,
+      "sha": "b8ce09150016"
+     },
+     "Chapter_16.md": {
+      "dlg": 136,
+      "words": 5375,
+      "sha": "250d0a75580c"
+     },
+     "Chapter_17.md": {
+      "dlg": 138,
+      "words": 5354,
+      "sha": "687c14ed4aa7"
+     },
+     "Chapter_18.md": {
+      "dlg": 122,
+      "words": 5467,
+      "sha": "50bb11a3b39d"
+     },
+     "Chapter_19.md": {
+      "dlg": 87,
+      "words": 6343,
+      "sha": "5c761cb70d5a"
+     },
+     "Chapter_20.md": {
+      "dlg": 56,
+      "words": 5398,
+      "sha": "07d6a76a35e8"
+     },
+     "Chapter_21.md": {
+      "dlg": 90,
+      "words": 6056,
+      "sha": "911b035b435f"
+     },
+     "Chapter_22.md": {
+      "dlg": 147,
+      "words": 5636,
+      "sha": "7ef15b54c320"
+     },
+     "Chapter_23.md": {
+      "dlg": 75,
+      "words": 5941,
+      "sha": "eb8cc6bfcc9c"
+     },
+     "Chapter_24.md": {
+      "dlg": 116,
+      "words": 5560,
+      "sha": "55802bbe2e68"
+     },
+     "Chapter_25.md": {
+      "dlg": 143,
+      "words": 8179,
+      "sha": "b513617a67b5"
+     },
+     "Chapter_26.md": {
+      "dlg": 147,
+      "words": 6301,
+      "sha": "ad3fc8911e9f"
+     },
+     "Chapter_27.md": {
+      "dlg": 52,
+      "words": 3764,
+      "sha": "f0c08ba83298"
+     },
+     "Chapter_28.md": {
+      "dlg": 116,
+      "words": 5059,
+      "sha": "56ebb24ee3af"
+     },
+     "Chapter_29.md": {
+      "dlg": 95,
+      "words": 4293,
+      "sha": "f68c1ffdf6c3"
+     },
+     "Chapter_30.md": {
+      "dlg": 175,
+      "words": 6916,
+      "sha": "098eff7e06c4"
+     },
+     "Chapter_31.md": {
+      "dlg": 126,
+      "words": 5240,
+      "sha": "e0839daa9ef8"
+     },
+     "Chapter_32.md": {
+      "dlg": 94,
+      "words": 4481,
+      "sha": "772c99c3e94f"
+     },
+     "Chapter_33.md": {
+      "dlg": 109,
+      "words": 4724,
+      "sha": "ef29f73d0969"
+     },
+     "Chapter_34.md": {
+      "dlg": 128,
+      "words": 5523,
+      "sha": "a9115b654ccf"
+     },
+     "Chapter_35.md": {
+      "dlg": 93,
+      "words": 5149,
+      "sha": "8652def81b64"
+     },
+     "Chapter_36.md": {
+      "dlg": 159,
+      "words": 5721,
+      "sha": "bfbba4388845"
+     },
+     "Chapter_37.md": {
+      "dlg": 74,
+      "words": 6045,
+      "sha": "f45354c59adc"
+     },
+     "Chapter_38.md": {
+      "dlg": 136,
+      "words": 6589,
+      "sha": "57b8db6c5605"
+     },
+     "Chapter_39.md": {
+      "dlg": 182,
+      "words": 8332,
+      "sha": "6e1adb9a5dda"
+     },
+     "Chapter_40.md": {
+      "dlg": 137,
+      "words": 6160,
+      "sha": "84c25be38e93"
+     },
+     "Chapter_41.md": {
+      "dlg": 95,
+      "words": 5957,
+      "sha": "2bbad464ac39"
+     },
+     "Chapter_42.md": {
+      "dlg": 73,
+      "words": 4332,
+      "sha": "9227efae828a"
+     },
+     "Chapter_43.md": {
+      "dlg": 135,
+      "words": 6739,
+      "sha": "120aa996f2f3"
+     },
+     "Chapter_44.md": {
+      "dlg": 222,
+      "words": 6602,
+      "sha": "7d29ef1f46ad"
+     },
+     "Chapter_45.md": {
+      "dlg": 169,
+      "words": 6454,
+      "sha": "62254f83df05"
+     },
+     "Chapter_46.md": {
+      "dlg": 165,
+      "words": 5294,
+      "sha": "9a301e93edc9"
+     },
+     "Chapter_47.md": {
+      "dlg": 115,
+      "words": 2501,
+      "sha": "467c245588a3"
+     },
+     "Chapter_48.md": {
+      "dlg": 68,
+      "words": 1740,
+      "sha": "89b77a74eb59"
+     },
+     "Chapter_49.md": {
+      "dlg": 47,
+      "words": 2204,
+      "sha": "c4cd8c150177"
+     },
+     "Chapter_50.md": {
+      "dlg": 46,
+      "words": 1992,
+      "sha": "7e86ae8461bc"
+     },
+     "Chapter_51.md": {
+      "dlg": 55,
+      "words": 1940,
+      "sha": "644a5675b97f"
+     },
+     "Chapter_52.md": {
+      "dlg": 63,
+      "words": 2495,
+      "sha": "cab4d3e9cfc7"
+     }
+    }
+   }
+  },
+  {
+   "repo": "storyos-site",
+   "path": "published-site/dragon_prince_yuan",
+   "archived_path": false,
+   "status_file": null,
+   "status_evidence": "",
+   "dirs": {
+    "chapters": {
+     "Chapter_01.md": {
+      "dlg": 51,
+      "words": 3706,
+      "sha": "3f73d428949c"
+     }
+    }
+   }
+  },
+  {
+   "repo": "supergirl-adrian-vale",
+   "path": ".",
+   "archived_path": false,
+   "status_file": "HANDOFF.md",
+   "status_evidence": "EST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state. ## 4. Locks Exact typed messages and menu choices: `foundation",
+   "dirs": {
+    "chapters": {
+     "Chapter_01_Adrian_Vale.md": {
+      "dlg": 177,
+      "words": 4284,
+      "sha": "401efd38b199"
+     },
+     "Chapter_02_A_Familiar_Face.md": {
+      "dlg": 193,
+      "words": 3864,
+      "sha": "f8ae65fdd544"
+     },
+     "Chapter_03_The_Name_He_Feared.md": {
+      "dlg": 131,
+      "words": 3530,
+      "sha": "029883831322"
+     },
+     "Chapter_04_What_Remains.md": {
+      "dlg": 208,
+      "words": 3542,
+      "sha": "57d6cce19aaf"
+     },
+     "Chapter_05_In_Plain_Sight.md": {
+      "dlg": 173,
+      "words": 5572,
+      "sha": "1ba6db649b8a"
+     },
+     "Chapter_06_Under_the_Headline.md": {
+      "dlg": 184,
+      "words": 4766,
+      "sha": "035a335abc62"
+     },
+     "Chapter_07_How_Does_She_Do_It.md": {
+      "dlg": 200,
+      "words": 3731,
+      "sha": "8e5370d14ea0"
+     },
+     "Chapter_08_The_Woman_Who_Stayed.md": {
+      "dlg": 188,
+      "words": 3965,
+      "sha": "98d41f62d6ac"
+     },
+     "Chapter_09_Red_Faced_and_Named.md": {
+      "dlg": 41,
+      "words": 4259,
+      "sha": "4c22e906950b"
+     },
+     "Chapter_10_Red_Faced_Consequence.md": {
+      "dlg": 69,
+      "words": 3450,
+      "sha": "1e99815b61f6"
+     },
+     "Chapter_11_The_Sun.md": {
+      "dlg": 17,
+      "words": 4268,
+      "sha": "60ac0fbef3b2"
+     },
+     "Chapter_12_The_Kiss.md": {
+      "dlg": 9,
+      "words": 4099,
+      "sha": "4b065e19019f"
+     },
+     "Chapter_13_Human_for_a_Day.md": {
+      "dlg": 36,
+      "words": 3295,
+      "sha": "72c0a9ba76e6"
+     },
+     "Chapter_14_Hostile_Takeover.md": {
+      "dlg": 20,
+      "words": 3455,
+      "sha": "3e1eb3c43460"
+     },
+     "Chapter_15_Blood_Bonds.md": {
+      "dlg": 49,
+      "words": 2943,
+      "sha": "acc4c88501a7"
+     },
+     "Chapter_16_Childish_Things.md": {
+      "dlg": 36,
+      "words": 4074,
+      "sha": "de388acf364d"
+     },
+     "Chapter_17_Childish_Things_Convention.md": {
+      "dlg": 49,
+      "words": 6628,
+      "sha": "a70ff6e69952"
+     },
+     "README.md": {
+      "dlg": 0,
+      "words": 22,
+      "sha": "94df98352619"
+     }
+    }
+   }
+  }
+ ],
+ "gates": [
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/verify_public_recovery.py",
+   "bytes": 1676,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_workshop.py",
+   "bytes": 2793,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_line_48_60.py",
+   "bytes": 6570,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_line_48_59.py",
+   "bytes": 6289,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_line_48_58.py",
+   "bytes": 6190,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_60.py",
+   "bytes": 2932,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_59.py",
+   "bytes": 2849,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_58.py",
+   "bytes": 2742,
+   "chapters": false,
+   "rebuilt": true,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_57.py",
+   "bytes": 3043,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_56.py",
+   "bytes": 4481,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_replacement_chapter_55.py",
+   "bytes": 4529,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_local_accepted_v2_release.py",
+   "bytes": 4503,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_github_governance.py",
+   "bytes": 5539,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_current_v2_line.py",
+   "bytes": 4799,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "tools/validate_all.py",
+   "bytes": 1568,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix/tools/perfect_continuation_skill_check.py",
+   "bytes": 26767,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/validate_option_a_staging.py",
+   "bytes": 5159,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": "continuation_preparation/tools/validate_preparation.py",
+   "bytes": 4705,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "fire-phoenix-workshop",
+   "path": ".github/workflows/validate.yml",
+   "bytes": 1540,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "how-to-write-fanfiction",
+   "path": "examples/minigate.py",
+   "bytes": 5924,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "how-to-write-fanfiction",
+   "path": "examples/github-actions-gate.yml",
+   "bytes": 877,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/verify.py",
+   "bytes": 26537,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/style_gate.py",
+   "bytes": 15727,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/selftest.py",
+   "bytes": 18391,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/plain_word_check.py",
+   "bytes": 2737,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/canon_copy_check.py",
+   "bytes": 9879,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "tools/banned_token_check.py",
+   "bytes": 11175,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "_kit_reference/tools/verify.py",
+   "bytes": 23271,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "lan_shen",
+   "path": "_kit_reference/tools/selftest.py",
+   "bytes": 17399,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "mcu_eternal_fanfic",
+   "path": "tools/mcu_verify.py",
+   "bytes": 12932,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "pokemon-adaptation",
+   "path": "tools/style_gate.py",
+   "bytes": 10201,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-1-fire-dragon-lizard",
+   "path": "tools/chapter_gate.py",
+   "bytes": 7574,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-2-the-grey-wolf",
+   "path": "tools/style_gate_ci_draft.yml",
+   "bytes": 604,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "soul-land-2-the-grey-wolf",
+   "path": "tools/style_gate.py",
+   "bytes": 9167,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": true,
+   "published": true,
+   "coverage": true,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-2-the-grey-wolf",
+   "path": "tools/gate_selftest.sh",
+   "bytes": 5210,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": true,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-2-the-grey-wolf",
+   "path": "tools/check_panels.py",
+   "bytes": 2593,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/workspace_audit.py",
+   "bytes": 5791,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/voice_check.py",
+   "bytes": 1567,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/verify_locks.py",
+   "bytes": 4104,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/sync_audit.py",
+   "bytes": 5197,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/presence_audit.py",
+   "bytes": 2717,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/completeness_audit.py",
+   "bytes": 3719,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "reference/sl3_lin_hao/Soul_Land_3_Project/checks/audit_mm.py",
+   "bytes": 4273,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "SOUL_LAND_UNIVERSAL_KIT/tools/verify.py",
+   "bytes": 23271,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py",
+   "bytes": 17399,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-projects",
+   "path": "SOUL_LAND_NEW/checks/verify.sh",
+   "bytes": 3592,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_system_cheat/tools/style_gate_ci_draft.yml",
+   "bytes": 786,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_system_cheat/tools/style_gate.py",
+   "bytes": 9171,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": true,
+   "published": false,
+   "coverage": true,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_system_cheat/tools/gate_selftest.sh",
+   "bytes": 5370,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": true,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_system_cheat/tools/check_panels.py",
+   "bytes": 2598,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_3_new/checks/verify.py",
+   "bytes": 12377,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "soul_land_2_new/checks/verify.py",
+   "bytes": 3524,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "SOUL_LAND_WORKSPACE/kit/tools/verify.py",
+   "bytes": 24500,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "SOUL_LAND_WORKSPACE/kit/tools/selftest.py",
+   "bytes": 17399,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "SOUL_LAND_UNIVERSAL_KIT/tools/verify.py",
+   "bytes": 24500,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": true,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py",
+   "bytes": 17399,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/workspace_audit.py",
+   "bytes": 5128,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/voice_check.py",
+   "bytes": 2277,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/verify_locks.py",
+   "bytes": 4881,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/sync_audit.py",
+   "bytes": 3407,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": true,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/presence_audit.py",
+   "bytes": 1959,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "path": "Miraculous_Project/checks/completeness_audit.py",
+   "bytes": 4920,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-library",
+   "path": "tools/sentinel.py",
+   "bytes": 12871,
+   "chapters": true,
+   "rebuilt": true,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul-library",
+   "path": "tools/lint_continuity.py",
+   "bytes": 3107,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul_land_4_fire_phoenix",
+   "path": "tools/perfect_continuation_skill_check.py",
+   "bytes": 26767,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "soul_land_4_fire_phoenix",
+   "path": "storyos/tools/storyos_validate.py",
+   "bytes": 33348,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "stark_heir",
+   "path": "tools/mcu_verify.py",
+   "bytes": 13002,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "storyos-site",
+   "path": "framework/tools/storyos_validate.py",
+   "bytes": 45848,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "storyos-site",
+   "path": "framework/scripts/verify_stage.py",
+   "bytes": 4960,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "supergirl-adrian-vale",
+   "path": "tools/verify_foundation.py",
+   "bytes": 11618,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "supergirl-adrian-vale",
+   "path": "tools/verify.py",
+   "bytes": 13646,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "supergirl-adrian-vale",
+   "path": "tools/selftest.py",
+   "bytes": 12488,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": true,
+   "floor": false,
+   "empty_ok": false,
+   "exits": false
+  },
+  {
+   "repo": "the-universal-storyline-creation",
+   "path": "tools/validate.py",
+   "bytes": 9020,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "the-universal-storyline-creation",
+   "path": "tools/selftest.py",
+   "bytes": 14406,
+   "chapters": false,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": false,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  },
+  {
+   "repo": "the-universal-storyline-creation",
+   "path": "tools/foundation_gate.py",
+   "bytes": 16914,
+   "chapters": true,
+   "rebuilt": false,
+   "manuscript": false,
+   "published": true,
+   "coverage": false,
+   "floor": false,
+   "empty_ok": false,
+   "exits": true
+  }
+ ]
+}

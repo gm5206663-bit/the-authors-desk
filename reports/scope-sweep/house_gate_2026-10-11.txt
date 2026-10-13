@@ -1,0 +1,600 @@
+LIVE BOOK GATE — every book under /tmp/all
+================================================================
+
+2026-10-03_option_A_v2_contiguous_C48_C55   [chapters]   single chapter directory: chapters/
+    Chapter_48.md                                 2399w band:UNDER avg: 6.7 dlg:134 (55.9/1k) over60:0
+    Chapter_49.md                                 1919w band:UNDER avg: 7.4 dlg: 81 (42.2/1k) over60:0
+    Chapter_50.md                                 1809w band:UNDER avg: 7.0 dlg: 57 (31.5/1k) over60:0
+    Chapter_51.md                                 1724w band:UNDER avg: 7.6 dlg: 73 (42.3/1k) over60:0
+    Chapter_52.md                                 1763w band:UNDER avg: 7.9 dlg: 48 (27.2/1k) over60:0
+    Chapter_53.md                                 1736w band:UNDER avg: 8.3 dlg: 40 (23.0/1k) over60:0
+    Chapter_54.md                                 1586w band:UNDER avg: 7.7 dlg: 65 (41.0/1k) over60:0
+    Chapter_55.md                                 1889w band:UNDER avg: 9.2 dlg: 19 (10.1/1k) over60:0
+
+lan_shen   [chapters]   single chapter directory: chapters/
+    Chapter_01_What_the_Master_Said.md            4216w band:OVER  avg:10.4 dlg:122 (28.9/1k) over60:0
+    Chapter_02_The_Fifteen.md                     5153w band:OVER  avg:10.0 dlg:204 (39.6/1k) over60:0
+    Chapter_03_The_Find.md                        5175w band:OVER  avg:11.8 dlg:148 (28.6/1k) over60:0
+    Chapter_04_Bringing_Her_Home.md               4641w band:OVER  avg:12.2 dlg:124 (26.7/1k) over60:0
+    Chapter_05_Stay_Here.md                       5207w band:OVER  avg:12.4 dlg:110 (21.1/1k) over60:0
+    Chapter_06_Gifted.md                          4125w band:OVER  avg: 8.6 dlg: 71 (17.2/1k) over60:0
+
+mcu_eternal_fanfic   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Weight_of_Waking.md            2890w band:IN    avg:11.2 dlg: 49 (17.0/1k) over60:0
+    Chapter_02_First_Crew.md                      2900w band:IN    avg:10.2 dlg: 74 (25.5/1k) over60:0
+    Chapter_03_The_First_Shore.md                 3422w band:OVER  avg:11.3 dlg: 57 (16.7/1k) over60:0
+
+qian-xunji-adaptation   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Night_After.md                 3304w band:IN    avg:15.5 dlg: 16 ( 4.8/1k) over60:0
+    Chapter_02_The_Codex.md                       2513w band:IN    avg:14.3 dlg: 12 ( 4.8/1k) over60:0
+    Chapter_03_The_First_Cut.md                   2541w band:IN    avg:14.2 dlg: 19 ( 7.5/1k) over60:0
+    Chapter_04_The_Second_Core.md                 2673w band:IN    avg:17.2 dlg: 16 ( 6.0/1k) over60:0
+    Chapter_05_The_Two_Waters.md                  3381w band:IN    avg:15.4 dlg: 13 ( 3.8/1k) over60:0
+    Chapter_06_The_Colour_of_Gold.md              3396w band:IN    avg:17.1 dlg: 34 (10.0/1k) over60:0
+    Chapter_07_The_Cold_Broke.md                  2605w band:IN    avg:16.4 dlg: 36 (13.8/1k) over60:0
+    Chapter_08_What_the_Sea_Sold_Cheap.md         2870w band:IN    avg:15.3 dlg: 57 (19.9/1k) over60:0
+    Chapter_09_The_Cold_North_Sea.md              2673w band:IN    avg:15.6 dlg: 45 (16.8/1k) over60:0
+
+soul-land-1-fire-dragon-lizard   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                 4751w band:OVER  avg: 8.8 dlg: 37 ( 7.8/1k) over60:0
+    Chapter_02.md                                 3545w band:OVER  avg: 7.7 dlg: 56 (15.8/1k) over60:0
+    Chapter_03.md                                 3442w band:OVER  avg: 8.2 dlg: 57 (16.6/1k) over60:0
+    Chapter_04.md                                 3456w band:OVER  avg: 9.3 dlg: 60 (17.4/1k) over60:0
+    Chapter_05.md                                 3411w band:OVER  avg: 8.5 dlg: 46 (13.5/1k) over60:0
+
+soul-land-2-the-grey-wolf   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Grey_Wolf.md                   2874w band:IN    avg:14.4 dlg: 19 ( 6.6/1k) over60:0
+    Chapter_02_The_Quiet_Climb.md                 2439w band:IN    avg:15.4 dlg: 19 ( 7.8/1k) over60:0
+    Chapter_03_The_Wall.md                        2418w band:IN    avg:13.5 dlg: 26 (10.8/1k) over60:0
+    Chapter_04_The_Patient_Kind.md                2487w band:IN    avg:19.0 dlg: 11 ( 4.4/1k) over60:0
+    Chapter_05_The_Road_Begins.md                 3369w band:IN    avg:13.3 dlg: 14 ( 4.2/1k) over60:0
+    Chapter_06_The_Hem_Road.md                    2446w band:IN    avg:15.8 dlg:  5 ( 2.0/1k) over60:0
+    Chapter_07_The_Third_Village.md               2433w band:IN    avg:15.1 dlg:  6 ( 2.5/1k) over60:0
+    Chapter_08_Road_To_Shrek.md                   2436w band:IN    avg:15.8 dlg:  5 ( 2.1/1k) over60:0
+    Chapter_09_Shrek_City.md                      2628w band:IN    avg:16.0 dlg: 14 ( 5.3/1k) over60:0
+    Chapter_10_The_Combat_Exam.md                 2262w band:UNDER avg:17.7 dlg:  5 ( 2.2/1k) over60:0
+
+SOUL_LAND_NEW   [chapters]   single chapter directory: chapters/
+    chapter_01.md                                 5751w band:OVER  avg:13.1 dlg:125 (21.7/1k) over60:0
+    chapter_02.md                                 5572w band:OVER  avg:13.4 dlg: 76 (13.6/1k) over60:2
+    chapter_03.md                                10572w band:OVER  avg:13.4 dlg:180 (17.0/1k) over60:3
+    chapter_04.md                                 8822w band:OVER  avg:17.4 dlg:119 (13.5/1k) over60:17
+    chapter_05.md                                 8419w band:OVER  avg:16.9 dlg:117 (13.9/1k) over60:17
+    chapter_06.md                                 7015w band:OVER  avg:16.2 dlg:106 (15.1/1k) over60:9
+
+blue_silver   [chapters_rebuilt]   chapters_rebuilt/ is live; chapters/ marked dead in HANDOFF.md
+    Chapter_01_Awake.md                           2816w band:IN    avg:10.3 dlg: 18 ( 6.4/1k) over60:0
+    Chapter_02_What_the_Water_Teaches.md          2245w band:UNDER avg:10.3 dlg: 10 ( 4.5/1k) over60:0
+    Chapter_03_The_One_Who_Stayed.md              1952w band:UNDER avg:10.0 dlg:  8 ( 4.1/1k) over60:0
+    Chapter_04_The_Teeth_in_the_Grass.md          2118w band:UNDER avg:10.5 dlg: 11 ( 5.2/1k) over60:0
+    Chapter_05_The_One_Who_Watched.md             1838w band:UNDER avg: 9.4 dlg: 20 (10.9/1k) over60:0
+    Chapter_06_The_One_Below.md                   1992w band:UNDER avg:10.7 dlg: 13 ( 6.5/1k) over60:0
+    Chapter_07_The_One_Who_Keeps.md               1890w band:UNDER avg: 9.7 dlg:  4 ( 2.1/1k) over60:0
+    Chapter_08_The_One_Who_Crossed.md             2257w band:UNDER avg:10.9 dlg: 16 ( 7.1/1k) over60:0
+    Chapter_09_The_Last_Vigil.md                  2218w band:UNDER avg:11.0 dlg: 13 ( 5.9/1k) over60:0
+    Chapter_10_The_One_Who_Answers.md             2480w band:IN    avg:10.5 dlg: 13 ( 5.2/1k) over60:0
+    Chapter_11_The_Liar_at_the_Door.md            2566w band:IN    avg:10.9 dlg: 14 ( 5.5/1k) over60:0
+    Chapter_12_The_Ten_Thousandth_Year.md         1865w band:UNDER avg:10.8 dlg:  5 ( 2.7/1k) over60:0
+    Chapter_13_The_One_Who_Goes.md                2494w band:IN    avg:10.5 dlg: 20 ( 8.0/1k) over60:0
+    Chapter_14_The_Ground_That_Remembers.md       2486w band:IN    avg:11.3 dlg: 12 ( 4.8/1k) over60:0
+    Chapter_15_The_One_Who_Is_Named.md            3376w band:IN    avg:10.5 dlg: 18 ( 5.3/1k) over60:0
+
+soul_land_starter   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                   20w band:UNDER avg: 5.0 dlg:  0 ( 0.0/1k) over60:0
+
+Miraculous_Project   [chapters]   single chapter directory: chapters/
+    chapter_01.md                                 4758w band:OVER  avg:18.9 dlg: 48 (10.1/1k) over60:0
+    chapter_02.md                                 7621w band:OVER  avg:18.7 dlg: 70 ( 9.2/1k) over60:0
+    chapter_03.md                                 5199w band:OVER  avg:21.2 dlg: 36 ( 6.9/1k) over60:0
+    chapter_04.md                                 7801w band:OVER  avg:18.3 dlg: 76 ( 9.7/1k) over60:0
+
+Soul_Land_2_Project   [chapters]   single chapter directory: chapters/
+    chapter_01.md                                 5623w band:OVER  avg:17.1 dlg: 95 (16.9/1k) over60:0
+    chapter_02.md                                 2826w band:IN    avg:14.6 dlg: 68 (24.1/1k) over60:1
+    chapter_03.md                                 2537w band:IN    avg:17.3 dlg: 55 (21.7/1k) over60:0
+    chapter_04.md                                 3605w band:OVER  avg:15.6 dlg: 76 (21.1/1k) over60:0
+    chapter_05.md                                 3468w band:OVER  avg:14.9 dlg: 69 (19.9/1k) over60:0
+    chapter_06.md                                 3704w band:OVER  avg:14.1 dlg: 69 (18.6/1k) over60:0
+    chapter_07.md                                 4186w band:OVER  avg:13.8 dlg: 85 (20.3/1k) over60:0
+    chapter_08.md                                 3533w band:OVER  avg:14.7 dlg: 57 (16.1/1k) over60:0
+    chapter_08a.md                                2706w band:IN    avg:17.0 dlg: 31 (11.5/1k) over60:0
+    chapter_09.md                                 3409w band:OVER  avg:14.3 dlg: 23 ( 6.7/1k) over60:0
+    chapter_10.md                                 3270w band:IN    avg:12.2 dlg: 81 (24.8/1k) over60:0
+    chapter_11.md                                 3305w band:IN    avg:14.7 dlg: 75 (22.7/1k) over60:0
+    chapter_12.md                                 2975w band:IN    avg:17.1 dlg: 62 (20.8/1k) over60:0
+    chapter_13.md                                 3109w band:IN    avg:17.4 dlg: 59 (19.0/1k) over60:0
+    chapter_14.md                                 2984w band:IN    avg:15.0 dlg: 58 (19.4/1k) over60:0
+    chapter_15.md                                 3580w band:OVER  avg:12.8 dlg: 92 (25.7/1k) over60:0
+    chapter_16.md                                 2908w band:IN    avg:18.2 dlg: 41 (14.1/1k) over60:0
+    chapter_17.md                                 3462w band:OVER  avg:14.1 dlg: 90 (26.0/1k) over60:0
+    chapter_18.md                                 2820w band:IN    avg:15.6 dlg: 82 (29.1/1k) over60:0
+    chapter_19.md                                 2640w band:IN    avg:13.8 dlg: 75 (28.4/1k) over60:0
+    chapter_20.md                                 2668w band:IN    avg:15.0 dlg: 82 (30.7/1k) over60:0
+    chapter_21.md                                 2696w band:IN    avg:17.5 dlg: 59 (21.9/1k) over60:0
+    chapter_22.md                                 3807w band:OVER  avg:16.4 dlg: 70 (18.4/1k) over60:0
+    chapter_23.md                                 4306w band:OVER  avg:19.6 dlg: 41 ( 9.5/1k) over60:0
+
+dragon_prince_yuan_native_oc_fanfiction   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                 3706w band:OVER  avg:10.4 dlg: 51 (13.8/1k) over60:0
+
+soul_land_2_new   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Road_to_Shrek.md               2407w band:IN    avg:14.0 dlg: 27 (11.2/1k) over60:0
+    Chapter_02_The_Measure.md                     2594w band:IN    avg:10.8 dlg: 62 (23.9/1k) over60:0
+    Chapter_03_Monsters_Run.md                    3303w band:IN    avg:10.3 dlg:112 (33.9/1k) over60:0
+    Chapter_04_The_Third_Thing.md                 2909w band:IN    avg:15.0 dlg: 80 (27.5/1k) over60:0
+    Chapter_05_Speed_And_Stance.md                2301w band:UNDER avg:12.9 dlg: 79 (34.3/1k) over60:0
+    Chapter_06_Measure_and_Weight.md              2294w band:UNDER avg:14.9 dlg: 56 (24.4/1k) over60:0
+    Chapter_07_Three_Months.md                    4407w band:OVER  avg:17.3 dlg: 44 (10.0/1k) over60:0
+    Chapter_08_The_Sect_Behind_the_Smoke.md       2272w band:UNDER avg:10.7 dlg: 51 (22.4/1k) over60:0
+
+soul_land_3_new   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Choosing.md                    3802w band:OVER  avg:15.1 dlg: 31 ( 8.2/1k) over60:0
+
+soul_land_3_oc   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Reading.md                     5184w band:OVER  avg:10.0 dlg:120 (23.1/1k) over60:0
+    Chapter_02_The_House_and_the_Road.md          5591w band:OVER  avg: 8.9 dlg: 91 (16.3/1k) over60:0
+    Chapter_03_A_Bowl_and_a_Name.md               6727w band:OVER  avg: 9.1 dlg: 98 (14.6/1k) over60:0
+    Chapter_04_A_Thousand_Times.md                9885w band:OVER  avg: 9.0 dlg:162 (16.4/1k) over60:0
+    Chapter_05_Three_Winters.md                  14267w band:OVER  avg:10.2 dlg:217 (15.2/1k) over60:0
+    Chapter_06_Thirty_Thousand.md                11306w band:OVER  avg: 9.6 dlg:209 (18.5/1k) over60:0
+    Chapter_07_The_Refusal.md                    10731w band:OVER  avg:11.4 dlg:213 (19.8/1k) over60:0
+
+soul_land_devouring_dragon   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_First_Hunger.md                3210w band:IN    avg:13.8 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_02_The_Law_of_the_Snow.md             3258w band:IN    avg:14.1 dlg: 27 ( 8.3/1k) over60:0
+    Chapter_03_The_Ring_of_Light.md               3399w band:IN    avg:15.6 dlg: 30 ( 8.8/1k) over60:0
+    Chapter_04_The_Weight_of_Blood.md             2697w band:IN    avg:15.6 dlg: 25 ( 9.3/1k) over60:0
+    Chapter_05_The_Hunger_That_Has_No_Meal.md     3380w band:IN    avg:14.9 dlg: 35 (10.4/1k) over60:0
+    Chapter_06_Greater_Than_the_Wall.md           2968w band:IN    avg:15.5 dlg: 27 ( 9.1/1k) over60:0
+    Chapter_07_The_Sense_of_Years.md              2973w band:IN    avg:16.7 dlg: 30 (10.1/1k) over60:0
+    Chapter_08_The_Deep_Country.md                3307w band:IN    avg:16.4 dlg: 29 ( 8.8/1k) over60:0
+    Chapter_09_The_Keeping_Earned.md              3400w band:IN    avg:16.2 dlg: 32 ( 9.4/1k) over60:0
+    Chapter_10_The_Cold_Country.md                3286w band:IN    avg:15.9 dlg: 31 ( 9.4/1k) over60:0
+    Chapter_11_The_War_of_the_Lists.md            2832w band:IN    avg:15.7 dlg: 27 ( 9.5/1k) over60:0
+    Chapter_12_The_Bull_at_the_Water.md           3287w band:IN    avg:16.4 dlg: 30 ( 9.1/1k) over60:0
+    Chapter_13_The_Keepers_Line.md                2564w band:IN    avg:16.7 dlg: 32 (12.5/1k) over60:0
+    Chapter_14_The_Wrong_Face.md                  3169w band:IN    avg:16.7 dlg: 38 (12.0/1k) over60:0
+    Chapter_15_The_Hounds_Third_Time.md           2229w band:UNDER avg:21.8 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_16_The_One_Print.md                   2319w band:UNDER avg:22.9 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_17_The_Long_Wet.md                    2250w band:UNDER avg:21.8 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_18_The_Dry_Country.md                 2360w band:UNDER avg:23.3 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_19_The_North_Road.md                  2018w band:UNDER avg:18.9 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_20_The_Road_Itself.md                 2036w band:UNDER avg:17.3 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_21_The_Watch_and_the_Pass.md          2017w band:UNDER avg:15.4 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_22_The_Deep_Forest_Proper.md          2025w band:UNDER avg:15.2 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_23_The_Parting.md                     2039w band:UNDER avg:16.3 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_24_The_Stone_Country.md               2058w band:UNDER avg:15.6 dlg:  0 ( 0.0/1k) over60:0
+
+soul_land_holy_spirit   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Walk_In.md                     3632w band:OVER  avg:15.4 dlg: 68 (18.7/1k) over60:0
+    Chapter_02_The_Answer.md                      3362w band:IN    avg:23.9 dlg: 30 ( 8.9/1k) over60:0
+    Chapter_03_The_Right_Way.md                   3355w band:IN    avg:26.0 dlg: 31 ( 9.2/1k) over60:0
+    Chapter_04_The_Use.md                         3347w band:IN    avg:29.4 dlg: 31 ( 9.3/1k) over60:0
+
+soul_land_new   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                   20w band:UNDER avg: 5.0 dlg:  0 ( 0.0/1k) over60:0
+    Chapter_01_The_Grass_That_Stayed.md           3221w band:IN    avg:16.7 dlg: 40 (12.4/1k) over60:0
+    Chapter_02_What_the_Village_Could_Pay.md      2687w band:IN    avg:16.8 dlg: 41 (15.3/1k) over60:0
+    Chapter_03_The_Hands_That_Learned.md          3284w band:IN    avg:23.9 dlg: 20 ( 6.1/1k) over60:0
+    Chapter_04_The_Road_Came_Home.md              3693w band:OVER  avg:18.8 dlg: 32 ( 8.7/1k) over60:0
+    Chapter_05_The_Door_in_the_Wall.md            2961w band:IN    avg:21.6 dlg: 25 ( 8.4/1k) over60:0
+    Chapter_06_The_Doors_Hinges.md                3514w band:OVER  avg:24.7 dlg: 20 ( 5.7/1k) over60:0
+
+soul_land_system_cheat   [chapters]   single chapter directory: chapters/
+    Chapter_01_The_Awakening_Day.md               3723w band:OVER  avg:15.3 dlg: 31 ( 8.3/1k) over60:0
+    Chapter_02_The_Gate_at_Yunxi.md               3755w band:OVER  avg:15.8 dlg: 27 ( 7.2/1k) over60:0
+    Chapter_03_The_White_Ring.md                  5236w band:OVER  avg:16.7 dlg: 45 ( 8.6/1k) over60:0
+    Chapter_04_The_Still_Well.md                  3088w band:IN    avg:17.9 dlg: 29 ( 9.4/1k) over60:0
+
+soul_land_4_fire_phoenix   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                 4483w band:OVER  avg: 9.1 dlg: 95 (21.2/1k) over60:0
+    Chapter_02.md                                 3952w band:OVER  avg: 8.8 dlg:114 (28.8/1k) over60:0
+    Chapter_03.md                                 3606w band:OVER  avg: 7.8 dlg: 99 (27.5/1k) over60:0
+    Chapter_04.md                                 4125w band:OVER  avg: 9.1 dlg:103 (25.0/1k) over60:0
+    Chapter_05.md                                 6665w band:OVER  avg: 9.9 dlg:101 (15.2/1k) over60:0
+    Chapter_06.md                                 6251w band:OVER  avg: 9.3 dlg: 99 (15.8/1k) over60:0
+    Chapter_07.md                                 6330w band:OVER  avg: 8.2 dlg:189 (29.9/1k) over60:0
+    Chapter_08.md                                 6709w band:OVER  avg: 9.1 dlg:147 (21.9/1k) over60:0
+    Chapter_09.md                                 5651w band:OVER  avg: 8.7 dlg:173 (30.6/1k) over60:0
+    Chapter_10.md                                 5461w band:OVER  avg: 8.1 dlg:119 (21.8/1k) over60:0
+    Chapter_11.md                                 6627w band:OVER  avg: 8.5 dlg:175 (26.4/1k) over60:0
+    Chapter_12.md                                 5526w band:OVER  avg: 7.9 dlg:101 (18.3/1k) over60:0
+    Chapter_13.md                                 4919w band:OVER  avg: 8.6 dlg:125 (25.4/1k) over60:0
+    Chapter_14.md                                 4269w band:OVER  avg: 8.9 dlg: 45 (10.5/1k) over60:0
+    Chapter_15.md                                 4229w band:OVER  avg: 8.2 dlg: 61 (14.4/1k) over60:0
+    Chapter_16.md                                 5375w band:OVER  avg: 8.3 dlg:136 (25.3/1k) over60:0
+    Chapter_17.md                                 5354w band:OVER  avg: 8.4 dlg:138 (25.8/1k) over60:0
+    Chapter_18.md                                 5467w band:OVER  avg: 8.4 dlg:122 (22.3/1k) over60:0
+    Chapter_19.md                                 6343w band:OVER  avg: 8.6 dlg: 87 (13.7/1k) over60:0
+    Chapter_20.md                                 5398w band:OVER  avg: 9.4 dlg: 56 (10.4/1k) over60:0
+    Chapter_21.md                                 6056w band:OVER  avg: 8.2 dlg: 90 (14.9/1k) over60:0
+    Chapter_22.md                                 5636w band:OVER  avg: 8.2 dlg:147 (26.1/1k) over60:0
+    Chapter_23.md                                 5941w band:OVER  avg: 9.9 dlg: 75 (12.6/1k) over60:0
+    Chapter_24.md                                 5560w band:OVER  avg: 9.0 dlg:116 (20.9/1k) over60:0
+    Chapter_25.md                                 8179w band:OVER  avg: 8.9 dlg:143 (17.5/1k) over60:0
+    Chapter_26.md                                 6301w band:OVER  avg: 8.5 dlg:147 (23.3/1k) over60:0
+    Chapter_27.md                                 3764w band:OVER  avg: 8.7 dlg: 52 (13.8/1k) over60:0
+    Chapter_28.md                                 5059w band:OVER  avg: 8.5 dlg:116 (22.9/1k) over60:0
+    Chapter_29.md                                 4293w band:OVER  avg: 8.5 dlg: 95 (22.1/1k) over60:0
+    Chapter_30.md                                 6916w band:OVER  avg: 7.9 dlg:175 (25.3/1k) over60:0
+    Chapter_31.md                                 5240w band:OVER  avg: 8.2 dlg:126 (24.0/1k) over60:0
+    Chapter_32.md                                 4481w band:OVER  avg: 9.4 dlg: 94 (21.0/1k) over60:0
+    Chapter_33.md                                 4724w band:OVER  avg: 8.3 dlg:109 (23.1/1k) over60:0
+    Chapter_34.md                                 5523w band:OVER  avg: 7.5 dlg:128 (23.2/1k) over60:0
+    Chapter_35.md                                 5149w band:OVER  avg: 8.0 dlg: 93 (18.1/1k) over60:0
+    Chapter_36.md                                 5721w band:OVER  avg: 8.3 dlg:159 (27.8/1k) over60:0
+    Chapter_37.md                                 6045w band:OVER  avg: 8.4 dlg: 74 (12.2/1k) over60:0
+    Chapter_38.md                                 6589w band:OVER  avg: 8.4 dlg:136 (20.6/1k) over60:0
+    Chapter_39.md                                 8332w band:OVER  avg: 7.9 dlg:182 (21.8/1k) over60:0
+    Chapter_40.md                                 6160w band:OVER  avg: 8.6 dlg:137 (22.2/1k) over60:0
+    Chapter_41.md                                 5957w band:OVER  avg: 8.4 dlg: 95 (15.9/1k) over60:0
+    Chapter_42.md                                 4332w band:OVER  avg: 7.8 dlg: 73 (16.9/1k) over60:0
+    Chapter_43.md                                 6739w band:OVER  avg: 8.7 dlg:135 (20.0/1k) over60:0
+    Chapter_44.md                                 6602w band:OVER  avg: 7.5 dlg:222 (33.6/1k) over60:0
+    Chapter_45.md                                 6454w band:OVER  avg: 8.2 dlg:169 (26.2/1k) over60:0
+    Chapter_46.md                                 5294w band:OVER  avg: 7.2 dlg:165 (31.2/1k) over60:0
+    Chapter_47.md                                 2501w band:IN    avg: 7.2 dlg:115 (46.0/1k) over60:0
+    Chapter_48.md                                 1740w band:UNDER avg: 7.0 dlg: 68 (39.1/1k) over60:0
+    Chapter_49.md                                 2204w band:UNDER avg: 8.9 dlg: 47 (21.3/1k) over60:0
+    Chapter_50.md                                 1992w band:UNDER avg: 8.3 dlg: 46 (23.1/1k) over60:0
+    Chapter_51.md                                 1940w band:UNDER avg: 7.9 dlg: 55 (28.4/1k) over60:0
+    Chapter_52.md                                 2495w band:IN    avg:12.8 dlg: 63 (25.3/1k) over60:0
+
+stark_heir   [chapters]   single chapter directory: chapters/
+    Chapter_01_Before_the_News.md                 5901w band:OVER  avg:11.2 dlg:168 (28.5/1k) over60:0
+    Chapter_02_The_Albatross.md                   6378w band:OVER  avg:12.9 dlg:142 (22.3/1k) over60:0
+    Chapter_03_The_Return.md                      5053w band:OVER  avg:12.2 dlg:128 (25.3/1k) over60:0
+    Chapter_04_The_Workshop_Rebirth.md            5527w band:OVER  avg:14.6 dlg:112 (20.3/1k) over60:0
+    Chapter_05_Gulmira.md                         4788w band:OVER  avg:14.9 dlg: 77 (16.1/1k) over60:0
+
+dragon_prince_yuan   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                 3706w band:OVER  avg:10.4 dlg: 51 (13.8/1k) over60:0
+
+soul_land_4   [chapters]   single chapter directory: chapters/
+    Chapter_01.md                                 4483w band:OVER  avg: 9.1 dlg: 95 (21.2/1k) over60:0
+    Chapter_02.md                                 3952w band:OVER  avg: 8.8 dlg:114 (28.8/1k) over60:0
+    Chapter_03.md                                 3606w band:OVER  avg: 7.8 dlg: 99 (27.5/1k) over60:0
+    Chapter_04.md                                 4125w band:OVER  avg: 9.1 dlg:103 (25.0/1k) over60:0
+    Chapter_05.md                                 6665w band:OVER  avg: 9.9 dlg:101 (15.2/1k) over60:0
+    Chapter_06.md                                 6251w band:OVER  avg: 9.3 dlg: 99 (15.8/1k) over60:0
+    Chapter_07.md                                 6330w band:OVER  avg: 8.2 dlg:189 (29.9/1k) over60:0
+    Chapter_08.md                                 6709w band:OVER  avg: 9.1 dlg:147 (21.9/1k) over60:0
+    Chapter_09.md                                 5651w band:OVER  avg: 8.7 dlg:173 (30.6/1k) over60:0
+    Chapter_10.md                                 5461w band:OVER  avg: 8.1 dlg:119 (21.8/1k) over60:0
+    Chapter_11.md                                 6627w band:OVER  avg: 8.5 dlg:175 (26.4/1k) over60:0
+    Chapter_12.md                                 5526w band:OVER  avg: 7.9 dlg:101 (18.3/1k) over60:0
+    Chapter_13.md                                 4919w band:OVER  avg: 8.6 dlg:125 (25.4/1k) over60:0
+    Chapter_14.md                                 4269w band:OVER  avg: 8.9 dlg: 45 (10.5/1k) over60:0
+    Chapter_15.md                                 4229w band:OVER  avg: 8.2 dlg: 61 (14.4/1k) over60:0
+    Chapter_16.md                                 5375w band:OVER  avg: 8.3 dlg:136 (25.3/1k) over60:0
+    Chapter_17.md                                 5354w band:OVER  avg: 8.4 dlg:138 (25.8/1k) over60:0
+    Chapter_18.md                                 5467w band:OVER  avg: 8.4 dlg:122 (22.3/1k) over60:0
+    Chapter_19.md                                 6343w band:OVER  avg: 8.6 dlg: 87 (13.7/1k) over60:0
+    Chapter_20.md                                 5398w band:OVER  avg: 9.4 dlg: 56 (10.4/1k) over60:0
+    Chapter_21.md                                 6056w band:OVER  avg: 8.2 dlg: 90 (14.9/1k) over60:0
+    Chapter_22.md                                 5636w band:OVER  avg: 8.2 dlg:147 (26.1/1k) over60:0
+    Chapter_23.md                                 5941w band:OVER  avg: 9.9 dlg: 75 (12.6/1k) over60:0
+    Chapter_24.md                                 5560w band:OVER  avg: 9.0 dlg:116 (20.9/1k) over60:0
+    Chapter_25.md                                 8179w band:OVER  avg: 8.9 dlg:143 (17.5/1k) over60:0
+    Chapter_26.md                                 6301w band:OVER  avg: 8.5 dlg:147 (23.3/1k) over60:0
+    Chapter_27.md                                 3764w band:OVER  avg: 8.7 dlg: 52 (13.8/1k) over60:0
+    Chapter_28.md                                 5059w band:OVER  avg: 8.5 dlg:116 (22.9/1k) over60:0
+    Chapter_29.md                                 4293w band:OVER  avg: 8.5 dlg: 95 (22.1/1k) over60:0
+    Chapter_30.md                                 6916w band:OVER  avg: 7.9 dlg:175 (25.3/1k) over60:0
+    Chapter_31.md                                 5240w band:OVER  avg: 8.2 dlg:126 (24.0/1k) over60:0
+    Chapter_32.md                                 4481w band:OVER  avg: 9.4 dlg: 94 (21.0/1k) over60:0
+    Chapter_33.md                                 4724w band:OVER  avg: 8.3 dlg:109 (23.1/1k) over60:0
+    Chapter_34.md                                 5523w band:OVER  avg: 7.5 dlg:128 (23.2/1k) over60:0
+    Chapter_35.md                                 5149w band:OVER  avg: 8.0 dlg: 93 (18.1/1k) over60:0
+    Chapter_36.md                                 5721w band:OVER  avg: 8.3 dlg:159 (27.8/1k) over60:0
+    Chapter_37.md                                 6045w band:OVER  avg: 8.4 dlg: 74 (12.2/1k) over60:0
+    Chapter_38.md                                 6589w band:OVER  avg: 8.4 dlg:136 (20.6/1k) over60:0
+    Chapter_39.md                                 8332w band:OVER  avg: 7.9 dlg:182 (21.8/1k) over60:0
+    Chapter_40.md                                 6160w band:OVER  avg: 8.6 dlg:137 (22.2/1k) over60:0
+    Chapter_41.md                                 5957w band:OVER  avg: 8.4 dlg: 95 (15.9/1k) over60:0
+    Chapter_42.md                                 4332w band:OVER  avg: 7.8 dlg: 73 (16.9/1k) over60:0
+    Chapter_43.md                                 6739w band:OVER  avg: 8.7 dlg:135 (20.0/1k) over60:0
+    Chapter_44.md                                 6602w band:OVER  avg: 7.5 dlg:222 (33.6/1k) over60:0
+    Chapter_45.md                                 6454w band:OVER  avg: 8.2 dlg:169 (26.2/1k) over60:0
+    Chapter_46.md                                 5294w band:OVER  avg: 7.2 dlg:165 (31.2/1k) over60:0
+    Chapter_47.md                                 2501w band:IN    avg: 7.2 dlg:115 (46.0/1k) over60:0
+    Chapter_48.md                                 1740w band:UNDER avg: 7.0 dlg: 68 (39.1/1k) over60:0
+    Chapter_49.md                                 2204w band:UNDER avg: 8.9 dlg: 47 (21.3/1k) over60:0
+    Chapter_50.md                                 1992w band:UNDER avg: 8.3 dlg: 46 (23.1/1k) over60:0
+    Chapter_51.md                                 1940w band:UNDER avg: 7.9 dlg: 55 (28.4/1k) over60:0
+    Chapter_52.md                                 2495w band:IN    avg:12.8 dlg: 63 (25.3/1k) over60:0
+
+supergirl-adrian-vale   [chapters]   single chapter directory: chapters/
+    Chapter_01_Adrian_Vale.md                     4278w band:OVER  avg: 7.9 dlg:177 (41.4/1k) over60:0
+    Chapter_02_A_Familiar_Face.md                 3857w band:OVER  avg: 7.9 dlg:193 (50.0/1k) over60:0
+    Chapter_03_The_Name_He_Feared.md              3522w band:OVER  avg: 7.9 dlg:131 (37.2/1k) over60:0
+    Chapter_04_What_Remains.md                    3536w band:OVER  avg: 7.3 dlg:208 (58.8/1k) over60:0
+    Chapter_05_In_Plain_Sight.md                  5565w band:OVER  avg: 9.6 dlg:173 (31.1/1k) over60:0
+    Chapter_06_Under_the_Headline.md              4759w band:OVER  avg: 9.3 dlg:184 (38.7/1k) over60:0
+    Chapter_07_How_Does_She_Do_It.md              3722w band:OVER  avg: 7.6 dlg:200 (53.7/1k) over60:0
+    Chapter_08_The_Woman_Who_Stayed.md            3957w band:OVER  avg: 8.3 dlg:188 (47.5/1k) over60:1
+    Chapter_09_Red_Faced_and_Named.md             2551w band:IN    avg:10.8 dlg: 41 (16.1/1k) over60:1
+    Chapter_10_Red_Faced_Consequence.md           2712w band:IN    avg:12.7 dlg: 63 (23.2/1k) over60:3
+    Chapter_11_The_Sun.md                         1319w band:UNDER avg:16.5 dlg: 16 (12.1/1k) over60:0
+    Chapter_12_The_Kiss.md                        3385w band:IN    avg:33.8 dlg:  9 ( 2.7/1k) over60:23
+    Chapter_13_Human_for_a_Day.md                 2238w band:UNDER avg:12.3 dlg: 34 (15.2/1k) over60:3
+    Chapter_14_Hostile_Takeover.md                2919w band:IN    avg:17.2 dlg: 20 ( 6.9/1k) over60:9
+    Chapter_15_Blood_Bonds.md                     2943w band:IN    avg:14.6 dlg: 49 (16.6/1k) over60:3
+    Chapter_16_Childish_Things.md                 4074w band:OVER  avg:19.5 dlg: 36 ( 8.8/1k) over60:8
+    Chapter_17_Childish_Things_Convention.md      6628w band:OVER  avg:18.0 dlg: 49 ( 7.4/1k) over60:19
+
+================================================================
+COVERAGE: 24 live book(s) gated · 14 out-of-scope path(s) skipped 
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_48.md: band:UNDER (2399w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_49.md: band:UNDER (1919w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_50.md: band:UNDER (1809w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_51.md: band:UNDER (1724w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_52.md: band:UNDER (1763w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_53.md: band:UNDER (1736w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_54.md: band:UNDER (1586w)
+WARN  [fire-phoenix-workshop/accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55] Chapter_55.md: band:UNDER (1889w)
+WARN  out of scope, not gated: fire-phoenix-workshop/late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix/archive/rejected_overcorrection_2026-09-17
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/chapter51_managed_snapshot/soul_land_4_fire_phoenix/archive/rejected_post48_2026-09-17
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/_archive/2026-09-19_stale_sl4_copies_at_ch31/sl4_fire_phoenix_STALE_ch31/soul_land_4_fire_phoenix
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/_archive/2026-09-19_stale_sl4_copies_at_ch31/soul_land_4_fire_phoenix_STALE_ch31
+WARN  out of scope, not gated: fire-phoenix-workshop/sources/storyos_current_public_layer/published-site/soul_land_4
+WARN  [lan_shen] Chapter_01_What_the_Master_Said.md: band:OVER (4216w)
+WARN  [lan_shen] Chapter_02_The_Fifteen.md: band:OVER (5153w)
+WARN  [lan_shen] Chapter_03_The_Find.md: band:OVER (5175w)
+WARN  [lan_shen] Chapter_04_Bringing_Her_Home.md: band:OVER (4641w)
+WARN  [lan_shen] Chapter_05_Stay_Here.md: band:OVER (5207w)
+WARN  [lan_shen] Chapter_06_Gifted.md: band:OVER (4125w)
+WARN  [mcu_eternal_fanfic] Chapter_03_The_First_Shore.md: band:OVER (3422w)
+WARN  [qian-xunji-adaptation] Chapter_01_The_Night_After.md: below the 8/1k dialogue bar (4.8/1k)
+WARN  [qian-xunji-adaptation] Chapter_02_The_Codex.md: below the 8/1k dialogue bar (4.8/1k)
+WARN  [qian-xunji-adaptation] Chapter_03_The_First_Cut.md: below the 8/1k dialogue bar (7.5/1k)
+WARN  [qian-xunji-adaptation] Chapter_04_The_Second_Core.md: below the 8/1k dialogue bar (6.0/1k)
+WARN  [qian-xunji-adaptation] Chapter_05_The_Two_Waters.md: below the 8/1k dialogue bar (3.8/1k)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_01.md: below the 8/1k dialogue bar (7.8/1k)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_01.md: band:OVER (4751w)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_02.md: band:OVER (3545w)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_03.md: band:OVER (3442w)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_04.md: band:OVER (3456w)
+WARN  [soul-land-1-fire-dragon-lizard] Chapter_05.md: band:OVER (3411w)
+WARN  [soul-land-2-the-grey-wolf] Chapter_01_The_Grey_Wolf.md: below the 8/1k dialogue bar (6.6/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_02_The_Quiet_Climb.md: below the 8/1k dialogue bar (7.8/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_04_The_Patient_Kind.md: below the 8/1k dialogue bar (4.4/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_05_The_Road_Begins.md: below the 8/1k dialogue bar (4.2/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_06_The_Hem_Road.md: below the 8/1k dialogue bar (2.0/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_07_The_Third_Village.md: below the 8/1k dialogue bar (2.5/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_08_Road_To_Shrek.md: below the 8/1k dialogue bar (2.1/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_09_Shrek_City.md: below the 8/1k dialogue bar (5.3/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_10_The_Combat_Exam.md: below the 8/1k dialogue bar (2.2/1k)
+WARN  [soul-land-2-the-grey-wolf] Chapter_10_The_Combat_Exam.md: band:UNDER (2262w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_01.md: band:OVER (5751w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_02.md: band:OVER (5572w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_03.md: band:OVER (10572w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_04.md: band:OVER (8822w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_05.md: band:OVER (8419w)
+WARN  [soul-land-projects/SOUL_LAND_NEW] chapter_06.md: band:OVER (7015w)
+WARN  out of scope, not gated: soul-land-projects/_archive/2026-09-19_stale_sl4_copy_at_ch31/sl4_fire_phoenix_STALE_ch31/soul_land_4_fire_phoenix
+WARN  [soul-land-projects/blue_silver] Chapter_01_Awake.md: below the 8/1k dialogue bar (6.4/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_02_What_the_Water_Teaches.md: below the 8/1k dialogue bar (4.5/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_02_What_the_Water_Teaches.md: band:UNDER (2245w)
+WARN  [soul-land-projects/blue_silver] Chapter_03_The_One_Who_Stayed.md: below the 8/1k dialogue bar (4.1/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_03_The_One_Who_Stayed.md: band:UNDER (1952w)
+WARN  [soul-land-projects/blue_silver] Chapter_04_The_Teeth_in_the_Grass.md: below the 8/1k dialogue bar (5.2/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_04_The_Teeth_in_the_Grass.md: band:UNDER (2118w)
+WARN  [soul-land-projects/blue_silver] Chapter_05_The_One_Who_Watched.md: band:UNDER (1838w)
+WARN  [soul-land-projects/blue_silver] Chapter_06_The_One_Below.md: below the 8/1k dialogue bar (6.5/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_06_The_One_Below.md: band:UNDER (1992w)
+WARN  [soul-land-projects/blue_silver] Chapter_07_The_One_Who_Keeps.md: below the 8/1k dialogue bar (2.1/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_07_The_One_Who_Keeps.md: band:UNDER (1890w)
+WARN  [soul-land-projects/blue_silver] Chapter_08_The_One_Who_Crossed.md: below the 8/1k dialogue bar (7.1/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_08_The_One_Who_Crossed.md: band:UNDER (2257w)
+WARN  [soul-land-projects/blue_silver] Chapter_09_The_Last_Vigil.md: below the 8/1k dialogue bar (5.9/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_09_The_Last_Vigil.md: band:UNDER (2218w)
+WARN  [soul-land-projects/blue_silver] Chapter_10_The_One_Who_Answers.md: below the 8/1k dialogue bar (5.2/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_11_The_Liar_at_the_Door.md: below the 8/1k dialogue bar (5.5/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_12_The_Ten_Thousandth_Year.md: below the 8/1k dialogue bar (2.7/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_12_The_Ten_Thousandth_Year.md: band:UNDER (1865w)
+WARN  [soul-land-projects/blue_silver] Chapter_14_The_Ground_That_Remembers.md: below the 8/1k dialogue bar (4.8/1k)
+WARN  [soul-land-projects/blue_silver] Chapter_15_The_One_Who_Is_Named.md: below the 8/1k dialogue bar (5.3/1k)
+WARN  [soul-land-projects/blue_silver] dead directory not gated: chapters/
+WARN  out of scope, not gated: soul-land-projects/reference/sl3_lin_hao/Soul_Land_3_Project
+WARN  [soul-land-projects/soul_land_starter] Chapter_01.md: below the 8/1k dialogue bar (0.0/1k)
+WARN  [soul-land-projects/soul_land_starter] Chapter_01.md: band:UNDER (20w)
+WARN  [soul-land-universal-kit/Miraculous_Project] chapter_01.md: band:OVER (4758w)
+WARN  [soul-land-universal-kit/Miraculous_Project] chapter_02.md: band:OVER (7621w)
+WARN  [soul-land-universal-kit/Miraculous_Project] chapter_03.md: below the 8/1k dialogue bar (6.9/1k)
+WARN  [soul-land-universal-kit/Miraculous_Project] chapter_03.md: band:OVER (5199w)
+WARN  [soul-land-universal-kit/Miraculous_Project] chapter_04.md: band:OVER (7801w)
+WARN  out of scope, not gated: soul-land-universal-kit/SL_ARCHIVE/sl4_foundation_v2
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_01.md: band:OVER (5623w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_04.md: band:OVER (3605w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_05.md: band:OVER (3468w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_06.md: band:OVER (3704w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_07.md: band:OVER (4186w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_08.md: band:OVER (3533w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_09.md: below the 8/1k dialogue bar (6.7/1k)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_09.md: band:OVER (3409w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_15.md: band:OVER (3580w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_17.md: band:OVER (3462w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_22.md: band:OVER (3807w)
+WARN  [soul-land-universal-kit/Soul_Land_2_Project] chapter_23.md: band:OVER (4306w)
+WARN  out of scope, not gated: soul-land-universal-kit/_archive/2026-09-30_park/blue_silver
+WARN  out of scope, not gated: soul-land-universal-kit/_archive/2026-09-30_park/soul_land_3_fanfiction
+WARN  [soul-land-universal-kit/dragon_prince_yuan_native_oc_fanfiction] Chapter_01.md: band:OVER (3706w)
+WARN  [soul-land-universal-kit/soul_land_2_new] Chapter_05_Speed_And_Stance.md: band:UNDER (2301w)
+WARN  [soul-land-universal-kit/soul_land_2_new] Chapter_06_Measure_and_Weight.md: band:UNDER (2294w)
+WARN  [soul-land-universal-kit/soul_land_2_new] Chapter_07_Three_Months.md: band:OVER (4407w)
+WARN  [soul-land-universal-kit/soul_land_2_new] Chapter_08_The_Sect_Behind_the_Smoke.md: band:UNDER (2272w)
+WARN  [soul-land-universal-kit/soul_land_3_new] Chapter_01_The_Choosing.md: band:OVER (3802w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_01_The_Reading.md: band:OVER (5184w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_02_The_House_and_the_Road.md: band:OVER (5591w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_03_A_Bowl_and_a_Name.md: band:OVER (6727w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_04_A_Thousand_Times.md: band:OVER (9885w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_05_Three_Winters.md: band:OVER (14267w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_06_Thirty_Thousand.md: band:OVER (11306w)
+WARN  [soul-land-universal-kit/soul_land_3_oc] Chapter_07_The_Refusal.md: band:OVER (10731w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_15_The_Hounds_Third_Time.md: band:UNDER (2229w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_16_The_One_Print.md: band:UNDER (2319w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_17_The_Long_Wet.md: band:UNDER (2250w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_18_The_Dry_Country.md: band:UNDER (2360w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_19_The_North_Road.md: band:UNDER (2018w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_20_The_Road_Itself.md: band:UNDER (2036w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_21_The_Watch_and_the_Pass.md: band:UNDER (2017w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_22_The_Deep_Forest_Proper.md: band:UNDER (2025w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_23_The_Parting.md: band:UNDER (2039w)
+WARN  [soul-land-universal-kit/soul_land_devouring_dragon] Chapter_24_The_Stone_Country.md: band:UNDER (2058w)
+WARN  [soul-land-universal-kit/soul_land_holy_spirit] Chapter_01_The_Walk_In.md: band:OVER (3632w)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_01.md: below the 8/1k dialogue bar (0.0/1k)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_01.md: band:UNDER (20w)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_03_The_Hands_That_Learned.md: below the 8/1k dialogue bar (6.1/1k)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_04_The_Road_Came_Home.md: band:OVER (3693w)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_06_The_Doors_Hinges.md: below the 8/1k dialogue bar (5.7/1k)
+WARN  [soul-land-universal-kit/soul_land_new] Chapter_06_The_Doors_Hinges.md: band:OVER (3514w)
+WARN  [soul-land-universal-kit/soul_land_system_cheat] Chapter_01_The_Awakening_Day.md: band:OVER (3723w)
+WARN  [soul-land-universal-kit/soul_land_system_cheat] Chapter_02_The_Gate_at_Yunxi.md: below the 8/1k dialogue bar (7.2/1k)
+WARN  [soul-land-universal-kit/soul_land_system_cheat] Chapter_02_The_Gate_at_Yunxi.md: band:OVER (3755w)
+WARN  [soul-land-universal-kit/soul_land_system_cheat] Chapter_03_The_White_Ring.md: band:OVER (5236w)
+WARN  [soul_land_4_fire_phoenix] Chapter_01.md: band:OVER (4483w)
+WARN  [soul_land_4_fire_phoenix] Chapter_02.md: band:OVER (3952w)
+WARN  [soul_land_4_fire_phoenix] Chapter_03.md: band:OVER (3606w)
+WARN  [soul_land_4_fire_phoenix] Chapter_04.md: band:OVER (4125w)
+WARN  [soul_land_4_fire_phoenix] Chapter_05.md: band:OVER (6665w)
+WARN  [soul_land_4_fire_phoenix] Chapter_06.md: band:OVER (6251w)
+WARN  [soul_land_4_fire_phoenix] Chapter_07.md: band:OVER (6330w)
+WARN  [soul_land_4_fire_phoenix] Chapter_08.md: band:OVER (6709w)
+WARN  [soul_land_4_fire_phoenix] Chapter_09.md: band:OVER (5651w)
+WARN  [soul_land_4_fire_phoenix] Chapter_10.md: band:OVER (5461w)
+WARN  [soul_land_4_fire_phoenix] Chapter_11.md: band:OVER (6627w)
+WARN  [soul_land_4_fire_phoenix] Chapter_12.md: band:OVER (5526w)
+WARN  [soul_land_4_fire_phoenix] Chapter_13.md: band:OVER (4919w)
+WARN  [soul_land_4_fire_phoenix] Chapter_14.md: band:OVER (4269w)
+WARN  [soul_land_4_fire_phoenix] Chapter_15.md: band:OVER (4229w)
+WARN  [soul_land_4_fire_phoenix] Chapter_16.md: band:OVER (5375w)
+WARN  [soul_land_4_fire_phoenix] Chapter_17.md: band:OVER (5354w)
+WARN  [soul_land_4_fire_phoenix] Chapter_18.md: band:OVER (5467w)
+WARN  [soul_land_4_fire_phoenix] Chapter_19.md: band:OVER (6343w)
+WARN  [soul_land_4_fire_phoenix] Chapter_20.md: band:OVER (5398w)
+WARN  [soul_land_4_fire_phoenix] Chapter_21.md: band:OVER (6056w)
+WARN  [soul_land_4_fire_phoenix] Chapter_22.md: band:OVER (5636w)
+WARN  [soul_land_4_fire_phoenix] Chapter_23.md: band:OVER (5941w)
+WARN  [soul_land_4_fire_phoenix] Chapter_24.md: band:OVER (5560w)
+WARN  [soul_land_4_fire_phoenix] Chapter_25.md: band:OVER (8179w)
+WARN  [soul_land_4_fire_phoenix] Chapter_26.md: band:OVER (6301w)
+WARN  [soul_land_4_fire_phoenix] Chapter_27.md: band:OVER (3764w)
+WARN  [soul_land_4_fire_phoenix] Chapter_28.md: band:OVER (5059w)
+WARN  [soul_land_4_fire_phoenix] Chapter_29.md: band:OVER (4293w)
+WARN  [soul_land_4_fire_phoenix] Chapter_30.md: band:OVER (6916w)
+WARN  [soul_land_4_fire_phoenix] Chapter_31.md: band:OVER (5240w)
+WARN  [soul_land_4_fire_phoenix] Chapter_32.md: band:OVER (4481w)
+WARN  [soul_land_4_fire_phoenix] Chapter_33.md: band:OVER (4724w)
+WARN  [soul_land_4_fire_phoenix] Chapter_34.md: band:OVER (5523w)
+WARN  [soul_land_4_fire_phoenix] Chapter_35.md: band:OVER (5149w)
+WARN  [soul_land_4_fire_phoenix] Chapter_36.md: band:OVER (5721w)
+WARN  [soul_land_4_fire_phoenix] Chapter_37.md: band:OVER (6045w)
+WARN  [soul_land_4_fire_phoenix] Chapter_38.md: band:OVER (6589w)
+WARN  [soul_land_4_fire_phoenix] Chapter_39.md: band:OVER (8332w)
+WARN  [soul_land_4_fire_phoenix] Chapter_40.md: band:OVER (6160w)
+WARN  [soul_land_4_fire_phoenix] Chapter_41.md: band:OVER (5957w)
+WARN  [soul_land_4_fire_phoenix] Chapter_42.md: band:OVER (4332w)
+WARN  [soul_land_4_fire_phoenix] Chapter_43.md: band:OVER (6739w)
+WARN  [soul_land_4_fire_phoenix] Chapter_44.md: band:OVER (6602w)
+WARN  [soul_land_4_fire_phoenix] Chapter_45.md: band:OVER (6454w)
+WARN  [soul_land_4_fire_phoenix] Chapter_46.md: band:OVER (5294w)
+WARN  [soul_land_4_fire_phoenix] Chapter_48.md: band:UNDER (1740w)
+WARN  [soul_land_4_fire_phoenix] Chapter_49.md: band:UNDER (2204w)
+WARN  [soul_land_4_fire_phoenix] Chapter_50.md: band:UNDER (1992w)
+WARN  [soul_land_4_fire_phoenix] Chapter_51.md: band:UNDER (1940w)
+WARN  out of scope, not gated: soul_land_4_fire_phoenix/archive/rejected_overcorrection_2026-09-17
+WARN  out of scope, not gated: soul_land_4_fire_phoenix/archive/rejected_post48_2026-09-17
+WARN  [stark_heir] Chapter_01_Before_the_News.md: band:OVER (5901w)
+WARN  [stark_heir] Chapter_02_The_Albatross.md: band:OVER (6378w)
+WARN  [stark_heir] Chapter_03_The_Return.md: band:OVER (5053w)
+WARN  [stark_heir] Chapter_04_The_Workshop_Rebirth.md: band:OVER (5527w)
+WARN  [stark_heir] Chapter_05_Gulmira.md: band:OVER (4788w)
+WARN  [storyos-site/published-site/dragon_prince_yuan] Chapter_01.md: band:OVER (3706w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_01.md: band:OVER (4483w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_02.md: band:OVER (3952w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_03.md: band:OVER (3606w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_04.md: band:OVER (4125w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_05.md: band:OVER (6665w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_06.md: band:OVER (6251w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_07.md: band:OVER (6330w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_08.md: band:OVER (6709w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_09.md: band:OVER (5651w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_10.md: band:OVER (5461w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_11.md: band:OVER (6627w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_12.md: band:OVER (5526w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_13.md: band:OVER (4919w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_14.md: band:OVER (4269w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_15.md: band:OVER (4229w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_16.md: band:OVER (5375w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_17.md: band:OVER (5354w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_18.md: band:OVER (5467w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_19.md: band:OVER (6343w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_20.md: band:OVER (5398w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_21.md: band:OVER (6056w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_22.md: band:OVER (5636w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_23.md: band:OVER (5941w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_24.md: band:OVER (5560w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_25.md: band:OVER (8179w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_26.md: band:OVER (6301w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_27.md: band:OVER (3764w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_28.md: band:OVER (5059w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_29.md: band:OVER (4293w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_30.md: band:OVER (6916w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_31.md: band:OVER (5240w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_32.md: band:OVER (4481w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_33.md: band:OVER (4724w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_34.md: band:OVER (5523w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_35.md: band:OVER (5149w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_36.md: band:OVER (5721w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_37.md: band:OVER (6045w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_38.md: band:OVER (6589w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_39.md: band:OVER (8332w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_40.md: band:OVER (6160w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_41.md: band:OVER (5957w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_42.md: band:OVER (4332w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_43.md: band:OVER (6739w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_44.md: band:OVER (6602w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_45.md: band:OVER (6454w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_46.md: band:OVER (5294w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_48.md: band:UNDER (1740w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_49.md: band:UNDER (2204w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_50.md: band:UNDER (1992w)
+WARN  [storyos-site/published-site/soul_land_4] Chapter_51.md: band:UNDER (1940w)
+WARN  [supergirl-adrian-vale] Chapter_01_Adrian_Vale.md: band:OVER (4278w)
+WARN  [supergirl-adrian-vale] Chapter_02_A_Familiar_Face.md: band:OVER (3857w)
+WARN  [supergirl-adrian-vale] Chapter_03_The_Name_He_Feared.md: band:OVER (3522w)
+WARN  [supergirl-adrian-vale] Chapter_04_What_Remains.md: band:OVER (3536w)
+WARN  [supergirl-adrian-vale] Chapter_05_In_Plain_Sight.md: band:OVER (5565w)
+WARN  [supergirl-adrian-vale] Chapter_06_Under_the_Headline.md: band:OVER (4759w)
+WARN  [supergirl-adrian-vale] Chapter_07_How_Does_She_Do_It.md: band:OVER (3722w)
+WARN  [supergirl-adrian-vale] Chapter_08_The_Woman_Who_Stayed.md: band:OVER (3957w)
+WARN  [supergirl-adrian-vale] Chapter_11_The_Sun.md: band:UNDER (1319w)
+WARN  [supergirl-adrian-vale] Chapter_12_The_Kiss.md: below the 8/1k dialogue bar (2.7/1k)
+WARN  [supergirl-adrian-vale] Chapter_13_Human_for_a_Day.md: band:UNDER (2238w)
+WARN  [supergirl-adrian-vale] Chapter_14_Hostile_Takeover.md: below the 8/1k dialogue bar (6.9/1k)
+WARN  [supergirl-adrian-vale] Chapter_16_Childish_Things.md: band:OVER (4074w)
+WARN  [supergirl-adrian-vale] Chapter_17_Childish_Things_Convention.md: below the 8/1k dialogue bar (7.4/1k)
+WARN  [supergirl-adrian-vale] Chapter_17_Childish_Things_Convention.md: band:OVER (6628w)
+FAIL  [soul-land-projects/SOUL_LAND_NEW] chapter_02.md: 2 sentence(s) over 60 words
+FAIL  [soul-land-projects/SOUL_LAND_NEW] chapter_03.md: 3 sentence(s) over 60 words
+FAIL  [soul-land-projects/SOUL_LAND_NEW] chapter_04.md: 17 sentence(s) over 60 words
+FAIL  [soul-land-projects/SOUL_LAND_NEW] chapter_05.md: 17 sentence(s) over 60 words
+FAIL  [soul-land-projects/SOUL_LAND_NEW] chapter_06.md: 9 sentence(s) over 60 words
+FAIL  [soul-land-projects/soul_land_starter] Chapter_01.md: dialogue 0 < floor 3
+FAIL  [soul-land-universal-kit/Soul_Land_2_Project] chapter_02.md: 1 sentence(s) over 60 words
+FAIL  [soul-land-universal-kit/soul_land_new] Chapter_01.md: dialogue 0 < floor 3
+FAIL  [supergirl-adrian-vale] Chapter_08_The_Woman_Who_Stayed.md: 1 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_09_Red_Faced_and_Named.md: 1 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_10_Red_Faced_Consequence.md: 3 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_12_The_Kiss.md: 23 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_13_Human_for_a_Day.md: 3 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_14_Hostile_Takeover.md: 9 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_15_Blood_Bonds.md: 3 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_16_Childish_Things.md: 8 sentence(s) over 60 words
+FAIL  [supergirl-adrian-vale] Chapter_17_Childish_Things_Convention.md: 19 sentence(s) over 60 words
+================================================================
+COVERAGE: 24 book(s) · 17 hard failure(s) · 253 warning(s). The band and the dialogue bar are the author's call; the floor, over60, an empty scope and an ambiguous scope are not.
+FAIL

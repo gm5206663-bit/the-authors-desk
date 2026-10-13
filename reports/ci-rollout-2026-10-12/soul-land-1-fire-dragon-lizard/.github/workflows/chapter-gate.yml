@@ -1,0 +1,61 @@
+# CHAPTER GATE — this serial's own laws, on every push.
+#
+# Armed 2026-10-12, under the same rollout as the others: actions pinned to
+# SHAs, permissions contents: read, concurrency, job timeout.
+#
+# TRIGGER COVERS WHAT THE CHECKER READS.
+#
+# WHAT THIS DOES AND DOES NOT VERIFY — the serial's own tools/chapter_gate.py (R13 band, PRE4 no-SYSTEM, Stage-0 lock) and its selftest. It is not the kit's seven gates.
+
+name: chapter-gate
+
+on:
+  push:
+    paths:
+      - 'chapters/**'
+      - 'foundation/**'
+      - 'tools/**'
+      - '.github/workflows/chapter-gate.yml'
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'foundation/**'
+      - 'tools/**'
+      - '.github/workflows/chapter-gate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: chapter-gate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    name: chapter gate + selftest
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+      - name: The gate's own selftest
+        run: python3 tools/chapter_gate.py --selftest
+
+      # The gate takes one file at a time (its usage line says so); the loop is
+      # the runner, not a weakening. Verified 2026-10-12: all five chapters pass
+      # individually, so this badge starts green.
+      - name: Every chapter
+        run: |
+          set -e
+          for f in chapters/*.md; do
+            echo "── $f"
+            python3 tools/chapter_gate.py "$f"
+          done

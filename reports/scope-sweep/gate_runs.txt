@@ -1,0 +1,162 @@
+
+=== soul-land-1-fire-dragon-lizard :: tools/chapter_gate.py
+exit=1  tree_changed=0  lines=19
+Usage:
+  python3 tools/chapter_gate.py chapters/Chapter_01.md
+  python3 tools/chapter_gate.py --selftest
+
+Exit 0 = PASS, 1 = FAIL. Never weaken a check to make a chapter pass —
+fix the chapter (house law).
+
+
+=== pokemon-adaptation :: tools/style_gate.py
+exit=2  tree_changed=0  lines=8
+
+Stdlib only. Run:  python3 tools/style_gate.py chapters/Chapter_01_*.md
+Self-test:        python3 tools/style_gate.py --selftest
+
+Every check maps to a rail in foundation/RAILS.md. A check that cannot fail on a
+bad input is not a check, which is why --selftest injects a defect for each one.
+
+
+=== supergirl-adrian-vale :: tools/verify.py
+exit=0  tree_changed=0  lines=2
+NOTE: No full episode viewing, literary quality, or complete security audit is established by this script.
+STRUCTURE: PASS — layout, state, hashes, references and generated mirrors checked
+
+=== supergirl-adrian-vale :: tools/verify_foundation.py
+exit=0  tree_changed=0  lines=1
+FOUNDATION: PASS — files, references, ledgers, causal order and view synchronization
+
+=== the-universal-storyline-creation :: tools/foundation_gate.py
+exit=2  tree_changed=0  lines=2
+usage: foundation_gate.py [-h] [--packs PACKS] [--strict] [--selftest] [root]
+foundation_gate.py: error: root is required unless --selftest
+
+=== the-universal-storyline-creation :: tools/validate.py
+exit=2  tree_changed=0  lines=11
+
+Exits 0 if valid, 1 if not. A rejected file stays in intake/drop/ and a report is
+written next to it so the filing agent can see exactly what to fix.
+
+The rules here are deliberately strict. A state layer that accepts anything
+becomes a pile of notes, and then no agent can trust it.
+
+
+=== mcu_eternal_fanfic :: tools/mcu_verify.py
+exit=0  tree_changed=0  lines=24
+[PASS] G7 marker-discipline
+         · markers fenced only; cards ≤1 and last
+[PASS] M1 manifest-edge
+         · edge ch3 matches 3 chapter files
+[PASS] M2 forbidden-future
+         · denylist ['Uni-Mind', 'Tiamut', 'Emergence', 'Blip', 'Thanos', 'Kro'] absent from prose
+TOTAL: PASS — 0 failures
+
+=== stark_heir :: tools/mcu_verify.py
+exit=0  tree_changed=0  lines=28
+[PASS] G7 marker-discipline
+         · markers fenced only; cards ≤1 and last
+[PASS] M1 manifest-edge
+         · edge ch5 matches 5 chapter files
+[PASS] M2 forbidden-future
+         · denylist ['Chitauri', 'Ultron', 'Extremis', 'Vibranium', 'Sokovia', 'Blip', 'Thanos', 'Avengers', 'Infinity'] absent from prose
+TOTAL: PASS — 0 failures
+
+=== qian-xunji-adaptation :: tools/mcu_verify.py
+MISSING FILE
+
+=== soul-library :: tools/sentinel.py
+exit=0  tree_changed=0  lines=1
+sentinel: 1 pass / 0 warn / 0 fail — 1 checks
+
+=== soul-library :: tools/lint_continuity.py
+exit=1  tree_changed=0  lines=8
+  File "/tmp/all/soul-library/tools/lint_continuity.py", line 67, in <module>
+    main()
+    ~~~~^^
+  File "/tmp/all/soul-library/tools/lint_continuity.py", line 29, in main
+    disk = sorted(int(m.group(1)) for f in os.listdir(chdir)
+                                           ~~~~~~~~~~^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/mine/kit/soul_land_devouring_dragon/chapters'
+
+=== storyos-site :: framework/scripts/verify_stage.py
+exit=1  tree_changed=0  lines=2
+VERIFY_STAGE: FAIL (0 files checked, 1 issues)
+  [FAIL] agents.md missing — no contract for the receiving agent
+
+=== soul-land-projects/reference/sl3_lin_hao/Soul_Land_3_Project :: checks/verify_locks.py
+exit=0  tree_changed=0  lines=1
+verify_locks: PASS — locks, voice tics, retired numbers and rank-rule all clean across all chapters
+
+=== soul-land-projects/reference/sl3_lin_hao/Soul_Land_3_Project :: checks/sync_audit.py
+exit=0  tree_changed=0  lines=1
+sync_audit: PASS — docs carry end-of-chapter 101 state (rank 45, SP 2824, hawk 3,199, ledger 168, 4 ensemble stations, canon method current, laws + appearance synced)
+
+=== soul-land-projects/reference/sl3_lin_hao/Soul_Land_3_Project :: checks/voice_check.py
+exit=0  tree_changed=0  lines=9
+  Part 1: What Zhang Yangzi Did          476 words · med  9 ·   2.7% dlg
+  Part 2: What Xie Xie Did               419 words · med 12 ·  43.0% dlg
+  Part 3: What Xu Xiaoyan Did            443 words · med 12 ·  13.1% dlg
+  Part 4: What Gu Yue Did                445 words · med 14 ·  24.3% dlg
+  Part 5: What Wulin Did                 432 words · med 13 ·   0.5% dlg
+  Part 6: What Wu Zhangkong Wrote        378 words · med 10 ·   0.0% dlg
+  Part 7: What Lin Hao Stood             447 words · med 11 ·   4.3% dlg
+
+=== soul-land-projects/reference/sl3_lin_hao/Soul_Land_3_Project :: checks/presence_audit.py
+exit=0  tree_changed=0  lines=2
+== Layer 5: presence_audit.py (law oo; gates ch92+) ==
+presence_audit: 0 FAIL
+
+=== soul-land-universal-kit/Miraculous_Project :: checks/sync_audit.py
+exit=0  tree_changed=0  lines=4
+==============================================================
+== Layer 5: sync_audit.py (state.json vs every footer) ==
+  cross-checked 4 chapters against state.json
+sync_audit: OK
+
+=== soul-land-universal-kit/Miraculous_Project :: checks/verify_locks.py
+exit=0  tree_changed=0  lines=1
+verify_locks: OK
+
+=== soul-land-universal-kit/Miraculous_Project :: checks/voice_check.py
+exit=0  tree_changed=0  lines=3
+==============================================================
+== Layer 4: voice_check.py (the OC speaks with their own mouth) ==
+voice_check: OK
+
+=== soul-land-universal-kit/soul_land_2_new :: checks/verify.py
+exit=0  tree_changed=0  lines=1
+chapters: 8 / GATE PASS
+
+=== soul-land-universal-kit/soul_land_3_new :: checks/verify.py
+exit=0  tree_changed=0  lines=3
+sl3-new-gate v1.0 (2026-09-22)
+chapters: 1
+GATE PASS
+
+=== soul-land-universal-kit/soul_land_devouring_dragon :: tools/style_gate.py
+MISSING FILE
+
+=== soul-land-universal-kit/soul_land_holy_spirit :: tools/style_gate.py
+MISSING FILE
+
+=== soul-land-universal-kit/Soul_Land_2_Project :: tools/style_gate.py
+MISSING FILE
+
+=== soul_land_4_fire_phoenix :: tools/validate_all.py
+MISSING FILE
+
+=== lan_shen :: tools/style_gate.py
+exit=2  tree_changed=0  lines=25
+      warn  all-sentence median 14.0 words — good chapters measure 8-12
+      warn  bold in prose — bold is for a term, never for emphasis (Voice Law §6)
+PASS  Chapter_06_Gifted.md
+      3870w · dialogue 17.3% (69 lines, dial=standard) · sentence median 9 all / 8 narr · ', and' 7.2/1k · Mang Tian speaks 11x
+----------------------------------------------------------------------------
+6 file(s)  |  0 failures  |  7 warnings
+RESULT: PASS (warnings)
+
+=== lan_shen :: tools/verify.py
+exit=2  tree_changed=0  lines=1
+no files matched
