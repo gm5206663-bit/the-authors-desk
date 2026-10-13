@@ -39,7 +39,9 @@ The same partial view undercounted the classified sightings (8 → 15 shelf copi
 ## The verification
 
 A fresh local Control Centre run over the same clone set reproduces the sweep run
-exactly: **24 books · 377 chapters · 1,624,963 words · 30,865 spoken lines**.
+exactly: **24 books · 377 chapters · 1,624,963 words · 30,865 spoken lines**. The run
+is archived verbatim: [`account-audit/account-2026-10-13-reconciled.md`](account-audit/account-2026-10-13-reconciled.md)
+(with `.html` and `.json` beside it).
 
 - **70 hard findings — all of them the supergirl 70-sentence ruling** (standing in
   the author's hands; nothing mechanical to repair).
