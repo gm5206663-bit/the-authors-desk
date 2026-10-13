@@ -168,9 +168,10 @@ in an old chat export, it should come home — that is the only way these come b
   kept in `reports/ci-rollout-2026-10-12/`). Each push went through a one-shot deploy key, used once and
   deleted; **zero deploy keys standing account-wide**.
 - **The account now measures itself weekly.** `account-sweep` (kit `de038ab`) clones
-  every public repo on Mondays 04:23 UTC, runs the house gate + all eleven detectors,
+  every public repo on Mondays 04:23 UTC, runs the house gate + all twelve detectors,
   publishes the verdict to the run page and uploads the evidence. First run: 23
   books · 223 chapters · 884,693 words · 138 hard · 83 advisory.
+- **The public face, finished (2026-10-13).** The law, the method, and this desk now read as sites; the guide carries [v3.0](https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v3.0), the doctrine its public edition, and the kit the [account era](https://github.com/gm5206663-bit/soul-land-universal-kit/releases/tag/account-era-2026-10-13); four flagship repos enforce protection on `main`; six repos gained topics; each flagship's discussion board carries a welcome post; 12/12 secret scan clean. The Control Centre gained its twelfth detector (`stale-claims` — a doc quoting counts the account no longer matches is reported) and three selftest cases (43 total).
 - **The kit's own D1 law was broken for two weeks** (its two trees drifted from
   2026-09-28) **and the check that caught it could not fail the build.** Both
   fixed: the trees are byte-identical again (`c63e2a6`), and soul-library's
@@ -191,7 +192,7 @@ in an old chat export, it should come home — that is the only way these come b
   guarantee that every one of the chapter-bearing trees on disk is either a
   registered book, a classified sighting, or a hard finding — 82 at the time, 50 today
   after the extras left; zero unexplained either day.
-  Control Centre now runs eleven detectors, 34 selftest cases, every number
+  Control Centre now runs twelve detectors, 43 selftest cases, every number
   sample-verified against the text.
 - **`THE-COMPLETE-REGISTER.md`** (and `REGISTER.md` in the kit): every book and
   every tree on the account in one generated table — 24 books · 377 chapters ·

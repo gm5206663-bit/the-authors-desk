@@ -5,6 +5,10 @@ folder, clearly named. Nothing here is a project text — projects live in the r
 
 | Path | What it is |
 |---|---|
+| [`REGISTER-RECONCILE-2026-10-13.md`](REGISTER-RECONCILE-2026-10-13.md) | the register reconciled — 24 books · 377 chapters · 1,624,963 words; the two shelf-only serials that were missing; the sweep and a clean regen agreeing exactly |
+| [`SUPERGIRL-RULING-BRIEF-2026-10-13.md`](SUPERGIRL-RULING-BRIEF-2026-10-13.md) | the supergirl 70-sentence ruling — the measured brief with three options and samples; awaiting the author's word |
+| [`KIT-AT-CONTENT-REVIEW-2026-10-13.md`](KIT-AT-CONTENT-REVIEW-2026-10-13.md) | the kit's AT-family content review — the one-copy question, measured; the mirror verdict; the pointer preview; no default |
+| [`WRITE-FORWARD-READINESS-2026-10-13.md`](WRITE-FORWARD-READINESS-2026-10-13.md) | the write-forward map — every live serial's distance to its next chapter and what each one needs; no book chosen |
 | [`AT-REPO-2026-10-13.md`](AT-REPO-2026-10-13.md) | the Adaptation Talent repository — the doctrine gets its public home; 16 holders across 5 worlds, twin collapse, full-hash manifest; the one pending pointer decision |
 | [`LANE4-CLOSE-2026-10-13.md`](LANE4-CLOSE-2026-10-13.md) | lane-4 close — the CI/deletion-insurance sweep, the final account audit |
 | [`LANE5-CLOSE-2026-10-13.md`](LANE5-CLOSE-2026-10-13.md) | lane-5 close — the reading-queue pass, the SL3-lessons survival, the ledger record fixes |
