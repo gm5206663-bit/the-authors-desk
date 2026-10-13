@@ -5,6 +5,7 @@ folder, clearly named. Nothing here is a project text — projects live in the r
 
 | Path | What it is |
 |---|---|
+| [`OPEN-RULINGS-2026-10-13.md`](OPEN-RULINGS-2026-10-13.md) | the three one-word rulings — Fire Phoenix V2 numbering (Option A staged, mapping, apply-time steps), Lan Shen re-cadence + A6 renumber (prepared), MCU Eternal Order placement (quoted proposal); nothing applied |
 | [`REGISTER-RECONCILE-2026-10-13.md`](REGISTER-RECONCILE-2026-10-13.md) | the register reconciled — 24 books · 377 chapters · 1,624,963 words; the two shelf-only serials that were missing; the sweep and a clean regen agreeing exactly |
 | [`SUPERGIRL-RULING-BRIEF-2026-10-13.md`](SUPERGIRL-RULING-BRIEF-2026-10-13.md) | the supergirl 70-sentence ruling — the measured brief with three options and samples; awaiting the author's word |
 | [`KIT-AT-CONTENT-REVIEW-2026-10-13.md`](KIT-AT-CONTENT-REVIEW-2026-10-13.md) | the kit's AT-family content review — the one-copy question, measured; the mirror verdict; the pointer preview; no default |

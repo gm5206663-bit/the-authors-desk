@@ -11,7 +11,9 @@ sentences as the account's **only hard findings anywhere** (24 books scanned).
   written in a **compressed beat style** — deliberately terse in the action register and
   deliberate run-on in the dialogue register.
 - Re-derived from the chapter files for this brief: **79 sentences over 60 words**
-  (the gate's count is 70); **71 have punctuation a split can use; 8 would need a rewrite, not a split.**
+  (the gate's count is 70); **71 contain punctuation a split could land on; under the stricter bar — a split
+yielding two non-fragmentary sentences — fewer than half clear it, which matches this
+desk's original note. 8 have no boundary at all and would need a rewrite.**
 - The style's own receipt, from the desk: *"this is a serial's compressed voice, and the
   author rules on voice — the 60-word law is not mechanically applied over a living style."*
 

@@ -24,6 +24,8 @@ a "PACING AS LIVED" section marking the map stale; re-cadencing it is logged as 
 numbering collision in `OPEN_DECISIONS` (duplicate "### 1." and duplicate 11/12), filed for
 your renumber, not self-healed.
 **Your call:** approve a new cadence — or say "as lived" and the map gets rewritten to match.
+**Filed with the decision:** `reports/OPEN-RULINGS-2026-10-13.md` — the shipped pace
+measured chapter by chapter, both cadence options, and the prepared A6 renumber.
 
 **B · Fire Phoenix — the V2 public-promotion numbering decision is still awaiting you.**
 The 2026-10-03 promotion proposal stages a contiguous C48–C55 candidate and cannot apply it
@@ -31,13 +33,18 @@ without your numbering decision (on file: `AWAITING_AUTHOR_NUMBERING_DECISION`; 
 layer otherwise ends at Chapter 52). The internal V2 line (C48–C60) sits in
 `workshop/late_arc_rebuild/rebuild_v2/`.
 **Your call:** the numbering — then the candidate can be promoted, or hold the line as it is.
+**Filed with the decision:** `reports/OPEN-RULINGS-2026-10-13.md` — the staged Option-A
+candidate, the reader-facing mapping, and exactly what approval would apply (and not).
 
 **C · The Adaptation Talent has its own public home now — one follow-up decision (your call).**
-`adaptation-talent` is live (`6ee8f94`): the universal core v2.0 locked, the level
-framework, the codex + firewall, **19 module files for 16 holders across 5 worlds**, the
+`adaptation-talent` is live (`389a824`): the universal core v2.0 locked, the level
+framework, the codex + firewall, **a module for every holder — 17 holders across 5 worlds (22 files in `modules/`)**, the
 guided docs (01–05), the craft layer, and full provenance with a verify-the-whole-repo
-`MANIFEST.sha256`. Every copy is byte-preserving; every module hash-matches its source; 138
-relative links, 0 broken. Close report: `reports/AT-REPO-2026-10-13.md`.
+`MANIFEST.sha256`. Every copy is byte-preserving; every module hash-matches its source; 175
+relative links, 0 broken, and every holder count is checked by CI on every push.
+**The measurement for your call is filed:** `reports/KIT-AT-CONTENT-REVIEW-2026-10-13.md`
+(the kit's AT-family twins, hash-matched to the byte; the deliberate-mirror verdict; what
+each option costs). Close report: `reports/AT-REPO-2026-10-13.md`.
 **The open question:** the kit still carries its own copies of the same talent files (the
 master foundation twice, the codex twice, every module). The house rule says one copy of one
 thing; the new repository is now the reading home.
@@ -45,6 +52,24 @@ thing; the new repository is now the reading home.
 repository becomes the single canonical home and the kit keeps pointers; or (b) keep both
 standing — the kit copies stay working copies, the new repository is the shelf edition.
 Nothing is deleted either way until you say.
+
+**D · Write-forward — the lane is ready; the book is your word alone (no book chosen).**
+Every live serial's distance to its next chapter is measured and filed:
+`reports/WRITE-FORWARD-READINESS-2026-10-13.md`. Writer-ready without further rulings:
+**The Golden Lion (Ch9)** and **The Grey Wolf (Ch11)** — both stand on locked foundations
+with their panels as truth. Ready behind one word: *One in a Thousand*, *Lan Shen*,
+*Devouring Dragon*'s recorded lane, *Stark Heir*, *Dragon Prince Yuan*, *Qian Xun Ji*.
+Blocked by a decision above: *Fire Phoenix* (B), *Supergirl* (items 1–2), *MCU Eternal* (E).
+**Your call:** name the serial (or say "the closest one").
+
+**E · MCU Eternal — the Order placement sign-off (module v1 proposal, §10).**
+The holder is built and the module is complete except one line: the Order-placement
+proposal — **Order III (Generative), Mature** for body/energy/skill; **Order II
+(Integrated), Mature** for team/equipment/authority; **Order IV (Evolutionary), seed
+only** (7,000 years in the same synthetic frame); **Order VI (Law — gravity/kinetic),
+Developing** (uses it expertly, does not own it). Filed with context:
+`reports/OPEN-RULINGS-2026-10-13.md`.
+**Your call:** sign as proposed, adjust a line, or re-propose — then the module leaves draft.
 
 ---
 
@@ -68,6 +93,8 @@ They are written in this serial's compressed beat style from end to end (the
 `foundation/` beats read the same way), and fewer than half have any punctuation
 a split could use. **Your call:** keep the voice, or apply the 60-word law and
 accept that most need rewriting rather than splitting.
+**The full measurement is filed:** `reports/SUPERGIRL-RULING-BRIEF-2026-10-13.md` — every
+sentence, per chapter, three options (split / exempt / hybrid), with samples from the text.
 
 ## 3 · Grey Wolf, Chapter 10: the stale duplicated ending
 
