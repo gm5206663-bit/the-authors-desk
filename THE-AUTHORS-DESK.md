@@ -7,7 +7,7 @@ happens if you say either way.
 
 **Where things live (organised 2026-10-13; published the same day):** everything on this
 desk lives in this repository and only here — this file · `repos.txt` (the account map,
-twelve repositories) · `THE-COMPLETE-REGISTER.md` (the measured account register) ·
+thirteen repositories) · `THE-COMPLETE-REGISTER.md` (the measured account register) ·
 `reports/` (close reports · account audit · scope sweep · CI rollout). The working machine
 keeps pointers only. The projects live in **`soul-land-universal-kit`**; its `README.md` is
 the one-screen cockpit and `HISTORY.md` is the dated change log.
