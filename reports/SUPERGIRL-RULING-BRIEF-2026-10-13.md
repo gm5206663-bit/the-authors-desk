@@ -32,8 +32,10 @@ sentences as the account's **only hard findings anywhere** (24 books scanned).
 ## The three options (what happens on either)
 
 **Option A — split where punctuation allows.**
-62 sentences — the compressed *action* register (comma chains like the worked sample below)
-— split into shorter sentences; the ~8 dialogue run-ons reduced the same way. Voice cost:
+The splittable sentences (71 of the 79 re-derived here; the gate counts 70 to its own
+tokenizer) — the compressed *action* register, comma chains like the worked sample below
+— split into shorter sentences; the rewrite-class sentences handled the same way, one
+at a time. Voice cost:
 the breathless chain that *is* this serial's action voice shortens. Mechanical gates go to
 0 hard findings; chapters 9–14 and 16–17 keep their meaning unchanged. Nothing else in the
 account moves.
@@ -47,7 +49,8 @@ report 0 hard findings *by declared scope*; the 70 sentences stand as written.
 **Option C — the hybrid (my recommendation as a method, not as the author).**
 Exempt the **dialogue register** (the run-on quotes — they are characterization; see the
 154-word sample below) and **split the narration/action chains** where punctuation allows.
-Estimated: ~55 split, ~15 declared exempt. Each chapter touched once, by its own file.
+Estimated: the splittable set split; the longest dialogue run-ons (the 154-word sample is
+the clearest case) declared exempt as voice. Each chapter touched once, by its own file.
 
 ## Samples (full text, from the chapters)
 
