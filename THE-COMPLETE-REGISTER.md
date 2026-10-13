@@ -1,8 +1,8 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-13 02:14 by `tools/register.py` over `the whole account`. Regenerate it; never edit it.*
+*Generated 2026-10-13 10:35 by `tools/register.py` over `the whole account`. Regenerate it; never edit it.*
 
-**22 registered books · 375 chapters · 1,617,455 words · 70 sentences over 60 words.**
+**24 registered books · 377 chapters · 1,624,963 words · 70 sentences over 60 words.**
 
 | words | ch | book | over 60 | spoken | floor hits | status |
 |---:|---:|---|---:|---:|---:|---|
@@ -26,22 +26,26 @@
 | 13,696 | 4 | soul-land-universal-kit / soul_land_holy_spirit | 0 | 160 | 0 | gated book |
 | 9,212 | 3 | mcu_eternal_fanfic | 0 | 180 | 0 | gated book |
 | 3,802 | 1 | soul-land-universal-kit / soul_land_3_new | 0 | 31 | 0 | gated book |
+| 3,802 | 1 | soul-library / chapters/sl3_new | 0 | 31 | 0 | registered where found |
 | 3,706 | 1 | soul-land-universal-kit / dragon_prince_yuan_native_oc_fanfiction | 0 | 51 | 0 | gated book |
 | 3,706 | 1 | storyos-site / published-site/dragon_prince_yuan | 0 | 51 | 0 | gated book |
+| 3,706 | 1 | soul-library / chapters/dragon_prince_yuan | 0 | 51 | 0 | registered where found |
 
 ## Every tree outside the register, classified
 
 Nothing on this disk holding chapter prose is unnamed. Each line below is a tree that is not gated as a book — named, counted, and deliberately not gated.
 
-- **library shelf copy of a registered book** — 8 chapter-bearing tree(s) outside the register: soul-library/chapters/adaptive_prodigy; soul-library/chapters/devouring_dragon; soul-library/chapters/golden_lion; soul-library/chapters/grey_wolf
+- **library shelf copy of a registered book** — 15 chapter-bearing tree(s) outside the register: soul-library/chapters/adaptive_prodigy; soul-library/chapters/devouring_dragon; soul-library/chapters/fire_dragon_lizard; soul-library/chapters/fire_phoenix
 - **archived material** — 2 chapter-bearing tree(s) outside the register: soul-land-universal-kit/SL_ARCHIVE/sl4_foundation_v2/chapters; soul-land-universal-kit/_archive/2026-09-30_park/soul_land_3_fanfiction/chapters
 - **copy of a registered book** — 2 chapter-bearing tree(s) outside the register: soul-land-universal-kit/_archive/2026-09-30_park/blue_silver/archive_rejected_first_draft; soul-land-universal-kit/_archive/2026-09-30_park/blue_silver/chapters_rebuilt
 - **planning or inbox material** — 1 chapter-bearing tree(s) outside the register: soul-land-universal-kit/SL1_GU_YUAN/uploads
 - **registered where found** — registered where it was found — 15 chapter(s), 34,711 words: library shelf serial with no other home anywhere in the account — single chapter directory: ./
+- **registered where found** — registered where it was found — 1 chapter(s), 4,050 words: library shelf serial with no other home anywhere in the account — single chapter directory: ./
+- **registered where found** — registered where it was found — 1 chapter(s), 3,830 words: library shelf serial with no other home anywhere in the account — single chapter directory: ./
 
 ## The guarantee
 
-- coverage: 50 of 50 chapter-bearing tree(s) accounted for (book or sighting)
-- note: 50 chapter-bearing tree(s) on disk: 37 under a registered book, 13 classified sighting(s) — library shelf copy of a registered book: 8, archived material: 2, copy of a registered book: 2, planning or inbox material: 1
+- coverage: 59 of 59 chapter-bearing tree(s) accounted for (book or sighting)
+- note: 59 chapter-bearing tree(s) on disk: 39 under a registered book, 20 classified sighting(s) — library shelf copy of a registered book: 15, archived material: 2, copy of a registered book: 2, planning or inbox material: 1
 
 *A register that only lists what it happened to look at is a register of the looking. This one lists the disk.*

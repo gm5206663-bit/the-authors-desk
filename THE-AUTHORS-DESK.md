@@ -194,9 +194,10 @@ in an old chat export, it should come home — that is the only way these come b
   Control Centre now runs eleven detectors, 34 selftest cases, every number
   sample-verified against the text.
 - **`THE-COMPLETE-REGISTER.md`** (and `REGISTER.md` in the kit): every book and
-  every tree on the account in one generated table — 22 books · 375 chapters ·
-  1,617,455 words · 70 over-60 sentences, with every non-book chapter-bearing tree
-  classified (50 of 50 accounted). Regenerate any time:
+  every tree on the account in one generated table — 24 books · 377 chapters ·
+  1,624,963 words · 70 over-60 sentences, with every non-book chapter-bearing tree
+  classified (59 of 59 accounted — reconciled the same day; see
+  `reports/REGISTER-RECONCILE-2026-10-13.md`). Regenerate any time:
   `python3 tools/register.py --root DIR --out REGISTER.md`.
 
 *Rule the house keeps re-learning, now written into the code: a coverage line is

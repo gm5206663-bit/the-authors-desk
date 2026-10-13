@@ -16,7 +16,7 @@ the reading site in [`soul-library`](https://github.com/gm5206663-bit/soul-libra
 | Path | What it is |
 |---|---|
 | `THE-AUTHORS-DESK.md` | **The desk** — every decision awaiting the author, each with its evidence and both outcomes. The items no agent may rule on. |
-| `THE-COMPLETE-REGISTER.md` | **The register** — every book, every chapter-bearing tree, every count, generated. On 2026-10-13: 22 registered books · 375 chapters · 1,617,455 words · coverage 50 of 50 trees. |
+| `THE-COMPLETE-REGISTER.md` | **The register** — every book, every chapter-bearing tree, every count, generated. On 2026-10-13: 24 registered books · 377 chapters · 1,624,963 words · coverage 59 of 59 trees — reconciled the same day, see [`reports/REGISTER-RECONCILE-2026-10-13.md`](reports/REGISTER-RECONCILE-2026-10-13.md). |
 | `repos.txt` | The account map — which repository is the home of what. |
 | `reports/` | The dated records — close notes per lane, the account audit, the scope sweep, the CI rollout. Index in `reports/README.md`. |
 | `NOTICE.md` | The fan-work disclaimer. |
