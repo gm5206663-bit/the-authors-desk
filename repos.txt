@@ -1,8 +1,10 @@
-# THE ACCOUNT — 11 repositories, one home (2026-10-13)
+# THE ACCOUNT — 12 repositories, one home (2026-10-13)
 # THE HOME — every Soul Land project (24 serials, 16 gated books):
 soul-land-universal-kit
 # the control room — this repository:
 the-authors-desk
+# the law — the Adaptation Talent doctrine (every holder, every world):
+adaptation-talent
 # one library · one publisher · toolchain · profile:
 soul-library
 storyos-site

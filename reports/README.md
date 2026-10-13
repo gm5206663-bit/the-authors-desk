@@ -5,6 +5,7 @@ folder, clearly named. Nothing here is a project text — projects live in the r
 
 | Path | What it is |
 |---|---|
+| [`AT-REPO-2026-10-13.md`](AT-REPO-2026-10-13.md) | the Adaptation Talent repository — the doctrine gets its public home; 16 holders across 5 worlds, twin collapse, full-hash manifest; the one pending pointer decision |
 | [`LANE4-CLOSE-2026-10-13.md`](LANE4-CLOSE-2026-10-13.md) | lane-4 close — the CI/deletion-insurance sweep, the final account audit |
 | [`LANE5-CLOSE-2026-10-13.md`](LANE5-CLOSE-2026-10-13.md) | lane-5 close — the reading-queue pass, the SL3-lessons survival, the ledger record fixes |
 | [`LANE3-LANE6-CLOSE-2026-10-13.md`](LANE3-LANE6-CLOSE-2026-10-13.md) | lane-3 + lane-6 close — the shelf at 18 serials/312 ch/1.35M w, the sentinel 25-of-26 catch fixed, 18/18 covers, the Gu Yuan one-pager, public-description refresh |

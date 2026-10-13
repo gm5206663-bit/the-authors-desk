@@ -7,7 +7,7 @@ happens if you say either way.
 
 **Where things live (organised 2026-10-13; published the same day):** everything on this
 desk lives in this repository and only here — this file · `repos.txt` (the account map,
-eleven repositories) · `THE-COMPLETE-REGISTER.md` (the measured account register) ·
+twelve repositories) · `THE-COMPLETE-REGISTER.md` (the measured account register) ·
 `reports/` (close reports · account audit · scope sweep · CI rollout). The working machine
 keeps pointers only. The projects live in **`soul-land-universal-kit`**; its `README.md` is
 the one-screen cockpit and `HISTORY.md` is the dated change log.
@@ -31,6 +31,20 @@ without your numbering decision (on file: `AWAITING_AUTHOR_NUMBERING_DECISION`; 
 layer otherwise ends at Chapter 52). The internal V2 line (C48–C60) sits in
 `workshop/late_arc_rebuild/rebuild_v2/`.
 **Your call:** the numbering — then the candidate can be promoted, or hold the line as it is.
+
+**C · The Adaptation Talent has its own public home now — one follow-up decision (your call).**
+`adaptation-talent` is live (`6ee8f94`): the universal core v2.0 locked, the level
+framework, the codex + firewall, **19 module files for 16 holders across 5 worlds**, the
+guided docs (01–05), the craft layer, and full provenance with a verify-the-whole-repo
+`MANIFEST.sha256`. Every copy is byte-preserving; every module hash-matches its source; 138
+relative links, 0 broken. Close report: `reports/AT-REPO-2026-10-13.md`.
+**The open question:** the kit still carries its own copies of the same talent files (the
+master foundation twice, the codex twice, every module). The house rule says one copy of one
+thing; the new repository is now the reading home.
+**Your call:** (a) repoint the kit's AT-family files to `adaptation-talent` — the new
+repository becomes the single canonical home and the kit keeps pointers; or (b) keep both
+standing — the kit copies stay working copies, the new repository is the shelf edition.
+Nothing is deleted either way until you say.
 
 ---
 
