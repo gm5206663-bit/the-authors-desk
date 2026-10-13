@@ -146,8 +146,9 @@ in an old chat export, it should come home — that is the only way these come b
    reading page relocated to `soul-land-universal-kit/docs/grey-wolf/`. **One copy of
    each serial remains — in the kit.** The six shells were **deleted** the same day, on your
    full-permission token — **the account is 10 repositories** (the Fire Phoenix pair went the same day — see point 2), **one home for everything**
-   (GitHub keeps deleted repositories restorable for 90 days). *(Eleven since 2026-10-13 —
-   the desk layer itself became `the-authors-desk`.)*
+   (GitHub keeps deleted repositories restorable for 90 days). *(Twelve since 2026-10-13 —
+   the desk layer itself became `the-authors-desk`, and the Adaptation Talent doctrine
+   became `adaptation-talent`.)*
 2. **DONE — Fire Phoenix is home.** Chapters, working layers, the whole workshop —
    imported complete, file-by-file verified; both former repositories deleted the same
    day. The pipeline now runs from `soul_land_4_fire_phoenix/`.
@@ -167,7 +168,7 @@ in an old chat export, it should come home — that is the only way these come b
   kept in `reports/ci-rollout-2026-10-12/`). Each push went through a one-shot deploy key, used once and
   deleted; **zero deploy keys standing account-wide**.
 - **The account now measures itself weekly.** `account-sweep` (kit `de038ab`) clones
-  every public repo on Mondays 04:23 UTC, runs the house gate + all ten detectors,
+  every public repo on Mondays 04:23 UTC, runs the house gate + all eleven detectors,
   publishes the verdict to the run page and uploads the evidence. First run: 23
   books · 223 chapters · 884,693 words · 138 hard · 83 advisory.
 - **The kit's own D1 law was broken for two weeks** (its two trees drifted from

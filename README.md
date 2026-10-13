@@ -1,6 +1,6 @@
 # THE AUTHOR'S DESK
 
-The control room for the whole account — **eleven repositories, one read**. Three things live
+The control room for the whole account — **twelve repositories, one read**. Three things live
 here and only here: the **desk** (every decision that is the author's to make), the
 **register** (every book and every chapter-bearing tree, measured), and the **records**
 (the dated close notes and audit artifacts of every operation).

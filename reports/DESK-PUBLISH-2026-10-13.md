@@ -30,3 +30,10 @@ The working machine now keeps **pointers only** — one copy of one thing.
 
 **Eleven repositories, every one public, none archived, nothing hidden.** The desk is the
 control room: the author's decisions, the measured register, the dated records.
+
+---
+
+*Same-day addendum, later on 2026-10-13: the account became **twelve** — the Adaptation
+Talent doctrine published as [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent)
+(40 files, hash-manifested; see [`AT-REPO-2026-10-13.md`](AT-REPO-2026-10-13.md)). The
+"eleven" lines above record the publish moment; the account count now stands at twelve.*
