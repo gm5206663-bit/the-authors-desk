@@ -197,7 +197,12 @@ in an old chat export, it should come home — that is the only way these come b
 - **The account now measures itself weekly.** `account-sweep` (kit `de038ab`) clones
   every public repo on Mondays 04:23 UTC, runs the house gate + all twelve detectors,
   publishes the verdict to the run page and uploads the evidence. First run: 23
-  books · 223 chapters · 884,693 words · 138 hard · 83 advisory.
+  books · 223 chapters · 884,693 words · 138 hard · 83 advisory. **The
+  finished-account run (2026-10-13, `38403116198`): success** — 12 of 12
+  repositories; **24 books · 377 chapters · 1,624,963 words**; 70 hard, every one
+  of them the supergirl ruling; 242 advisory, every class explained; two-homes 0;
+  the new `stale-claims` detector 0 findings across ~2,400 documents. Receipt:
+  `reports/account-audit/account-2026-10-13-final.md`.
 - **The public face, finished (2026-10-13).** The law, the method, and this desk now read as sites; the guide carries [v3.0](https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v3.0), the doctrine its public edition, and the kit the [account era](https://github.com/gm5206663-bit/soul-land-universal-kit/releases/tag/account-era-2026-10-13); four flagship repos enforce protection on `main`; six repos gained topics; each flagship's discussion board carries a welcome post; 12/12 secret scan clean. The Control Centre gained its twelfth detector (`stale-claims` — a doc quoting counts the account no longer matches is reported) and three selftest cases (43 total).
 - **The kit's own D1 law was broken for two weeks** (its two trees drifted from
   2026-09-28) **and the check that caught it could not fail the build.** Both

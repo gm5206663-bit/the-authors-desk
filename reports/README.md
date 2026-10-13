@@ -16,6 +16,7 @@ folder, clearly named. Nothing here is a project text — projects live in the r
 | [`LANE3-LANE6-CLOSE-2026-10-13.md`](LANE3-LANE6-CLOSE-2026-10-13.md) | lane-3 + lane-6 close — the shelf at 18 serials/312 ch/1.35M w, the sentinel 25-of-26 catch fixed, 18/18 covers, the Gu Yuan one-pager, public-description refresh |
 | [`DESK-PUBLISH-2026-10-13.md`](DESK-PUBLISH-2026-10-13.md) | the desk published — the management layer gets its public home; the workspace keeps pointers |
 | [`CLEANUP-CLOSE-2026-10-13.md`](CLEANUP-CLOSE-2026-10-13.md) | the cleanup close — the cockpit + history split, the register honesty fix, the workspace reorganisation, the drift fixes found while cleaning |
+| [`account-audit/account-2026-10-13-final.md`](account-audit/account-2026-10-13-final.md) | the finished-account sweep — run `38403116198`, success; 24/377/1,624,963; 70 hard (all the supergirl ruling); two-homes 0; stale-claims 0 of ~2,400 docs |
 | [`account-audit/`](account-audit/) | the Control Centre account audit — the 2026-10-13 run (`account-2026-10-13.{md,json,html}`), repairs, the complete method and guide, its `INDEX.md` |
 | [`scope-sweep/`](scope-sweep/) | the scope inventory sweep — `INVENTORY.md`, `THE-ACCOUNT-WHOLE.md`, artifacts, gate runs |
 | [`ci-rollout-2026-10-12/`](ci-rollout-2026-10-12/) | the CI rollout record — `PLAN.md` (status, per-repo commits, first runs) + the per-repo workflow copies as shipped |
