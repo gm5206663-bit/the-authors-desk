@@ -1,0 +1,53 @@
+  [ok ] a clean account of two books reports no hard finding          (0 hard)
+        coverage: 2 of 2 book(s) with a determined live directory | 16 of 40 prose sentence(s) indexed (12+ words) of all prose sentences, across 2 book(s) | 8 of 8 chapter file(s) hashed | 2 of 2 book(s) with a chapter numbering | 2 of 2 book(s) with a published site | 0 of 0 repository(ies) walked for machine files and archives | 0 of 0 document(s) scanned for links | 0 of 0 stamped file(s) checked against their source | 0 of 0 gate-carrying repo(s) with a CI workflow present | 26 of 26 document(s) scanned for account-size claims | 0 of 0 chapter-bearing tree(s) accounted for (book or sighting)
+  [ok ] a sentence repeated twice INSIDE one chapter is hard     expects repeat-in-file
+  [ok ] a sentence repeated across chapters is advisory, not hard expects repeat-across
+  [ok ] a record section is the author's bookkeeping, not prose  expects NOT over60
+  [ok ] a long sentence before the record heading is still prose expects over60
+  [ok ] a record section quoting a chapter line is not a duplicate expects NOT repeat-across
+  [ok ] a declared refrain is on record, not a defect            expects NOT repeat-across
+  [ok ] an undeclared repeat beside a declared one still fires   expects repeat-across
+  [ok ] a stopped serial's template file is not a chapter        expects NOT dialogue-floor
+  [ok ] reader edition drifting from the author edition          expects copies-drift
+  [ok ] a published chapter with no author edition               expects source-orphan
+  [ok ] a README claiming more chapters than exist               expects receipt-drift
+  [ok ] a deliberate floor (220+) is not a pinned count          expects NOT receipt-drift
+  [ok ] the published site missing a chapter the book has        expects publish-drift
+  [ok ] one text living in two books                             expects two-homes
+  [ok ] a book and its own published copy are one home, not two  expects NOT two-homes
+  [ok ] a published copy repeating its source is one home, not a duplicate expects NOT repeat-across
+  [ok ] a link to a file that is not there is reported           expects dead-link
+  [ok ] a link that resolves is not reported                     expects NOT dead-link
+  [ok ] a placeholder in prose is not a dead link                expects NOT dead-link
+  [ok ] fenced code and script blocks are not navigation         expects NOT dead-link
+  [ok ] a stamped view whose source changed is reported          expects stale-generated
+  [ok ] a stamp that matches its source is silent                expects NOT stale-generated
+  [ok ] a nested workshop snapshot beside the chapters is not ambiguity expects NOT scope-refusal
+  [ok ] a repo with gates and no workflow is reported            expects ci-gap
+  [ok ] a repo with a workflow is not reported as a gap          expects NOT ci-gap
+  [ok ] a committed .pyc is reported as housekeeping             expects housekeeping
+  [ok ] an archive frozen in the repo is reported as housekeeping expects housekeeping
+  [ok ] a clean account has no housekeeping finding              expects NOT housekeeping
+  [ok ] text only a published copy carries is still a duplicate  expects repeat-in-file
+  [ok ] a historical note is not a claim about the live book     expects NOT receipt-drift
+  [ok ] a subset reference is not a claim about the book         expects NOT receipt-drift
+  [ok ] a line about a DIFFERENT book is not a claim about this one expects NOT receipt-drift
+  [ok ] a stale live-edge claim IS caught                        expects receipt-drift
+  [ok ] two chapter directories and nothing to disambiguate them expects scope-refusal
+  [ok ] a report over nothing is not a clean report              expects scope-refusal
+  [ok ] a shelf serial that exists nowhere else is registered, not invisible expects orphan-work
+  [ok ] a shelf copy of a registered book is a copy, not a second book expects NOT orphan-work
+  [ok ] a reference tree with no other home is registered read-only expects orphan-work
+  [ok ] a chapter tree nothing can explain is a HARD finding     expects unaccounted-tree
+  [ok ] a dead directory is skipped, not gated                   expects NOT scope-refusal
+  [ok ] a shelf copy of another book is one home, not two        expects NOT two-homes
+  [ok ] a doc quoting counts the account no longer matches is reported expects stale-claims
+  [ok ] a doc quoting the measured counts is silent              expects NOT stale-claims
+  [ok ] a stale spelled-out repository count in HTML is caught   expects stale-claims
+  [ok ] inline HTML cannot hide a stale repository count         expects stale-claims
+  [ok ] a measured front-door repository count is silent         expects NOT stale-claims
+  [ok ] a historical report may keep its old repository count    expects NOT stale-claims
+  [ok ] story prose about repositories is not an account claim   expects NOT stale-claims
+  [ok ] a stale numeric count in the desk README is caught       expects stale-claims
+
+ACCOUNT SELFTEST PASSED

@@ -1,0 +1,16 @@
+LIVE BOOK GATE — SELFTEST
+================================================================
+  [ok ] a chapter with speech passes: passes
+  [ok ] a chapter with no speech fails: fails — Chapter_01.md: dialogue 0 < floor 3
+  [ok ] curly quotes are counted: passes
+  [ok ] a 70-word sentence fails: fails — Chapter_01.md: 1 sentence(s) over 60 words
+  [ok ] a sourced exemption is honoured: passes
+  [ok ] an exemption citing a receipt that does not exist fails: fails — EXEMPTION does not cite a receipt that exists (README.md:1 names found
+  [ok ] an exemption citing no receipt at all fails: fails — EXEMPTION does not cite a receipt that exists (README.md:1 names <none
+  [ok ] no chapter directory at all fails: fails — SCOPE: no chapter directory found under /tmp/tmp0oz3f__o/no chapter di
+  [ok ] an empty chapter directory fails: fails — SCOPE: no chapter directory found under /tmp/tmp0oz3f__o/an empty chap
+  [ok ] two directories, README names the dead one → gates the live one: passes
+  [ok ] two directories, no marker → refuses to guess: fails — SCOPE: 2 chapter directories and no status file to disambiguate: ['cha
+  [ok ] reader edition longer than the author edition fails (two copies): fails — SCOPE: manuscript/ holds 2 chapters but the live text has 1 — what shi
+================================================================
+SELFTEST PASSED

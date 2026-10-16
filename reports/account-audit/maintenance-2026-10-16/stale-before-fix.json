@@ -1,0 +1,227 @@
+{
+ "tool": "account-control-centre",
+ "version": "1.0",
+ "generated": "2026-10-16 03:39",
+ "root": "/tmp/account",
+ "books": [
+  {
+   "repo": "mcu_eternal_fanfic",
+   "book": "mcu_eternal_fanfic",
+   "live": "mcu_eternal_fanfic/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "Miraculous_Project",
+   "live": "soul-land-universal-kit/Miraculous_Project/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "live": "soul-land-universal-kit/Soul_Land_2_Project/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "adaptive_prodigy",
+   "live": "soul-land-universal-kit/adaptive_prodigy/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "dragon_prince_yuan_native_oc_fanfiction",
+   "live": "soul-land-universal-kit/dragon_prince_yuan_native_oc_fanfiction/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "lan_shen",
+   "live": "soul-land-universal-kit/lan_shen/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "qian_xunji",
+   "live": "soul-land-universal-kit/qian_xunji/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_1_fire_dragon_lizard",
+   "live": "soul-land-universal-kit/soul_land_1_fire_dragon_lizard/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_2_new",
+   "live": "soul-land-universal-kit/soul_land_2_new/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_2_the_grey_wolf",
+   "live": "soul-land-universal-kit/soul_land_2_the_grey_wolf/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_3_new",
+   "live": "soul-land-universal-kit/soul_land_3_new/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_3_oc",
+   "live": "soul-land-universal-kit/soul_land_3_oc/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_4_fire_phoenix",
+   "live": "soul-land-universal-kit/soul_land_4_fire_phoenix/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "live": "soul-land-universal-kit/soul_land_devouring_dragon/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_holy_spirit",
+   "live": "soul-land-universal-kit/soul_land_holy_spirit/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_new",
+   "live": "soul-land-universal-kit/soul_land_new/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_system_cheat",
+   "live": "soul-land-universal-kit/soul_land_system_cheat/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "stark_heir",
+   "book": "stark_heir",
+   "live": "stark_heir/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "storyos-site",
+   "book": "published-site/dragon_prince_yuan",
+   "live": "storyos-site/published-site/dragon_prince_yuan/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "storyos-site",
+   "book": "published-site/soul_land_4",
+   "live": "storyos-site/published-site/soul_land_4/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "live": "supergirl-adrian-vale/chapters",
+   "dead": [],
+   "note": "single chapter directory: chapters/"
+  },
+  {
+   "repo": "soul-library",
+   "book": "chapters/blue_silver",
+   "live": "soul-library/chapters/blue_silver",
+   "dead": [],
+   "note": "library shelf serial with no other home anywhere in the account \u2014 single chapter directory: ./"
+  },
+  {
+   "repo": "soul-library",
+   "book": "chapters/dragon_prince_yuan",
+   "live": "soul-library/chapters/dragon_prince_yuan",
+   "dead": [],
+   "note": "library shelf serial with no other home anywhere in the account \u2014 single chapter directory: ./"
+  },
+  {
+   "repo": "soul-library",
+   "book": "chapters/sl3_new",
+   "live": "soul-library/chapters/sl3_new",
+   "dead": [],
+   "note": "library shelf serial with no other home anywhere in the account \u2014 single chapter directory: ./"
+  }
+ ],
+ "facts": [],
+ "coverage": [
+  {
+   "detector": "stale-claims",
+   "note": "canonical book totals plus repository counts on desk/profile front doors; dated receipts are exempt by design",
+   "checked": 2401,
+   "total": 2401,
+   "unit": "document(s) scanned for account-size claims",
+   "text": "2401 of 2401 document(s) scanned for account-size claims"
+  }
+ ],
+ "findings": [
+  {
+   "id": "78096ea9a5d7",
+   "kind": "stale-claims",
+   "severity": "advisory",
+   "repo": "the-authors-desk",
+   "book": "the-authors-desk/docs/index.html",
+   "file": "-",
+   "subject": "twelve-repository",
+   "detail": "front door claims 12 repositories; the local inventory contains 13",
+   "evidence": "twelve-repository",
+   "law": ""
+  },
+  {
+   "id": "a02f4d267805",
+   "kind": "stale-claims",
+   "severity": "advisory",
+   "repo": "the-authors-desk",
+   "book": "the-authors-desk/docs/index.html",
+   "file": "-",
+   "subject": "twelve repositories",
+   "detail": "front door claims 12 repositories; the local inventory contains 13",
+   "evidence": "twelve repositories",
+   "law": ""
+  }
+ ],
+ "summary": {
+  "books": 24,
+  "chapters": 0,
+  "words": 0,
+  "spoken": 0,
+  "hard": 0,
+  "advisory": 2,
+  "by_kind": {
+   "stale-claims": 2
+  },
+  "by_repo": {
+   "the-authors-desk": 2
+  }
+ }
+}

@@ -1,0 +1,24 @@
+  ok    clean chapter passes
+  ok    caught: digits in prose
+  ok    caught: unreadable script
+  ok    caught: no dialogue
+  ok    caught: placeholder text
+  ok    caught: literal backslash-n
+  ok    caught: marker leaked to prose
+  ok    caught: two book-end cards
+  ok    caught: panel overlap
+  ok    caught: panel gap
+  ok    apparatus digits/tail do not fail (the v1 defect)
+  ok    caught: digits in the STORY of a real-shaped chapter
+  ok    caught: CJK in the metadata head
+  ok    caught: emoji mark in the bookkeeping tail
+  ok    caught: CJK in the STORY
+  ok    apparatus recognised: SL4shaped
+  ok    apparatus recognised: bluesilver
+  ok    a closing paragraph with no apparatus signal is still story
+  ok    name-digits (Room 108, Dorm333) pass
+  ok    measurement digits (rank 29) still fail
+  ok    project mode: doc CJK + regex escapes are advisory, not fatal
+  ok    project mode: CJK in a chapter is fatal
+----------------------------------------------------------------
+SELFTEST PASSED — all defects caught, clean chapters pass.

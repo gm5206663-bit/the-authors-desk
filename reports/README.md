@@ -5,6 +5,7 @@ folder, clearly named. Nothing here is a project text — projects live in the r
 
 | Path | What it is |
 |---|---|
+| [`account-audit/maintenance-2026-10-16/`](account-audit/maintenance-2026-10-16/) | final audit in three formats, exact clone HEADs, 377 unchanged chapter hashes, regression transcripts, CI/live-site receipts and integrity checksums |
 | [`MAINTENANCE-2026-10-16.md`](MAINTENANCE-2026-10-16.md) | complete-scope sweep hardening, front-door drift regression tests, CI safeguards and fresh account measurements; no story rulings changed |
 | [`SARA-REPO-2026-10-13.md`](SARA-REPO-2026-10-13.md) | the self-file gets its public home — `gm5206663-bit/sara` built to the AT bar: copies hash-verified, CI green, release `v1.0`, Pages live; count-bearing lines moved 12 → 13 |
 | [`OPEN-RULINGS-2026-10-13.md`](OPEN-RULINGS-2026-10-13.md) | the three one-word rulings — Fire Phoenix V2 numbering (Option A staged, mapping, apply-time steps), Lan Shen re-cadence + A6 renumber (prepared), MCU Eternal Order placement (quoted proposal); nothing applied |

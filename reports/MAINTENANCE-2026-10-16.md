@@ -81,9 +81,48 @@ entries, 62 local links, 36 dated ledger entries/34 signed lines pass. Writing
 guide: five defect classes caught, clean demo passes, 97 relative links and 35
 manifest files pass.
 
-Remote CI, the dispatched hardened public sweep and final live checks will be
-recorded in the verification addendum once their results are available. This
-receipt does not claim those asynchronous jobs have finished yet.
+### Remote verification addendum
+
+Completed **success** on the exact implementation revisions:
+
+| Repository / check | Run |
+|---|---|
+| Kit — `control-centre-tests` | [38846917880](https://github.com/gm5206663-bit/soul-land-universal-kit/actions/runs/38846917880) |
+| Kit — dispatched hardened `account-sweep` | [38846974266](https://github.com/gm5206663-bit/soul-land-universal-kit/actions/runs/38846974266) |
+| Desk — `verify` at `c555cf8` | [38846976182](https://github.com/gm5206663-bit/the-authors-desk/actions/runs/38846976182) |
+| Adaptation Talent — `verify` at `820a51f` | [38846899025](https://github.com/gm5206663-bit/adaptation-talent/actions/runs/38846899025) |
+| Sara — `verify` at `03ccb41` | [38846915460](https://github.com/gm5206663-bit/sara/actions/runs/38846915460) |
+| Writing guide — `verify` at `6207688` | [38846915523](https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/runs/38846915523) |
+
+The hardened sweep actually cloned all 13 public repositories, validated both
+checker evidence sets and uploaded its evidence successfully. Its broad house
+gate declared 39 discovered books, 29 hard failures and 544 warnings; that is
+**not** the Control Centre's registry scope. Nothing was automatically repaired.
+The completed reporting workflow is not a claim of zero defects.
+
+A second public-only discovery/clone rehearsal also completed 13/13 with exact
+HEAD receipts. The fresh authenticated Control Centre report agrees with the
+starting corpus: **24/377/1,624,963/30,865; 70 hard/242 advisory**, no two-homes
+or stale claims, 3,115/3,115 documents checked for links with no dead-link
+finding, housekeeping 13/13 and enforcement 11/11. (Coverage reflects the
+snapshot at `c555cf8`, before these audit artifacts were added.)
+
+**Chapter preservation: 377/377 registered live chapter files hash-identical**
+between the starting checkout and the final public rehearsal; per-file SHA-256
+receipts are included. All summary counts and finding-kind totals are unchanged.
+
+Seven reading sites returned HTTP 200: desk, Adaptation Talent, writing guide,
+Sara, kit, StoryOS and Soul Library. The desk's live HTML contains the thirteen
+count and Sara link and no old “twelve repositories” pill. Desk Pages at
+`c555cf8` completed successfully. The kit's separate Pages job for this pass was
+still queued at the recorded CI snapshot; its existing site returned 200 and
+no kit reader-page source changed. That queued deployment is not reported as
+completed.
+
+Durable evidence: [`account-audit/maintenance-2026-10-16/`](account-audit/maintenance-2026-10-16/)
+contains the three-format final audit, clone inventory/HEADs, before/after stale
+claim evidence, test transcripts, chapter-integrity hashes, CI status snapshot
+and live-site checks, with SHA-256 checksums. Read its index for snapshot limits.
 
 ## Operating and recovery limits
 

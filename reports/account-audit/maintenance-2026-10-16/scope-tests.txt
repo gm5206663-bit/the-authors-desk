@@ -1,0 +1,12 @@
+SCOPE FIXTURE — does the gate notice when its inputs change?
+================================================================
+  clean book passes                                          caught (exit 0)
+  reader edition missing a chapter                           caught (exit 1)
+  live text loses its speech (dialogue floor)                caught (exit 1)
+  published chapter with no author edition                   caught (exit 1)
+  dead directory beside the live one does not fail the book  caught (exit 0)
+  dead directory reported, not silently skipped              reported
+  exemption citing a receipt that does not exist             caught (exit 1)
+================================================================
+SCOPE FIXTURE: 7 caught, 0 missed
+every way the scope can shrink was seen to fail
