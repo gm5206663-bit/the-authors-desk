@@ -70,6 +70,7 @@ delivery procedures. A [single registry](../agents/registry.json) owns repositor
 project, command and exercise references; the readable repository index is
 generated from it and checked against it. There is no copied chapter/rank table.
 
+A portable bootstrap packet supports a fresh conversation or missing-access handoff.
 Five templates cover handoff, advisory task claim, decision, source and executed
 check receipts. They are empty templates, not fabricated active assignments.
 Three worked examples distinguish a real navigation repair, a prepared ruling
@@ -102,7 +103,7 @@ mirror remains intentional; this rollout does not create a new doctrine copy.
 
 Local executed checks:
 
-- Agent guidance regressions: **44/44 passing**, including clean/broken registry,
+- Agent guidance regressions: **46/46 passing**, including clean/broken registry,
   missing sources, stale generated index, unsafe paths, missing permission fields,
   handoff validation, clone failure and no registry-command execution.
 - Local guidance check and full sibling-account path check: zero errors across

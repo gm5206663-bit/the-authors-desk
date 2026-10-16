@@ -3,6 +3,10 @@
 **Purpose:** reach the correct owner, current source and permission boundary before
 editing. This is navigation, not a new story bible or a grant of authority.
 
+For a new conversation, pass the agent [BOOTSTRAP.txt](BOOTSTRAP.txt) or this page.
+If the agent cannot access the sources, request the minimum relevant files at a
+stated revision; do not pretend the missing context was read.
+
 ## First five minutes
 
 1. Read the user's actual task. Name the deliverable and the target project.

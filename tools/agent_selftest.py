@@ -131,6 +131,14 @@ class GuidanceTests(unittest.TestCase):
     def test_clean_guidance_bundle(self):
         self.assertEqual(self.errors(), [])
 
+    def test_bootstrap_missing(self):
+        (self.root / 'agents/BOOTSTRAP.txt').unlink()
+        self.assertTrue(self.errors())
+
+    def test_bootstrap_loses_canonical_link(self):
+        (self.root / 'agents/BOOTSTRAP.txt').write_text('Unusable stale packet')
+        self.assertTrue(self.errors())
+
     def test_required_page_missing(self):
         (self.root / 'agents/PERMISSIONS.md').unlink()
         self.assertTrue(self.errors())

@@ -227,6 +227,9 @@ def check(root=ROOT, account_root=None):
     index = root / 'agents/REPOSITORIES.md'
     if not index.exists() or index.read_text(encoding='utf-8') != render_index(registry):
         errors.append('guidance: generated repository index differs from registry')
+    bootstrap = root / 'agents/BOOTSTRAP.txt'
+    if not bootstrap.is_file() or START_URL not in bootstrap.read_text(encoding='utf-8'):
+        errors.append('guidance: missing bootstrap or canonical start link')
     for page in PAGES:
         path = root / 'agents' / page
         if not path.is_file() or not path.read_text().strip():
