@@ -1,0 +1,52 @@
+name: agent-guidance
+
+# Validate local instructions and their public cross-repository dependencies.
+# External source edits do not push this repo, hence the weekly check as well.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '43 5 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: agent-guidance-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  guidance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.11'
+      - name: Local onboarding regression fixtures
+        run: python3 tools/agent_selftest.py
+      - name: Local guidance contract
+        run: python3 tools/agent_check.py
+      - name: Prepare the public source set — clone failures are fatal
+        run: python3 tools/agent_sources.py --root "$RUNNER_TEMP/agent-account"
+      - name: Verify all declared evidence paths and record actual revisions
+        run: |
+          set -o pipefail
+          python3 tools/agent_check.py --root "$RUNNER_TEMP/agent-account" | tee agent-guidance-result.txt
+      - name: Scope on the summary
+        if: always()
+        run: |
+          {
+            echo '## Agent guidance — declared public dependencies only'
+            echo 'The triggering desk revision plus sequential public clones; not an atomic snapshot.'
+            echo 'No registry commands are executed. Source existence is not author approval or canon verification.'
+            if [ -f agent-guidance-result.txt ]; then
+              echo '```'
+              cat agent-guidance-result.txt
+              echo '```'
+            else
+              echo 'Cross-repository check did not finish: do not interpret this run as complete.'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
