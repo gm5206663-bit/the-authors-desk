@@ -1,0 +1,8 @@
+COVERAGE: published-site — 122 files checked · 2 stage(s) with state.txt: dragon_prince_yuan, soul_land_4
+VERIFY_STAGE: FAIL (122 files checked, 4 issues)
+  [FAIL] dragon_prince_yuan/index.html: size drift (6210 != 5375) — stale build
+  [FAIL] dragon_prince_yuan/state.json: size drift (5939 != 4795) — stale build
+  [FAIL] dragon_prince_yuan/state.txt: size drift (1891 != 2392) — stale build
+  [FAIL] dragon_prince_yuan/state.txt: missing 'RULES OF ENGAGEMENT'
+
+CI: nothing failed outside the pinned set (4 documented dragon_prince_yuan issue(s) awaiting the author's ruling).

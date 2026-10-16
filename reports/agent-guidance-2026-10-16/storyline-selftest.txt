@@ -1,0 +1,158 @@
+CONTROL CENTRE SELFTEST
+negative tests for validate.py — every rule gets a bad case and a good case
+
+Baseline
+--------
+  ok    minimal valid firewall passes
+  ok    valid firewall without provenance passes (provenance is optional)
+  ok    array of two valid contributions passes
+
+Parse level
+-----------
+  ok    malformed JSON is rejected
+  ok    empty array is rejected
+  ok    non-object contribution is rejected
+
+Gate 1 - unreadable script
+--------------------------
+  ok    CJK in a string is rejected
+  ok    kana is rejected
+  ok    hangul is rejected
+  ok    em dash and en dash are allowed (not a blanket non-ASCII ban)
+  ok    box-drawing characters are allowed
+  ok    bullet marker is allowed
+
+Gate 2 - literal backslash-n (decoded values only)
+--------------------------------------------------
+  ok    a real newline inside a JSON string is allowed
+  ok    a multi-line belief with several newlines is allowed
+  ok    a literal backslash-n surviving into the VALUE is rejected
+  ok    a literal backslash-n nested deep in the structure is rejected
+
+Gate 1 - CJK hidden behind a unicode escape
+-------------------------------------------
+  ok    CJK written as a \u escape is still rejected
+  ok    CJK written directly is rejected
+
+Filename law
+------------
+  ok    filename with a space is rejected
+  ok    filename with CJK is rejected
+  ok    underscore/dot/hyphen filename is allowed
+
+Envelope
+--------
+  ok    missing kind is rejected
+  ok    unknown kind is rejected
+  ok    kind 'project' is recognised as a valid kind name
+  ok    kind 'firewall' is recognised as a valid kind name
+  ok    kind 'anchor' is recognised as a valid kind name
+  ok    kind 'canon' is recognised as a valid kind name
+  ok    kind 'lock' is recognised as a valid kind name
+  ok    kind 'decision' is recognised as a valid kind name
+  ok    kind 'correction' is recognised as a valid kind name
+  ok    kind 'note' is recognised as a valid kind name
+
+Required fields, per kind
+-------------------------
+  ok    firewall: missing 'who' is rejected
+  ok    firewall: missing 'state' is rejected
+  ok    firewall: missing 'topic' is rejected
+  ok    firewall: missing 'earliest_change' is rejected
+  ok    firewall: missing 'rule' is rejected
+  ok    project: missing 'id' is rejected
+  ok    project: missing 'name' is rejected
+  ok    project: missing 'path' is rejected
+  ok    project: missing 'status' is rejected
+  ok    project: missing 'live_edge' is rejected
+  ok    anchor: missing 'anchor' is rejected
+  ok    anchor: missing 'year' is rejected
+  ok    canon: missing 'claim' is rejected
+  ok    canon: missing 'confidence' is rejected
+  ok    lock: missing 'lock' is rejected
+  ok    lock: missing 'value' is rejected
+  ok    decision: missing 'decision' is rejected
+  ok    decision: missing 'reason' is rejected
+  ok    correction: missing 'was' is rejected
+  ok    correction: missing 'now' is rejected
+  ok    correction: missing 'reason' is rejected
+  ok    note: missing 'text' is rejected
+
+Reserved fields
+---------------
+  ok    reserved field 'authority_order' is rejected
+  ok    reserved field 'seven_gates' is rejected
+  ok    reserved field 'gate_scope_warning' is rejected
+  ok    reserved field '_comment' is rejected
+
+Firewall states
+---------------
+  ok    state 'KNOWN' is accepted
+  ok    state 'KNOWN PARTLY' is accepted
+  ok    state 'SUSPICION' is accepted
+  ok    state 'DISBELIEF' is accepted
+  ok    state 'UNKNOWN' is accepted
+  ok    state 'FALSE BELIEF' is accepted
+  ok    state 'HIDDEN' is accepted
+  ok    state 'MAYBE' is rejected
+  ok    state 'known' is rejected
+  ok    state 'Known' is rejected
+  ok    state 'PROBABLY KNOWN' is rejected
+  ok    state 'HIDDEN FROM READER' is rejected
+  ok    empty state is rejected as a missing field
+  ok    short earliest_change warns but still passes
+
+Canon confidence tags
+---------------------
+  ok    confidence 'fan' needs no sources
+  ok    confidence 'design' needs no sources
+  ok    confidence 'user ruling' needs no sources
+  ok    confidence 'on page' needs no sources
+  ok    confidence 'reported' needs no sources
+  ok    confidence 'canon' with sources passes
+  ok    confidence 'canon' without sources is rejected
+  ok    undefined confidence tag is rejected
+
+Project rules
+-------------
+  ok    valid project passes
+  ok    status 'live' is accepted
+  ok    status 'active' is accepted
+  ok    status 'gate-pass' is accepted
+  ok    status 'portable' is accepted
+  ok    status 'reference' is accepted
+  ok    status 'template' is accepted
+  ok    status 'external' is accepted
+  ok    status 'paused' is accepted
+  ok    status 'superseded' is accepted
+  ok    undefined project status is rejected
+  ok    project id with uppercase is rejected
+  ok    project id with a hyphen is rejected
+  ok    project id with underscores is accepted
+
+Correction rule
+---------------
+  ok    correction with was == now is rejected
+  ok    correction with a real change passes
+
+Duplicate detection
+-------------------
+  ok    two identical contributions in one file are rejected
+  ok    two contributions differing in a required field pass
+
+Warnings must not block ingestion
+---------------------------------
+  ok    unrecognised field warns but passes
+  ok    decision without authorized_by warns but passes
+
+Self-referential trap (the recurring failure)
+---------------------------------------------
+  ok    a note describing the placeholder gate is not itself flagged
+  ok    a note naming the firewall states is not itself flagged
+  ok    a note reporting a zero count is not itself flagged
+
+==============================================================
+  102/102 checks passed
+  every rejection rule fires on its bad case and stays
+  silent on its good case
+==============================================================

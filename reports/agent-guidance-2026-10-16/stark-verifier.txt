@@ -1,0 +1,28 @@
+[PASS] G1 unreadable-script
+         · scanned 25 files, 0 hits (check: CJK regex per line)
+[PASS] G2 backslash-n
+         · scanned project text (self excluded by scope rule), 0 hits
+[PASS] G3 digits-in-prose
+         · 5 chapters, prose outside fences, 0 digits
+[PASS] G4 dialogue-floor
+         · Chapter_01_Before_the_News.md: 96 dialogue lines
+         · Chapter_02_The_Albatross.md: 83 dialogue lines
+         · Chapter_03_The_Return.md: 67 dialogue lines
+         · Chapter_04_The_Workshop_Rebirth.md: 72 dialogue lines
+         · Chapter_05_Gulmira.md: 48 dialogue lines
+[PASS] G5 anchor-order
+         · Chapter_01_Before_the_News.md: anchor 2008 OK
+         · Chapter_02_The_Albatross.md: anchor 2008 (same-era sequence, allowed)
+         · Chapter_03_The_Return.md: anchor 2008 (same-era sequence, allowed)
+         · Chapter_04_The_Workshop_Rebirth.md: anchor 2008 (same-era sequence, allowed)
+         · Chapter_05_Gulmira.md: anchor 2008 (same-era sequence, allowed)
+         · LIMIT: single-anchor order only; span-contiguity needs start-end panels
+[PASS] G6 placeholders
+         · 5 chapters, 0 placeholders (foundation TBDs out of scope)
+[PASS] G7 marker-discipline
+         · markers fenced only; cards ≤1 and last
+[PASS] M1 manifest-edge
+         · edge ch5 matches 5 chapter files
+[PASS] M2 forbidden-future
+         · denylist ['Chitauri', 'Ultron', 'Extremis', 'Vibranium', 'Sokovia', 'Blip', 'Thanos', 'Avengers', 'Infinity'] absent from prose
+TOTAL: PASS — 0 failures

@@ -1,0 +1,2 @@
+COVERAGE: 26 of 26 checks ran — kit /tmp/agent-account/soul-land-universal-kit
+sentinel: 26 pass / 0 warn / 0 fail — 26 checks

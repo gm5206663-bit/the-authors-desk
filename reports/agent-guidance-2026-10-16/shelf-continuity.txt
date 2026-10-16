@@ -1,0 +1,2 @@
+COVERAGE: 24 chapter file(s) read from /tmp/agent-account/soul-land-universal-kit/soul_land_devouring_dragon/chapters
+continuity lint: PASS — 8 timeline rows monotonic; ch1–24 covered in TIMELINE and CONTINUITY; 35 place citations all valid

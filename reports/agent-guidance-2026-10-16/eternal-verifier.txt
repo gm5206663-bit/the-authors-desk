@@ -1,0 +1,24 @@
+[PASS] G1 unreadable-script
+         · scanned 23 files, 0 hits (check: CJK regex per line)
+[PASS] G2 backslash-n
+         · scanned project text (self excluded by scope rule), 0 hits
+[PASS] G3 digits-in-prose
+         · 3 chapters, prose outside fences, 0 digits
+[PASS] G4 dialogue-floor
+         · Chapter_01_The_Weight_of_Waking.md: 24 dialogue lines
+         · Chapter_02_First_Crew.md: 38 dialogue lines
+         · Chapter_03_The_First_Shore.md: 34 dialogue lines
+[PASS] G5 anchor-order
+         · Chapter_01_The_Weight_of_Waking.md: FORGE anchor (first only) OK
+         · Chapter_02_First_Crew.md: anchor -5000 OK
+         · Chapter_03_The_First_Shore.md: anchor -5000 (same-era sequence, allowed)
+         · LIMIT: single-anchor order only; span-contiguity needs start-end panels
+[PASS] G6 placeholders
+         · 3 chapters, 0 placeholders (foundation TBDs out of scope)
+[PASS] G7 marker-discipline
+         · markers fenced only; cards ≤1 and last
+[PASS] M1 manifest-edge
+         · edge ch3 matches 3 chapter files
+[PASS] M2 forbidden-future
+         · denylist ['Uni-Mind', 'Tiamut', 'Emergence', 'Blip', 'Thanos', 'Kro'] absent from prose
+TOTAL: PASS — 0 failures

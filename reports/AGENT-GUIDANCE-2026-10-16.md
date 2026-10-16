@@ -38,13 +38,33 @@ Supergirl contracts remain intact beneath a short navigation block.
 | the-universal-storyline-creation | `0684bf3` |
 
 Fresh tokenless clone URLs were used; pre-existing local modified checkouts were
-not reset or overwritten. The remote heads will be checked again before pushing.
+not reset or overwritten. All remote heads were re-fetched and matched these bases immediately before committing; no concurrent work was overwritten.
 
 ## Delivered revision
 
-At this receipt's initial write, implementation is prepared and locally checked;
-publication and asynchronous CI are not yet claimed complete. The publication
-addendum will record exact pushed revisions and remote results.
+Published. The guide destination went first (`a632ef0`), then the other entry
+links/mirror repair, then the cross-repository workflow (`a392aab`), then the
+portable bootstrap and final 46-test suite (`0c566f1`). Destination-before-links
+avoided pointing new agent entries at an unpublished page.
+
+| Repository | Delivered implementation |
+|---|---|
+| adaptation-talent | `1b43ad6` |
+| gm5206663-bit | `b80f18f` |
+| how-to-write-fanfiction | `d71e676` |
+| mcu_eternal_fanfic | `86625e3` |
+| pokemon-adaptation | `ac7b08a` |
+| sara | `dc3a656` |
+| soul-land-universal-kit | `b255c34` |
+| soul-library | `533a787` |
+| stark_heir | `5671e8b` |
+| storyos-site | `98932d0` |
+| supergirl-adrian-vale | `902cd16` |
+| the-authors-desk | `0c566f1` |
+| the-universal-storyline-creation | `0293bda` |
+
+Full revisions are in the [evidence bundle](agent-guidance-2026-10-16/implementation-revisions.json).
+This receipt's later evidence-only commit does not alter the tested implementation.
 
 ## Files changed
 
@@ -124,8 +144,36 @@ Local executed checks:
   with two acceptance-fixture failures reproduced unchanged in a clean baseline.
   Those results are not called a passing raw selftest.
 
-Remote CI/Pages and post-push public-source validation are pending at initial
-publication; no uncompleted run is described as successful here.
+### Remote and fresh-source verification
+
+- Desk guidance CI at `0c566f1`: [38869141663](https://github.com/gm5206663-bit/the-authors-desk/actions/runs/38869141663), **completed success**. It runs all 46 fixtures, prepares public sources and validates the cross-repository paths.
+- Desk navigation CI: [38869141676](https://github.com/gm5206663-bit/the-authors-desk/actions/runs/38869141676), **completed success**.
+- Kit regression CI including mirror parity: [38868992829](https://github.com/gm5206663-bit/soul-land-universal-kit/actions/runs/38868992829), **completed success**.
+- Shelf sentinel: [38868994868](https://github.com/gm5206663-bit/soul-library/actions/runs/38868994868), **completed success**.
+- Adaptation Talent verify [38868979040](https://github.com/gm5206663-bit/adaptation-talent/actions/runs/38868979040), Sara verify [38868990190](https://github.com/gm5206663-bit/sara/actions/runs/38868990190), guide verify [38868983906](https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/runs/38868983906): **completed success**.
+- Existing StoryOS pinned wrapper [38868999508](https://github.com/gm5206663-bit/storyos-site/actions/runs/38868999508) and Supergirl pinned wrapper [38869001056](https://github.com/gm5206663-bit/supergirl-adrian-vale/actions/runs/38869001056): **completed success**, with their disclosed baseline findings still present.
+
+A separate fresh public-source rehearsal preserved the clean triggering desk
+checkout at `0c566f1`, cloned the other public revisions and found **zero guidance
+errors across all 13 checkouts**, with no dirty-tree markers. All 13 public raw
+agent entry files returned HTTP 200 and contained the canonical starting link;
+the starting page itself also returned 200. Authenticated owner inventory still
+showed 13 public repositories and zero archived.
+
+**Preservation:** all **377 registered live chapter files** compare byte-for-byte
+with their base Git objects, with per-file SHA-256 evidence. The account audit
+remains **24 books / 377 chapters / 1,624,963 words / 30,865 spoken lines; 70 hard
+and 242 advisory**. No new dead-link, stale-claim or two-homes finding; coverage
+in that snapshot is 3,150 linked documents and 2,433 claim-scanned documents.
+
+Kit, shelf, doctrine, Sara and guide Pages jobs completed success on their new
+revisions. The desk Pages job for `0c566f1` was still in progress at the archived
+CI snapshot; it is not reported as completed by that snapshot. Source documents
+and all new entry links are already public independently of Pages deployment.
+
+[Evidence index](agent-guidance-2026-10-16/README.md): exact source revisions,
+46-test output, baseline/after failures, shelf before/after, chapter integrity,
+three-format account report, CI/public-entry checks and SHA-256 checksums.
 
 ## Known failures
 
@@ -151,8 +199,6 @@ reconciliation remains a source/authority question, not an invented unlock.
 
 ## Next safe action
 
-Publish the destination guide first, then the scoped entry links and mirror fix;
-verify the public sources and CI; append exact revision/run evidence. Future
-agents should begin at [START-HERE](../agents/START-HERE.md), select the named task,
+The rollout is published and verified. Future agents should begin at [START-HERE](../agents/START-HERE.md), select the named task,
 load local authority and state, and leave a filled handoff in the task's existing
 canonical home. No new story target is selected by this handoff.

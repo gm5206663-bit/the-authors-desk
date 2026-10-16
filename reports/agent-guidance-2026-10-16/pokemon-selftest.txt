@@ -1,0 +1,28 @@
+STYLE GATE SELFTEST
+------------------------------------------------------------
+  ok   clean prose passes
+  ok   under the band is caught
+  ok   over the band is caught
+  ok   a sentence over sixty words is caught
+  ok   "the way" is caught
+  ok   "bare" is caught
+  ok   a digit in prose is caught
+  ok   a count-number alone is caught
+  ok   CJK is caught
+  ok   kana is caught
+  ok   System word 'system' is caught
+  ok   System word 'menu' is caught
+  ok   System word 'screen' is caught
+  ok   System word 'level up' is caught
+  ok   System word 'gauge' is caught
+  ok   System word 'interface' is caught
+  ok   banned token 'Hoenn' is caught
+  ok   banned token 'Storm-Vault Drake' is caught
+  ok   banned token 'Cliff-Breaker' is caught
+  ok   a panel line is caught
+  ok   a 12-gram run shared with ore is caught
+  ok   a rewritten beat passes the copy gate
+  ok   a digit inside a heading is not a prose digit
+  ok   a table row with digits is not prose
+------------------------------------------------------------
+  24/24 checks passed

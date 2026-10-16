@@ -1,0 +1,5 @@
+  [ok ] a full run with every check passing passes           exit=0 (want 0)
+  [ok ] a full run with one failed check FAILS               exit=1 (want 1)
+  [ok ] no kit without --partial fails (scope refusal)       exit=1 (want 1)
+  [ok ] no kit WITH --partial delivers what it can           exit=0 (want 0)
+sentinel selftest: PASSED
