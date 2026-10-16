@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "scope": "Navigation and evidence paths, not a story-state store or an authorization grant.",
+  "owner": "gm5206663-bit",
+  "repositories": [
+    {
+      "name": "the-authors-desk",
+      "purpose": "Account navigation, author decision briefs, measured register and dated evidence.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "agents/START-HERE.md",
+        "THE-AUTHORS-DESK.md"
+      ],
+      "current_state": [
+        "THE-AUTHORS-DESK.md",
+        "repos.txt"
+      ],
+      "commands": [
+        {
+          "id": "desk-check",
+          "argv": [
+            "python3",
+            "tools/check.py"
+          ],
+          "purpose": "Current desk navigation and map"
+        },
+        {
+          "id": "desk-tests",
+          "argv": [
+            "python3",
+            "tools/selftest.py"
+          ],
+          "purpose": "Desk navigation fixtures"
+        },
+        {
+          "id": "agent-check",
+          "argv": [
+            "python3",
+            "tools/agent_check.py"
+          ],
+          "purpose": "Local guidance structure"
+        },
+        {
+          "id": "agent-tests",
+          "argv": [
+            "python3",
+            "tools/agent_selftest.py"
+          ],
+          "purpose": "Guidance regression fixtures"
+        }
+      ],
+      "boundaries": [
+        "No serial prose lives here.",
+        "Decision briefs are not author approval."
+      ]
+    },
+    {
+      "name": "sara",
+      "purpose": "Agent identity, historical incarnations and operating principles.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "SARA.md",
+        "AGENT-OPERATING-PROFILE.md",
+        "docs/04_incarnations_and_loading.md"
+      ],
+      "current_state": [
+        "AGENTS.md"
+      ],
+      "commands": [
+        {
+          "id": "sara-check",
+          "argv": [
+            "python3",
+            "tools/check.py"
+          ],
+          "purpose": "Manifest and markdown links"
+        },
+        {
+          "id": "sara-ledger",
+          "argv": [
+            "python3",
+            "tools/check_sara.py"
+          ],
+          "purpose": "Self-file ledger shape"
+        }
+      ],
+      "boundaries": [
+        "Identity editions and the dated operating profile are not live project status.",
+        "Preserve provenance; do not rewrite historical editions to match today."
+      ]
+    },
+    {
+      "name": "soul-land-universal-kit",
+      "purpose": "Soul Land serial homes, method kit and account measurement tools.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "AGENTS.md",
+        "PROJECTS.md"
+      ],
+      "current_state": [
+        "README.md",
+        "PROJECTS.md"
+      ],
+      "commands": [
+        {
+          "id": "account-tests",
+          "argv": [
+            "python3",
+            "SOUL_LAND_UNIVERSAL_KIT/tools/account_selftest.py"
+          ],
+          "purpose": "Account detector regressions"
+        },
+        {
+          "id": "gate-tests",
+          "argv": [
+            "python3",
+            "SOUL_LAND_UNIVERSAL_KIT/tools/live_book_gate.py",
+            "--selftest"
+          ],
+          "purpose": "Live gate regressions"
+        }
+      ],
+      "boundaries": [
+        "Each serial has its own source, epoch and gate; load the project route before writing.",
+        "Golden Lion ownership requires explicit author coordination; general management is not permission to draft it.",
+        "The root REGISTER.md is kit-scoped; the complete account register lives at the desk."
+      ]
+    },
+    {
+      "name": "adaptation-talent",
+      "purpose": "Universal Adaptation Talent doctrine, holder modules and provenance.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "QUICK-REFERENCE.md",
+        "provenance/COPIES-AND-TWINS.md"
+      ],
+      "current_state": [
+        "README.md",
+        "canon/MASTER-FOUNDATION.md"
+      ],
+      "commands": [
+        {
+          "id": "talent-check",
+          "argv": [
+            "python3",
+            "tools/check.py"
+          ],
+          "purpose": "Manifest and links"
+        },
+        {
+          "id": "talent-counts",
+          "argv": [
+            "python3",
+            "tools/check_counts.py"
+          ],
+          "purpose": "Holder count consistency"
+        }
+      ],
+      "boundaries": [
+        "Doctrine is not a live serial checkpoint.",
+        "Refresh the manifest in the same commit as a tracked change."
+      ]
+    },
+    {
+      "name": "how-to-write-fanfiction",
+      "purpose": "Writing craft and production method, examples and gate teaching.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "CONTRIBUTING.md",
+        "VERSION_OF_RECORD.md"
+      ],
+      "current_state": [
+        "VERSION_OF_RECORD.md"
+      ],
+      "commands": [
+        {
+          "id": "guide-demo",
+          "argv": [
+            "python3",
+            "examples/minigate.py",
+            "--selftest"
+          ],
+          "purpose": "Demo defect detection"
+        },
+        {
+          "id": "guide-links",
+          "argv": [
+            "python3",
+            "tools/check_links.py"
+          ],
+          "purpose": "Relative links"
+        },
+        {
+          "id": "guide-manifest",
+          "argv": [
+            "python3",
+            "tools/check_manifest.py"
+          ],
+          "purpose": "Manifest integrity"
+        }
+      ],
+      "boundaries": [
+        "Examples teach a method; they are not approval to draft or change another serial.",
+        "Refresh the manifest with changed tracked files."
+      ]
+    },
+    {
+      "name": "soul-library",
+      "purpose": "Public reading projection; source repositories own chapter text.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md"
+      ],
+      "current_state": [
+        "data/serials.json"
+      ],
+      "commands": [
+        {
+          "id": "shelf-tests",
+          "argv": [
+            "python3",
+            "tools/sentinel.py",
+            "--selftest"
+          ],
+          "purpose": "Sentinel fixtures"
+        }
+      ],
+      "boundaries": [
+        "Do not repair story prose on the shelf; fix its source first, then sync under local instructions.",
+        "The full sentinel needs the kit checkout; the selftest is not a live shelf comparison."
+      ]
+    },
+    {
+      "name": "storyos-site",
+      "purpose": "StoryOS publishing infrastructure and generated stages.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "HANDOFF.md"
+      ],
+      "current_state": [
+        "HANDOFF.md"
+      ],
+      "commands": [
+        {
+          "id": "stage-check",
+          "argv": [
+            "python3",
+            "framework/scripts/ci_run.py"
+          ],
+          "purpose": "Existing stage check with its documented baseline"
+        }
+      ],
+      "boundaries": [
+        "Generated output is not the editing authority.",
+        "Existing pinned issues are not permission to hide new failures."
+      ]
+    },
+    {
+      "name": "the-universal-storyline-creation",
+      "purpose": "Portable foundation workflow and generated Control Centre.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "PROTOCOL.md",
+        "foundation/README.md"
+      ],
+      "current_state": [
+        "state/"
+      ],
+      "commands": [
+        {
+          "id": "storyline-tests",
+          "argv": [
+            "python3",
+            "tools/selftest.py"
+          ],
+          "purpose": "Contribution validation fixtures"
+        }
+      ],
+      "boundaries": [
+        "Edit source state, not generated index.html or TRANSFER_BOOTSTRAP.txt.",
+        "Do not point the serial foundation gate at this toolkit as though it were a serial."
+      ]
+    },
+    {
+      "name": "gm5206663-bit",
+      "purpose": "Public account profile and navigation pointers.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md"
+      ],
+      "current_state": [
+        "README.md"
+      ],
+      "commands": [],
+      "boundaries": [
+        "Keep profile claims sourced to owner repositories; no separate project-state ledger.",
+        "There is no local story gate here; use the account-wide checks."
+      ]
+    },
+    {
+      "name": "supergirl-adrian-vale",
+      "purpose": "Supergirl serial; local authority/provenance and acceptance contract.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "AGENTS.md",
+        "HANDOFF.md",
+        "foundation/AUTHORITY_AND_PROVENANCE.md"
+      ],
+      "current_state": [
+        "foundation/CURRENT_STATE_MANIFEST.json",
+        "foundation/USER_LOCKS.json"
+      ],
+      "commands": [
+        {
+          "id": "supergirl-tests",
+          "argv": [
+            "python3",
+            "tools/selftest.py"
+          ],
+          "purpose": "Project checker fixtures"
+        },
+        {
+          "id": "supergirl-check",
+          "argv": [
+            "python3",
+            "tools/verify.py"
+          ],
+          "purpose": "Project structural verification; inspect failures, not just CI baseline"
+        }
+      ],
+      "boundaries": [
+        "Preserve the existing local AGENTS contract and explicit acceptance procedure.",
+        "No sentence-repair delegation is supplied by this navigation pass.",
+        "Highest filename and a green CI baseline do not establish author acceptance.",
+        "Run actual checks and disclose failures; a pinned CI baseline is not a clean selftest result."
+      ]
+    },
+    {
+      "name": "mcu_eternal_fanfic",
+      "purpose": "MCU Eternal serial; local gravity/kinetic foundation.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "HANDOFF.md",
+        "MASTER_PROJECT_BIBLE.md"
+      ],
+      "current_state": [
+        "foundation/CURRENT_STATE_MANIFEST.json",
+        "foundation/STATUS_PANEL.md"
+      ],
+      "commands": [
+        {
+          "id": "eternal-tests",
+          "argv": [
+            "python3",
+            "tools/mcu_verify.py",
+            "--selftest"
+          ],
+          "purpose": "Verifier fixtures"
+        },
+        {
+          "id": "eternal-check",
+          "argv": [
+            "python3",
+            "tools/mcu_verify.py"
+          ],
+          "purpose": "Current project verifier"
+        }
+      ],
+      "boundaries": [
+        "Read local pause/continuation instructions; no blanket restart authorization.",
+        "MCU Order proposals require author sign-off; do not infer it from the doctrine."
+      ]
+    },
+    {
+      "name": "stark_heir",
+      "purpose": "Stark Heir MCU serial; separate continuity from MCU Eternal.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "HANDOFF.md",
+        "MASTER_PROJECT_BIBLE.md"
+      ],
+      "current_state": [
+        "foundation/STATUS_PANEL.md",
+        "STATUS.md"
+      ],
+      "commands": [
+        {
+          "id": "stark-tests",
+          "argv": [
+            "python3",
+            "tools/mcu_verify.py",
+            "--selftest"
+          ],
+          "purpose": "Verifier fixtures"
+        },
+        {
+          "id": "stark-check",
+          "argv": [
+            "python3",
+            "tools/mcu_verify.py"
+          ],
+          "purpose": "Current project verifier"
+        }
+      ],
+      "boundaries": [
+        "Do not transfer state, powers or approvals from the sibling MCU serial."
+      ]
+    },
+    {
+      "name": "pokemon-adaptation",
+      "purpose": "Pokemon foundation with conflicting lifecycle descriptions requiring reconciliation.",
+      "entrypoint": "AGENTS.md",
+      "required_read": [
+        "README.md",
+        "foundation/RULINGS_LOG.md",
+        "foundation/OPEN_RULINGS.md",
+        "foundation/RAILS.md"
+      ],
+      "current_state": [
+        "foundation/STATUS.md",
+        "foundation/RULINGS_LOG.md"
+      ],
+      "commands": [
+        {
+          "id": "pokemon-tests",
+          "argv": [
+            "python3",
+            "tools/style_gate.py",
+            "--selftest"
+          ],
+          "purpose": "Gate selftest only, not a drafting unlock"
+        }
+      ],
+      "boundaries": [
+        "README, ruled records and stage-0 CI disagree about drafting status. Stop the dependent story action and reconcile evidence; this registry does not choose a ruling.",
+        "No chapter is authorized by this onboarding pass."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "golden-lion",
+      "repo": "soul-land-universal-kit",
+      "path": "soul_land_2_new",
+      "read": [
+        "README.md",
+        "HANDOFF.md"
+      ],
+      "current_state": [
+        "foundation/STATUS_PANEL.md"
+      ],
+      "restriction": "Existing agent ownership: explicit author coordination before edits."
+    },
+    {
+      "id": "fire-phoenix",
+      "repo": "soul-land-universal-kit",
+      "path": "soul_land_4_fire_phoenix",
+      "read": [
+        "README.md",
+        "foundation/NO_MISTAKE_LIVE_RULES.md"
+      ],
+      "current_state": [
+        "foundation/CURRENT_STATE_MANIFEST.json",
+        "foundation/STATUS_PANEL.md"
+      ],
+      "restriction": "Published edge and V2 candidate numbering are distinct; promotion is author-gated."
+    },
+    {
+      "id": "lan-shen",
+      "repo": "soul-land-universal-kit",
+      "path": "lan_shen",
+      "read": [
+        "README.md",
+        "foundation/OPEN_DECISIONS.md"
+      ],
+      "current_state": [
+        "foundation/CURRENT_STATE_MANIFEST.json",
+        "foundation/STATUS_PANEL.md"
+      ],
+      "restriction": "Re-cadence and A6 changes require the pending author decision."
+    },
+    {
+      "id": "adaptive-prodigy",
+      "repo": "soul-land-universal-kit",
+      "path": "adaptive_prodigy",
+      "read": [
+        "README.md",
+        "library/INDEX.md"
+      ],
+      "current_state": [
+        "README.md"
+      ],
+      "restriction": "Frozen reference: do not continue or revive."
+    },
+    {
+      "id": "grey-wolf",
+      "repo": "soul-land-universal-kit",
+      "path": "soul_land_2_the_grey_wolf",
+      "read": [
+        "README.md",
+        "foundation/HANDOFF.md"
+      ],
+      "current_state": [
+        "foundation/STATUS.md"
+      ],
+      "restriction": "Readiness is not selection: author must name the write-forward target."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "account-maintenance",
+      "owners": [
+        "the-authors-desk",
+        "soul-land-universal-kit"
+      ],
+      "guide": "TASK-ROUTES.md",
+      "commands": [
+        "desk-check",
+        "agent-check",
+        "account-tests"
+      ],
+      "approval": "Management within scope; story decisions remain gated."
+    },
+    {
+      "id": "chapter-writing",
+      "owners": [
+        "soul-land-universal-kit",
+        "supergirl-adrian-vale",
+        "stark_heir",
+        "mcu_eternal_fanfic",
+        "pokemon-adaptation"
+      ],
+      "guide": "TASK-ROUTES.md",
+      "commands": [],
+      "approval": "Requires named project and its current local permissions and gate; no universal ship command."
+    },
+    {
+      "id": "canon-research",
+      "owners": [
+        "soul-land-universal-kit",
+        "supergirl-adrian-vale",
+        "mcu_eternal_fanfic",
+        "stark_heir",
+        "pokemon-adaptation"
+      ],
+      "guide": "EVIDENCE-AND-SECURITY.md",
+      "commands": [],
+      "approval": "Research is not approval of a divergence; follow each project source/access rules."
+    },
+    {
+      "id": "publishing",
+      "owners": [
+        "soul-library",
+        "storyos-site",
+        "the-universal-storyline-creation"
+      ],
+      "guide": "TASK-ROUTES.md",
+      "commands": [
+        "shelf-tests",
+        "stage-check",
+        "storyline-tests"
+      ],
+      "approval": "Publish only authorized accepted source; source acceptance is not supplied by infrastructure tests."
+    },
+    {
+      "id": "doctrine-and-method",
+      "owners": [
+        "adaptation-talent",
+        "how-to-write-fanfiction",
+        "sara"
+      ],
+      "guide": "AUTHORITY-AND-STATE.md",
+      "commands": [
+        "talent-check",
+        "talent-counts",
+        "guide-links",
+        "guide-manifest",
+        "sara-check",
+        "sara-ledger"
+      ],
+      "approval": "No unapproved change to author locks or historical editions."
+    },
+    {
+      "id": "tool-maintenance",
+      "owners": [
+        "the-authors-desk",
+        "sara",
+        "soul-land-universal-kit",
+        "adaptation-talent",
+        "how-to-write-fanfiction",
+        "soul-library",
+        "storyos-site",
+        "the-universal-storyline-creation",
+        "supergirl-adrian-vale",
+        "mcu_eternal_fanfic",
+        "stark_heir",
+        "pokemon-adaptation"
+      ],
+      "guide": "TASK-ROUTES.md",
+      "commands": [
+        "agent-tests"
+      ],
+      "approval": "Red-test behavior changes; do not weaken standards or baseline new findings silently."
+    }
+  ]
+}

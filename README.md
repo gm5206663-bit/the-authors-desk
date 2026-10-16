@@ -1,9 +1,11 @@
 # THE AUTHOR'S DESK
 
-The control room for the whole account — **thirteen repositories, one read**. Three things live
-here and only here: the **desk** (every decision that is the author's to make), the
-**register** (every book and every chapter-bearing tree, measured), and the **records**
-(the dated close notes and audit artifacts of every operation).
+**For agents:** [local entry](AGENTS.md) · [account starting page](https://github.com/gm5206663-bit/the-authors-desk/blob/main/agents/START-HERE.md).
+
+The control room for the whole account — **thirteen repositories, one read**. This is the
+home of the **desk** (the author's decisions), the **register** (measured books and
+chapter-bearing trees), the **records** (dated operational evidence), and the shared
+**agent guide** (safe entry, task routing and handoffs).
 
 No serial's text lives in this repository. The texts live in their own homes — every Soul Land
 project in [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit),
@@ -17,6 +19,7 @@ the reading site in [`soul-library`](https://github.com/gm5206663-bit/soul-libra
 |---|---|
 | `THE-AUTHORS-DESK.md` | **The desk** — every decision awaiting the author, each with its evidence and both outcomes. The items no agent may rule on. |
 | `THE-COMPLETE-REGISTER.md` | **The register** — every book, every chapter-bearing tree, every count, generated. On 2026-10-13: 24 registered books · 377 chapters · 1,624,963 words · coverage 59 of 59 trees — reconciled the same day, see [`reports/REGISTER-RECONCILE-2026-10-13.md`](reports/REGISTER-RECONCILE-2026-10-13.md). |
+| [`agents/START-HERE.md`](agents/START-HERE.md) | The shared agent starting point — routes, permission/state boundaries, templates, examples and onboarding checks. |
 | `repos.txt` | The account map — which repository is the home of what. |
 | `docs/index.html` | The desk as a page — the front door on GitHub Pages: [gm5206663-bit.github.io/the-authors-desk](https://gm5206663-bit.github.io/the-authors-desk/). |
 | `reports/` | The dated records — close notes per lane, the account audit, the scope sweep, the CI rollout. Index in `reports/README.md`. |
